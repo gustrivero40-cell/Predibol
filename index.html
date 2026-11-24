@@ -8,7 +8,7 @@
 <div class="panel"><div class="kicker">🏟️ PARTIDO DEMO</div><h2>Clásico paceño</h2><div class="notice">PARTIDO DE EJEMPLO · No corresponde a una fixture oficial actual.</div><div class="match"><div class="club"><div class="crest">B</div><b>Bolívar</b><div class="small">La Academia</div></div><div class="vs">VS</div><div class="club"><div class="crest">T</div><b>The Strongest</b><div class="small">El Tigre</div></div></div><div class="small" style="text-align:center">Cada hinchada tiene su propio SÍ y NO.</div>
 <div class="scorecard"><div class="scorehead">🔵 HINCHADA DE BOLÍVAR</div><div class="scores"><div class="score yes"><strong id="by">58%</strong><span>SÍ · GANARÁ</span></div><div class="score no"><strong id="bn">42%</strong><span>NO · NO GANARÁ</span></div></div><div class="bars"><div class="barYes" id="bym" style="width:58%"></div><div class="barNo" id="bnm" style="width:42%"></div></div><div class="voteButtons"><button class="btn yes" id="byv" onclick="vote('bolivar','yes')">👍 SÍ, BOLÍVAR GANARÁ</button><button class="btn no" id="bnv" onclick="vote('bolivar','no')">👎 NO, NO GANARÁ</button></div><div class="feedback" id="bvnote">Tu voto: sin elegir</div></div>
 <div class="scorecard gold"><div class="scorehead">🟡 HINCHADA DE THE STRONGEST</div><div class="scores"><div class="score yes"><strong id="ty">54%</strong><span>SÍ · GANARÁ</span></div><div class="score no"><strong id="tn">46%</strong><span>NO · NO GANARÁ</span></div></div><div class="bars"><div class="barYes" id="tym" style="width:54%"></div><div class="barNo" id="tnm" style="width:46%"></div></div><div class="voteButtons"><button class="btn yes" id="tyv" onclick="vote('strongest','yes')">👍 SÍ, THE STRONGEST GANARÁ</button><button class="btn no" id="tnv" onclick="vote('strongest','no')">👎 NO, NO GANARÁ</button></div><div class="feedback" id="tvnote">Tu voto: sin elegir</div></div><button class="btn full" onclick="resetVotes()">Reiniciar mis votos de esta prueba</button><p class="small">Votos locales de prueba. No se suman a otros teléfonos.</p></div></section>
-<section id="trivia" class="view"><div class="panel"><div class="kicker">🧠 DOÑA · TRIVIA BETA</div><h2>Preguntas rápidas</h2><p class="small">Banco de preguntas de muestra; la actualización automática de actualidad aún no está conectada.</p><div id="quiz"></div><button class="btn gold full" onclick="newQuiz()">OTRA RONDA</button></div></section>
+<section id="trivia" class="view"><div class="panel"><div class="kicker">🧠 DOÑA · TRIVIA BETA</div><h2>Preguntas rápidas</h2><p class="small">Banco ampliado de 60 preguntas. Se mezclan al azar y se evita repetir las últimas preguntas en este teléfono.</p><div id="quiz"></div><button class="btn gold full" onclick="newQuiz()">OTRA RONDA</button></div></section>
 <section id="news" class="view"><div class="panel"><div class="kicker">📰 ACTUALIDAD</div><h2>Noticias · Deportes · Farándula</h2><div class="notice">La conexión automática a fuentes de actualidad aún no está habilitada. No mostramos noticias antiguas como si fueran de hoy.</div><div class="tilegrid" style="margin-top:12px"><div class="tile"><div class="emoji">🇧🇴</div><b>Bolivia</b><span class="small">Noticias por conectar</span></div><div class="tile"><div class="emoji">🌎</div><b>Mundo</b><span class="small">Noticias por conectar</span></div><div class="tile"><div class="emoji">🏆</div><b>Deportes</b><span class="small">Fixture por conectar</span></div><div class="tile"><div class="emoji">🎭</div><b>Farándula</b><span class="small">Tendencias por conectar</span></div></div></div></section>
 <section id="rank" class="view"><div class="panel"><div class="kicker">🏆 RANKING BETA</div><h2>Mis puntos</h2><div class="rankrow"><b>Trivia acertada</b><strong id="points">0 pts</strong></div><div class="rankrow"><b>Votos guardados</b><strong id="voteCount">0</strong></div><div class="notice" style="margin-top:12px">Ranking compartido entre jugadores requiere un servidor/backend. Esta demo solo muestra estadísticas de este dispositivo.</div></div></section>
 <div class="footer">PrediBol · Demo local · sin apuestas ni dinero real</div></main>
@@ -52,13 +52,47 @@ const questions=[
 {id:'q28',cat:'Mundo',level:'Media',q:'¿En qué continente se encuentra Egipto?',opts:['Asia','África','Europa','Oceanía'],a:1,exp:'La mayor parte de Egipto está en el noreste de África.'},
 {id:'q29',cat:'Mundo',level:'Media',q:'¿Qué idioma tiene más hablantes nativos en el mundo?',opts:['Inglés','Español','Mandarín','Árabe'],a:2,exp:'El chino mandarín es el idioma con más hablantes nativos.'},
 {id:'q30',cat:'Mundo',level:'Fácil',q:'¿Cuántos lados tiene un hexágono?',opts:['5','6','7','8'],a:1,exp:'Un hexágono tiene seis lados.'}
+
+{id:'q31',cat:'Bolivia',level:'Fácil',q:'¿Qué ciudad es sede del gobierno de Bolivia?',opts:['Sucre','La Paz','Potosí','Tarija'],a:1,exp:'La Paz es la sede de los órganos Ejecutivo y Legislativo.'},
+{id:'q32',cat:'Bolivia',level:'Media',q:'¿Qué departamento boliviano tiene como capital a Cobija?',opts:['Beni','Pando','Oruro','Chuquisaca'],a:1,exp:'Cobija es la capital del departamento de Pando.'},
+{id:'q33',cat:'Bolivia',level:'Fácil',q:'¿En qué departamento se encuentra el lago Titicaca?',opts:['La Paz','Santa Cruz','Tarija','Pando'],a:0,exp:'La parte boliviana del lago Titicaca está en La Paz.'},
+{id:'q34',cat:'Bolivia',level:'Media',q:'¿Qué ciudad boliviana es conocida por su Carnaval declarado Patrimonio de la Humanidad?',opts:['Oruro','Trinidad','Cobija','Montero'],a:0,exp:'El Carnaval de Oruro fue reconocido por la UNESCO.'},
+{id:'q35',cat:'Bolivia',level:'Fácil',q:'¿Cuál es el nombre de la moneda fraccionaria del boliviano?',opts:['Centavo','Peso chico','Real','Céntimo'],a:0,exp:'Un boliviano se divide en 100 centavos.'},
+{id:'q36',cat:'Bolivia',level:'Media',q:'¿Qué río forma parte de la cuenca amazónica en Bolivia?',opts:['Mamoré','Nilo','Rin','Támesis'],a:0,exp:'El río Mamoré pertenece a la cuenca amazónica.'},
+{id:'q37',cat:'Bolivia',level:'Fácil',q:'¿En qué departamento está el Parque Nacional Torotoro?',opts:['Potosí','Beni','Pando','Tarija'],a:0,exp:'El Parque Nacional Torotoro está en el norte de Potosí.'},
+{id:'q38',cat:'Bolivia',level:'Media',q:'¿Qué pueblo indígena tiene una fuerte presencia histórica en el altiplano boliviano?',opts:['Aymara','Guaraní','Chiquitano','Yuracaré'],a:0,exp:'El pueblo aymara tiene una presencia histórica importante en el altiplano.'},
+{id:'q39',cat:'Deportes',level:'Fácil',q:'¿Cuántos minutos dura cada tiempo de un partido de fútbol?',opts:['30','40','45','50'],a:2,exp:'Cada tiempo reglamentario dura 45 minutos.'},
+{id:'q40',cat:'Deportes',level:'Media',q:'¿Qué país ganó la Copa Mundial masculina de fútbol de 2022?',opts:['Francia','Brasil','Argentina','Alemania'],a:2,exp:'Argentina ganó la final de 2022.'},
+{id:'q41',cat:'Deportes',level:'Fácil',q:'¿En qué deporte se utiliza una raqueta y una pelota amarilla?',opts:['Tenis','Rugby','Vóley','Boxeo'],a:0,exp:'La pelota amarilla es característica del tenis moderno.'},
+{id:'q42',cat:'Deportes',level:'Media',q:'¿Cuántos anillos tiene el símbolo olímpico?',opts:['4','5','6','7'],a:1,exp:'El símbolo olímpico está formado por cinco anillos.'},
+{id:'q43',cat:'Deportes',level:'Fácil',q:'¿Qué selección es conocida como la Canarinha?',opts:['Uruguay','Brasil','Chile','Colombia'],a:1,exp:'Canarinha es el apodo de la selección brasileña.'},
+{id:'q44',cat:'Deportes',level:'Media',q:'¿En qué deporte se compite por sets y se puede ganar con un remate?',opts:['Voleibol','Maratón','Ciclismo','Natación'],a:0,exp:'El voleibol se juega por sets y permite remates.'},
+{id:'q45',cat:'Cultura',level:'Fácil',q:'¿Cuántos días tiene un año bisiesto?',opts:['364','365','366','367'],a:2,exp:'Un año bisiesto tiene 366 días.'},
+{id:'q46',cat:'Cultura',level:'Media',q:'¿Qué escritor boliviano escribió Raza de bronce?',opts:['Alcides Arguedas','Adela Zamudio','Óscar Alfaro','Jaime Sáenz'],a:0,exp:'Raza de bronce es una novela de Alcides Arguedas.'},
+{id:'q47',cat:'Cultura',level:'Fácil',q:'¿Qué celebración marca tradicionalmente el inicio del año nuevo?',opts:['Año Nuevo','Carnaval','Todos Santos','Navidad'],a:0,exp:'El Año Nuevo se celebra al comenzar el 1 de enero.'},
+{id:'q48',cat:'Cultura',level:'Media',q:'¿Qué baile boliviano es característico del Carnaval de Oruro?',opts:['Diablada','Cueca chilena','Samba carioca','Flamenco'],a:0,exp:'La Diablada es una de las danzas emblemáticas del Carnaval de Oruro.'},
+{id:'q49',cat:'Ciencia',level:'Fácil',q:'¿Cuántos huesos tiene normalmente un adulto?',opts:['106','206','306','406'],a:1,exp:'El esqueleto adulto suele tener 206 huesos.'},
+{id:'q50',cat:'Ciencia',level:'Media',q:'¿Qué fuerza mantiene a los planetas en órbita alrededor del Sol?',opts:['Magnetismo','Gravedad','Fricción','Electricidad'],a:1,exp:'La gravedad mantiene a los planetas ligados al Sol.'},
+{id:'q51',cat:'Ciencia',level:'Fácil',q:'¿Qué órgano usamos principalmente para respirar?',opts:['Pulmones','Estómago','Riñones','Páncreas'],a:0,exp:'Los pulmones realizan el intercambio de gases.'},
+{id:'q52',cat:'Ciencia',level:'Media',q:'¿Cuál es el símbolo químico del oro?',opts:['Ag','Au','Fe','O'],a:1,exp:'El símbolo químico del oro es Au.'},
+{id:'q53',cat:'Mundo',level:'Fácil',q:'¿Cuál es la capital de Perú?',opts:['Quito','Lima','Bogotá','La Paz'],a:1,exp:'Lima es la capital de Perú.'},
+{id:'q54',cat:'Mundo',level:'Media',q:'¿Qué país tiene forma de bota en los mapas?',opts:['Grecia','Italia','Noruega','Portugal'],a:1,exp:'La península italiana suele compararse con una bota.'},
+{id:'q55',cat:'Mundo',level:'Fácil',q:'¿En qué continente está Japón?',opts:['Europa','Asia','África','América'],a:1,exp:'Japón es un país insular de Asia oriental.'},
+{id:'q56',cat:'Mundo',level:'Media',q:'¿Qué moneda se utiliza en Japón?',opts:['Yuan','Won','Yen','Baht'],a:2,exp:'La moneda de Japón es el yen.'},
+{id:'q57',cat:'Mundo',level:'Fácil',q:'¿Cuál es el desierto cálido más grande del mundo?',opts:['Sahara','Gobi','Atacama','Kalahari'],a:0,exp:'El Sahara es el desierto cálido más extenso.'},
+{id:'q58',cat:'Mundo',level:'Media',q:'¿Qué país tiene como capital a Canberra?',opts:['Australia','Canadá','Nueva Zelanda','Irlanda'],a:0,exp:'Canberra es la capital de Australia.'},
+{id:'q59',cat:'Ciencia',level:'Fácil',q:'¿Qué estrella ilumina la Tierra durante el día?',opts:['Sirio','El Sol','Vega','Polaris'],a:1,exp:'El Sol es la estrella más cercana a la Tierra.'},
+{id:'q60',cat:'Cultura',level:'Fácil',q:'¿Cuántas letras tiene el alfabeto español actual?',opts:['26','27','28','29'],a:1,exp:'El alfabeto español actual tiene 27 letras.'}
 ];
 let current=[];
 function newQuiz(){
  const recent=JSON.parse(localStorage.getItem('predibol_recent_questions')||'[]');
  const available=questions.filter(q=>!recent.includes(q.id));
  const pool=available.length>=3?available:questions;
- current=pool.slice().sort(()=>Math.random()-.5).slice(0,3);
+ // Barajar sin sesgo y elegir tres preguntas distintas.
+ const shuffled=pool.slice();
+ for(let i=shuffled.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[shuffled[i],shuffled[j]]=[shuffled[j],shuffled[i]];}
+ current=shuffled.slice(0,3);
  const nextRecent=recent.concat(current.map(q=>q.id)).slice(-9);
  localStorage.setItem('predibol_recent_questions',JSON.stringify(nextRecent));
  const box=$('quiz');box.innerHTML='';
