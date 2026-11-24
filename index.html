@@ -21,8 +21,60 @@ function vote(team,val){if(data.votes[team]){note(team,'Ya emitiste un voto por 
 function note(team,msg){$(team==='bolivar'?'bvnote':'tvnote').textContent=msg}
 function updateVotes(){for(const t of ['bolivar','strongest']){let v=data.votes[t];const ids=t==='bolivar'?['byv','bnv']:['tyv','tnv'];ids.forEach(id=>$(id).disabled=!!v);if(v)note(t,'Tu voto: '+(v==='yes'?'SÍ, GANARÁ':'NO, NO GANARÁ'));}updateStats()}
 function resetVotes(){data.votes={bolivar:null,strongest:null};save();updateVotes();note('bolivar','Tu voto: sin elegir');note('strongest','Tu voto: sin elegir')}
-const questions=[{q:'¿Cuántos departamentos tiene Bolivia?',opts:['7','8','9','10'],a:2,exp:'Bolivia tiene 9 departamentos.'},{q:'¿Cuál es la capital constitucional de Bolivia?',opts:['La Paz','Sucre','Cochabamba','Santa Cruz'],a:1,exp:'Sucre es la capital constitucional.'},{q:'¿Qué planeta es el más grande del sistema solar?',opts:['Saturno','Júpiter','Neptuno','Marte'],a:1,exp:'Júpiter es el planeta más grande.'},{q:'¿Cuántos jugadores por equipo están en cancha en fútbol?',opts:['9','10','11','12'],a:2,exp:'Son 11 jugadores por equipo.'},{q:'¿Cuál es el océano más extenso?',opts:['Atlántico','Índico','Ártico','Pacífico'],a:3,exp:'El Pacífico es el océano más extenso.'},{q:'¿Qué figura tiene seis lados?',opts:['Pentágono','Hexágono','Octágono','Triángulo'],a:1,exp:'Un hexágono tiene seis lados.'}];let current=[];
-function newQuiz(){current=questions.slice().sort(()=>Math.random()-.5).slice(0,3);const box=$('quiz');box.innerHTML='';current.forEach((q,i)=>{let d=document.createElement('div');d.className='question';d.innerHTML='<b>'+ (i+1)+'. '+q.q+'</b>';q.opts.forEach((op,j)=>{let b=document.createElement('button');b.className='btn option';b.textContent=op;b.onclick=()=>{if(d.dataset.done)return;d.dataset.done='1';const ok=j===q.a;b.classList.add('selected');d.querySelectorAll('button').forEach(x=>x.disabled=true);const result=document.createElement('div');result.className='feedback';result.textContent=(ok?'¡Correcto! +100 puntos. ':'Incorrecto. ')+q.exp;d.appendChild(result);if(ok){data.points+=100;save()}};d.appendChild(b)});box.appendChild(d)})}
+const questions=[
+{id:'q01',cat:'Bolivia',level:'Fácil',q:'¿Cuántos departamentos tiene Bolivia?',opts:['7','8','9','10'],a:2,exp:'Bolivia tiene 9 departamentos.'},
+{id:'q02',cat:'Bolivia',level:'Fácil',q:'¿Cuál es la capital constitucional de Bolivia?',opts:['La Paz','Sucre','Cochabamba','Santa Cruz'],a:1,exp:'Sucre es la capital constitucional.'},
+{id:'q03',cat:'Bolivia',level:'Fácil',q:'¿Qué salar famoso se encuentra en Potosí?',opts:['Uyuni','Coipasa','Atacama','Arizaro'],a:0,exp:'El Salar de Uyuni está en el departamento de Potosí.'},
+{id:'q04',cat:'Bolivia',level:'Media',q:'¿Qué lago comparten Bolivia y Perú?',opts:['Titicaca','Poopó','Uru Uru','Rogaguado'],a:0,exp:'El lago Titicaca está entre Bolivia y Perú.'},
+{id:'q05',cat:'Bolivia',level:'Fácil',q:'¿Cuál es la moneda oficial de Bolivia?',opts:['Peso','Sol','Boliviano','Guaraní'],a:2,exp:'La moneda oficial es el boliviano.'},
+{id:'q06',cat:'Bolivia',level:'Media',q:'¿Qué ciudad boliviana es conocida como la Villa Imperial?',opts:['Oruro','Potosí','Tarija','Trinidad'],a:1,exp:'Potosí recibió el nombre de Villa Imperial.'},
+{id:'q07',cat:'Bolivia',level:'Media',q:'¿Cuál es el departamento más extenso de Bolivia?',opts:['Beni','La Paz','Santa Cruz','Potosí'],a:2,exp:'Santa Cruz es el departamento de mayor superficie.'},
+{id:'q08',cat:'Bolivia',level:'Fácil',q:'¿Qué colores tiene la bandera tricolor de Bolivia?',opts:['Rojo, amarillo y verde','Azul, blanco y rojo','Verde, blanco y negro','Rojo, blanco y azul'],a:0,exp:'La bandera nacional lleva rojo, amarillo y verde.'},
+{id:'q09',cat:'Bolivia',level:'Media',q:'¿En qué departamento está el Parque Nacional Madidi?',opts:['Pando','La Paz','Chuquisaca','Tarija'],a:1,exp:'El Madidi se encuentra en el norte del departamento de La Paz.'},
+{id:'q10',cat:'Bolivia',level:'Fácil',q:'¿Qué animal aparece en el escudo nacional de Bolivia?',opts:['Cóndor','Jaguar','Llama','Vicuña'],a:0,exp:'El cóndor de los Andes corona el escudo nacional.'},
+{id:'q11',cat:'Deportes',level:'Fácil',q:'¿Cuántos jugadores por equipo están en cancha en fútbol?',opts:['9','10','11','12'],a:2,exp:'Cada equipo juega con 11 futbolistas.'},
+{id:'q12',cat:'Deportes',level:'Fácil',q:'¿Cuánto dura un partido de fútbol reglamentario sin contar descuentos?',opts:['
+90 minutos','80 minutos','100 minutos','60 minutos'],a:0,exp:'Se juegan dos tiempos de 45 minutos.'},
+{id:'q13',cat:'Deportes',level:'Media',q:'¿Cada cuántos años se celebran normalmente los Juegos Olímpicos de verano?',opts:['2','3','4','5'],a:2,exp:'Los Juegos Olímpicos de verano se celebran cada cuatro años.'},
+{id:'q14',cat:'Deportes',level:'Fácil',q:'¿Qué tarjeta significa expulsión en el fútbol?',opts:['Verde','Amarilla','Azul','Roja'],a:3,exp:'La tarjeta roja indica expulsión.'},
+{id:'q15',cat:'Deportes',level:'Media',q:'¿Cuántos puntos vale un triple en baloncesto?',opts:['1','2','3','4'],a:2,exp:'Un lanzamiento convertido desde fuera de la línea de triple vale tres puntos.'},
+{id:'q16',cat:'Deportes',level:'Media',q:'¿En qué superficie se juega tradicionalmente el torneo de Wimbledon?',opts:['Arcilla','Césped','Cemento','Madera'],a:1,exp:'Wimbledon se juega sobre césped.'},
+{id:'q17',cat:'Cultura',level:'Fácil',q:'¿Quién escribió Don Quijote de la Mancha?',opts:['Federico García Lorca','Miguel de Cervantes','Pablo Neruda','Lope de Vega'],a:1,exp:'La novela fue escrita por Miguel de Cervantes.'},
+{id:'q18',cat:'Cultura',level:'Fácil',q:'¿Cuántas notas musicales básicas se usan en la escala tradicional?',opts:['5','6','7','8'],a:2,exp:'Son siete: do, re, mi, fa, sol, la y si.'},
+{id:'q19',cat:'Cultura',level:'Media',q:'¿De qué país es originario el tango?',opts:['México','Argentina','Brasil','España'],a:1,exp:'El tango nació en la región del Río de la Plata, especialmente en Argentina y Uruguay.'},
+{id:'q20',cat:'Cultura',level:'Fácil',q:'¿Qué instrumento tiene teclas blancas y negras?',opts:['Violín','Flauta','Piano','Trompeta'],a:2,exp:'El piano tiene un teclado de teclas blancas y negras.'},
+{id:'q21',cat:'Ciencia',level:'Fácil',q:'¿Qué planeta es el más grande del sistema solar?',opts:['Saturno','Júpiter','Neptuno','Marte'],a:1,exp:'Júpiter es el planeta más grande del sistema solar.'},
+{id:'q22',cat:'Ciencia',level:'Fácil',q:'¿Qué gas absorben principalmente las plantas durante la fotosíntesis?',opts:['Oxígeno','Nitrógeno','Dióxido de carbono','Helio'],a:2,exp:'Las plantas utilizan dióxido de carbono durante la fotosíntesis.'},
+{id:'q23',cat:'Ciencia',level:'Fácil',q:'¿A qué temperatura hierve el agua al nivel del mar?',opts:['50 °C','75 °C','100 °C','120 °C'],a:2,exp:'En condiciones normales al nivel del mar, hierve cerca de 100 °C.'},
+{id:'q24',cat:'Ciencia',level:'Media',q:'¿Cuál es el órgano que bombea la sangre?',opts:['Pulmón','Hígado','Corazón','Riñón'],a:2,exp:'El corazón impulsa la sangre por el cuerpo.'},
+{id:'q25',cat:'Ciencia',level:'Media',q:'¿Cuál es el satélite natural de la Tierra?',opts:['Europa','La Luna','Titán','Fobos'],a:1,exp:'La Luna es el satélite natural de la Tierra.'},
+{id:'q26',cat:'Mundo',level:'Fácil',q:'¿Cuál es el océano más extenso?',opts:['Atlántico','Índico','Ártico','Pacífico'],a:3,exp:'El océano Pacífico es el más extenso.'},
+{id:'q27',cat:'Mundo',level:'Fácil',q:'¿Cuál es la capital de Francia?',opts:['Roma','Madrid','París','Lisboa'],a:2,exp:'París es la capital de Francia.'},
+{id:'q28',cat:'Mundo',level:'Media',q:'¿En qué continente se encuentra Egipto?',opts:['Asia','África','Europa','Oceanía'],a:1,exp:'La mayor parte de Egipto está en el noreste de África.'},
+{id:'q29',cat:'Mundo',level:'Media',q:'¿Qué idioma tiene más hablantes nativos en el mundo?',opts:['Inglés','Español','Mandarín','Árabe'],a:2,exp:'El chino mandarín es el idioma con más hablantes nativos.'},
+{id:'q30',cat:'Mundo',level:'Fácil',q:'¿Cuántos lados tiene un hexágono?',opts:['5','6','7','8'],a:1,exp:'Un hexágono tiene seis lados.'}
+];
+let current=[];
+function newQuiz(){
+ const recent=JSON.parse(localStorage.getItem('predibol_recent_questions')||'[]');
+ const available=questions.filter(q=>!recent.includes(q.id));
+ const pool=available.length>=3?available:questions;
+ current=pool.slice().sort(()=>Math.random()-.5).slice(0,3);
+ const nextRecent=recent.concat(current.map(q=>q.id)).slice(-9);
+ localStorage.setItem('predibol_recent_questions',JSON.stringify(nextRecent));
+ const box=$('quiz');box.innerHTML='';
+ current.forEach((q,i)=>{
+  let d=document.createElement('div');d.className='question';
+  const meta=document.createElement('div');meta.className='small';meta.textContent=q.cat+' · '+q.level;d.appendChild(meta);
+  const title=document.createElement('b');title.textContent=(i+1)+'. '+q.q;d.appendChild(title);
+  q.opts.forEach((op,j)=>{
+   let b=document.createElement('button');b.className='btn option';b.textContent=op;
+   b.onclick=()=>{if(d.dataset.done)return;d.dataset.done='1';const ok=j===q.a;b.classList.add('selected');d.querySelectorAll('button').forEach(x=>x.disabled=true);const result=document.createElement('div');result.className='feedback';result.textContent=(ok?'¡Correcto! +100 puntos. ':'Incorrecto. ')+q.exp;d.appendChild(result);if(ok){data.points+=100;save()}};
+   d.appendChild(b);
+  });
+  box.appendChild(d);
+ });
+}
 function updateStats(){$('points').textContent=data.points+' pts';$('voteCount').textContent=(data.votes.bolivar?1:0)+(data.votes.strongest?1:0)}
 updateVotes();updateStats();
 </script><script>if('serviceWorker' in navigator && location.protocol.startsWith('http'))navigator.serviceWorker.register('sw.js').catch(()=>{});</script></body></html>
