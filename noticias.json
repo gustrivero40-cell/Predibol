@@ -1,4 +1,445 @@
 {
-  "updated": null,
-  "items": []
+  "updated": "2026-11-25T18:50:02.231488+00:00",
+  "items": [
+    {
+      "category": "Bolivia",
+      "source": "EL DEBER",
+      "title": "Banco Ganadero amplía su red de atención con una nueva agencia en Ventura Mall Sur",
+      "summary": "Ubicada en el centro comercial más grande de Bolivia, la nueva agencia amplía las opciones de atención financiera en la zona sur de Santa Cruz, con asesoramiento personalizado, una amplia oferta de servicios bancarios y horarios extendidos de lunes a domingo",
+      "url": "https://eldeber.com.bo/te-puede-interesar/banco-ganadero-amplia-red-atencion-nueva-agencia-ventura-mall-sur_1795631418",
+      "published": "Wed, 25 Nov 2026 18:30:18 GMT"
+    },
+    {
+      "category": "Bolivia",
+      "source": "EL DEBER",
+      "title": "La lluvia reduce la circulación de micros en Santa Cruz y obliga a los pasajeros a esperar más",
+      "summary": "Los pasajeros deben esperar más tiempo o caminar hasta otras rutas. El dirigente Mario Guerrero atribuye las dificultades a las calles anegadas.",
+      "url": "https://eldeber.com.bo/santa-cruz/lluvia-reduce-circulacion-micros-santa-cruz-obliga-pasajeros-esperar_1795630785",
+      "published": "Wed, 25 Nov 2026 18:19:45 GMT"
+    },
+    {
+      "category": "Bolivia",
+      "source": "EL DEBER",
+      "title": "La Guardia con calles que parecen ríos",
+      "summary": "Los trabajos van a continuar durante toda la jornada, incluso hasta la noche, con grupos organizados en cuadrillas. Hay crecida extraordinaria en los ríos Espejos y Surutú",
+      "url": "https://eldeber.com.bo/santa-cruz/guardia-calles-parecen-rios_1795630659",
+      "published": "Wed, 25 Nov 2026 18:17:39 GMT"
+    },
+    {
+      "category": "Bolivia",
+      "source": "EL DEBER",
+      "title": "Rodrigo Paz ratifica que los créditos serán para la producción y no para la subvención",
+      "summary": "“Hay algunos que me dicen que esos recursos que nos prestamos los pongamos en subvención y no en producción”, afirma el mandatario",
+      "url": "https://eldeber.com.bo/pais/rodrigo-paz-ratifica-creditos-seran-produccion-no-subvencion_1795630471",
+      "published": "Wed, 25 Nov 2026 18:14:31 GMT"
+    },
+    {
+      "category": "Bolivia",
+      "source": "EL DEBER",
+      "title": "Dirigencia del magisterio instruye “no asistir a ninguna mesa de trabajo” del Ministerio de Educación",
+      "summary": "También se instruye a todas las federaciones del magisterio “no aplicar las pruebas instrumentales, dispuestas por el Ministerio de Educación, a estudiantes de primero y tercero de primaria”",
+      "url": "https://eldeber.com.bo/pais/dirigencia-magisterio-instruye-no-asistir-ninguna-mesa-trabajo-ministerio-educacion_1795629052",
+      "published": "Wed, 25 Nov 2026 17:50:52 GMT"
+    },
+    {
+      "category": "Mundo",
+      "source": "BBC Mundo",
+      "title": "Menos sexo y más porno: lo que revela el último informe nacional sobre la sexualidad de los británicos",
+      "summary": "En Reino Unido, muchos jóvenes nunca han tenido relaciones sexuales, pero muchos practican el sexting y ven pornografía.",
+      "url": "https://www.bbc.com/mundo/articles/cq8e04ynw811o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 25 Nov 2026 17:16:04 GMT"
+    },
+    {
+      "category": "Bolivia",
+      "source": "EL DEBER",
+      "title": "Jugadores de Oriente ceden, bajan la exigencia y esperan el pago",
+      "summary": "Los capitanes del primer plantel se reunieron este miércoles con la dirigencia de Oriente Petrolero y acordaron levantar el paro si el club cancela una cuota salarial hasta el jueves. Los futbolistas redujeron su exigencia inicial de dos meses a uno para volver a entrenarse.",
+      "url": "https://eldeber.com.bo/deportes/jugadores-oriente-ceden-bajan-exigencia-esperan-pago_1795625547",
+      "published": "Wed, 25 Nov 2026 16:52:27 GMT"
+    },
+    {
+      "category": "Bolivia",
+      "source": "EL DEBER",
+      "title": "Gobierno evalúa compensaciones para sectores vulnerables tras el alza del diésel a Bs 20,57",
+      "summary": "El ministro de Economía, Christian Morales, afirmó que se analizarán mecanismos adicionales para amortiguar el impacto del ajuste. Defendió la medida por la necesidad de evitar que el Estado compre combustible a precios internacionales y lo venda por debajo de su costo.",
+      "url": "https://eldeber.com.bo/economia/gobierno-evalua-compensaciones-sectores-vulnerables-alza-diesel-bs-20-57_1795625301",
+      "published": "Wed, 25 Nov 2026 16:48:21 GMT"
+    },
+    {
+      "category": "Bolivia",
+      "source": "EL DEBER",
+      "title": "Fiscalía incluye al exfiscal Róger Mariaca al proceso por el 'caso maletas'",
+      "summary": "Las declaraciones colectadas de testigos e investigados salpicaron al ex fiscal general del estado en las investigaciones por el denominado 'caso maletas'. Aún hay 3 prófugos en el caso, uno con orden de aprehensión y dos, con alertas migratorias.",
+      "url": "https://eldeber.com.bo/pais/fiscalia-incluye-exfiscal-roger-mariaca-proceso-caso-maletas_1795624581",
+      "published": "Wed, 25 Nov 2026 16:36:21 GMT"
+    },
+    {
+      "category": "Bolivia",
+      "source": "EL DEBER",
+      "title": "Alcaldía activa tres equipos de emergencia ante las lluvias en Santa Cruz de la Sierra",
+      "summary": "La Dirección Municipal de Gestión de Riesgo mantiene personal operativo para atender posibles contingencias tras las intensas precipitaciones registradas este miércoles. Hasta media jornada no se reportaron árboles caídos ni personas arrastradas por corrientes de agua.",
+      "url": "https://eldeber.com.bo/santa-cruz/alcaldia-activa-tres-equipos-emergencia-lluvias-santa-cruz-sierra_1795624156",
+      "published": "Wed, 25 Nov 2026 16:29:16 GMT"
+    },
+    {
+      "category": "Bolivia",
+      "source": "EL DEBER",
+      "title": "Searpi alerta por crecidas extraordinarias en los ríos Piraí y Yapacaní tras intensas lluvias",
+      "summary": "El incremento de los caudales mantiene en alerta a las cuencas media y baja de ambos ríos. El agua del Piraí alcanzó los cuatro metros en el sector de Espejo y se prevé que las precipitaciones continúen hasta este jueves, con acumulados de hasta 70 milímetros en el Norte Integrado.",
+      "url": "https://eldeber.com.bo/santa-cruz/searpi-alerta-crecidas-extraordinarias-rios-pirai-yapacani-intensas-lluvias_1795623544",
+      "published": "Wed, 25 Nov 2026 16:19:04 GMT"
+    },
+    {
+      "category": "Bolivia",
+      "source": "EL DEBER",
+      "title": "El Pacífico se calienta 4,4 grados y el Súper Niño pone a Bolivia en alerta por lluvias y riadas",
+      "summary": "El fenómeno climático puede alcanzar una intensidad histórica. Defensa Civil reportó 158 alertas por posibles crecidas de ríos en siete departamentos, mientras Perú y Ecuador sufren inundaciones. La amenaza de sequía persiste.",
+      "url": "https://eldeber.com.bo/pais/pacifico-calienta-4-4-grados-super-nino-pone-bolivia-alerta-lluvias-riadas_1795623535",
+      "published": "Wed, 25 Nov 2026 16:18:55 GMT"
+    },
+    {
+      "category": "Bolivia",
+      "source": "EL DEBER",
+      "title": "“Oriente es un paciente en terapia intensiva”: el duro diagnóstico de ‘Choco’ Antelo",
+      "summary": "El exjugador y expresidente del club albiverde manifestó su preocupación por la crisis institucional y económica que atraviesa la institución. Cuestionó la continuidad de Ronald Raldes, advirtió sobre el riesgo de que varios futbolistas queden libres por deudas y aseguró que existen grupos de empresarios interesados en asumir las riendas del club.",
+      "url": "https://eldeber.com.bo/deportes/oriente-paciente-terapia-intensiva-duro-diagnostico-choco-antelo_1795622199",
+      "published": "Wed, 25 Nov 2026 16:00:16 GMT"
+    },
+    {
+      "category": "Bolivia",
+      "source": "EL DEBER",
+      "title": "“El que nada debe, nada teme”: Mario Argollo se presenta en la Fiscalía a declarar como sindicado",
+      "summary": "El dirigente de la COB fue citado por un caso de delitos previsionales y aseguró que son “falsas” las acusaciones en su contra",
+      "url": "https://eldeber.com.bo/la-paz/nada-debe-nada-teme-mario-argollo-presenta-fiscalia-declarar-sindicado_1795621596",
+      "published": "Wed, 25 Nov 2026 15:46:36 GMT"
+    },
+    {
+      "category": "Bolivia",
+      "source": "EL DEBER",
+      "title": "El alza del diésel presiona la campaña agrícola de verano de 1,5 millones de hectáreas",
+      "summary": "Anapo advierte que el incremento del combustible a Bs 20,57 por litro eleva los costos de producción en el inicio de la principal campaña agrícola del país. El sector cuestiona la fórmula de fijación de precios y pide explicaciones al Gobierno.",
+      "url": "https://eldeber.com.bo/economia/alza-diesel-presiona-campana-agricola-verano-1-5-millones-hectareas_1795621542",
+      "published": "Wed, 25 Nov 2026 15:45:42 GMT"
+    },
+    {
+      "category": "Bolivia",
+      "source": "EL DEBER",
+      "title": "\"Mi compromiso es llegar a esclarecer todos los casos que han causado problemas en la Fiscalía\", señala la nueva fiscal de Santa Cruz",
+      "summary": "Rose María Barrientos asumió el mando de la fiscalía cruceña el martes 24 de noviembre, luego de la renuncia presentada por su antecesor",
+      "url": "https://eldeber.com.bo/santa-cruz/compromiso-llegar-esclarecer-todos-casos-han-causado-problemas-fiscalia-senala-nueva-fiscal-santa-cruz_1795621490",
+      "published": "Wed, 25 Nov 2026 15:44:50 GMT"
+    },
+    {
+      "category": "Bolivia",
+      "source": "EL DEBER",
+      "title": "Transporte pesado de Oruro propone un paro nacional indefinido por el alza del diésel",
+      "summary": "El dirigente Jorge Gutiérrez anunció que planteará la suspensión del transporte de mercancías de importación y exportación. El sector exige abrogar el DS 5716 y restablecer el precio del combustible en Bs 17,95.",
+      "url": "https://eldeber.com.bo/economia/transporte-pesado-oruro-propone-paro-nacional-indefinido-alza-diesel_1795619155",
+      "published": "Wed, 25 Nov 2026 15:05:55 GMT"
+    },
+    {
+      "category": "Bolivia",
+      "source": "EL DEBER",
+      "title": "Imputan a dos abogados que dejaban \"dulces\" (pagos) a Mariaca para cerrar el 'caso maletas'",
+      "summary": "Un testigo protegido reveló que los juristas entregaban dinero al ex fiscal general para proteger a los investigados. La Fiscalía solicitó 180 días de detención preventiva en Palmasola",
+      "url": "https://eldeber.com.bo/santa-cruz/imputan-dos-abogados-presuntos-pagos-mariaca-cerrar-caso-maletas_1795618567",
+      "published": "Wed, 25 Nov 2026 14:56:07 GMT"
+    },
+    {
+      "category": "Bolivia",
+      "source": "EL DEBER",
+      "title": "El agua se está entrando a las casas en La Guardia y El Torno; no descartan evacuaciones",
+      "summary": "Después de alrededor de cuatro horas de lluvia, el agua ha empezado a ingresar a domicilios en varias urbanizaciones en La Guardia, donde la Alcaldía ya desplegó equipos. Allí definieron suspender las actividades de festejos previstos para hoy",
+      "url": "https://eldeber.com.bo/santa-cruz/inundaciones-guardia-torno-no-descartan-evacuaciones_1795617859",
+      "published": "Wed, 25 Nov 2026 14:46:28 GMT"
+    },
+    {
+      "category": "Bolivia",
+      "source": "EL DEBER",
+      "title": "Conflicto del diésel: Policía confirma que hay aprehendidos en el desbloqueo de Sucre",
+      "summary": "El Ministerio de Defensa asegura que las acciones conjuntas de los militares y policías se realizan “con pleno respeto a los derechos constitucionales de la población”",
+      "url": "https://eldeber.com.bo/chuquisaca/conflicto-diesel-policia-confirma-hay-aprehendidos-desbloqueo-sucre_1795617838",
+      "published": "Wed, 25 Nov 2026 14:43:58 GMT"
+    },
+    {
+      "category": "Bolivia",
+      "source": "EL DEBER",
+      "title": "Transportistas exigen austeridad estatal y dan 24 horas al Gobierno por el precio del diésel",
+      "summary": "El sector cuestiona que el combustible haya subido de Bs 9,80 a Bs 20,57 por litro en menos de tres meses. Exige revisar la fórmula de fijación de precios y aplicar medidas de austeridad en el gasto público. Advierte con activar medidas de presión.",
+      "url": "https://eldeber.com.bo/economia/transportistas-exigen-austeridad-estatal-dan-24-horas-gobierno-precio-diesel_1795617388",
+      "published": "Wed, 25 Nov 2026 14:36:28 GMT"
+    },
+    {
+      "category": "Bolivia",
+      "source": "EL DEBER",
+      "title": "La Fiscalía despidió a tres funcionarios acusados de filtrar información",
+      "summary": "Dos médicos forenses y un informático forense fueron retirados de la fiscalía general del Estado",
+      "url": "https://eldeber.com.bo/pais/fiscalia-despidio-tres-funcionarios-acusados-filtrar-informacion_1795617143",
+      "published": "Wed, 25 Nov 2026 14:32:23 GMT"
+    },
+    {
+      "category": "Bolivia",
+      "source": "EL DEBER",
+      "title": "El verdadero precio del oro",
+      "summary": "",
+      "url": "https://eldeber.com.bo/opinion/verdadero-precio-oro_1795616912",
+      "published": "Wed, 25 Nov 2026 14:28:32 GMT"
+    },
+    {
+      "category": "Bolivia",
+      "source": "EL DEBER",
+      "title": "Raldes mueve sus fichas para conseguir dinero y frenar el paro en Oriente",
+      "summary": "El presidente refinero espera concretar el pago de una cuota salarial esta semana, antes del partido del sábado ante Nacional Potosí. Para la próxima semana, su objetivo es conseguir los recursos para cancelar otra mensualidad y destrabar el conflicto con los jugadores.",
+      "url": "https://eldeber.com.bo/deportes/raldes-mueve-fichas-conseguir-dinero-frenar-paro-oriente_1795615653",
+      "published": "Wed, 25 Nov 2026 14:07:33 GMT"
+    },
+    {
+      "category": "Bolivia",
+      "source": "EL DEBER",
+      "title": "Blooming sale al paso de los rumores y explica las bajas de su plantel",
+      "summary": "El médico del primer plantel, Wilson Catorceno, brindó un informe sobre la situación de los futbolistas que se encuentran fuera de las canchas. Además, desmintió los rumores que apuntaban a supuestos apartamientos por bajo rendimiento o indisciplina.",
+      "url": "https://eldeber.com.bo/deportes/blooming-sale-paso-rumores-explica-bajas-plantel_1795615494",
+      "published": "Wed, 25 Nov 2026 14:04:54 GMT"
+    },
+    {
+      "category": "Mundo",
+      "source": "BBC Mundo",
+      "title": "Kilmar Abrego García abandona EE.UU. y viaja a España tras una larga batalla legal para evitar ser deportado de nuevo",
+      "summary": "Ábrego se convirtió en un símbolo de la resistencia en contra de la persecución del gobierno de EE.UU. en contra de los inmigrantes indocumentados.",
+      "url": "https://www.bbc.com/mundo/articles/c6y80kp45gv2o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 25 Nov 2026 13:32:58 GMT"
+    },
+    {
+      "category": "Mundo",
+      "source": "BBC Mundo",
+      "title": "\"500.000 muertos\": la filtración de datos que revela las abrumadoras cifras de soldados rusos fallecidos en la guerra de Ucrania",
+      "summary": "Las cifras obtenidas por unos hackers muestran cómo la invasión a gran escala de Ucrania ha transformado significativamente los patrones de mortalidad en Rusia.",
+      "url": "https://www.bbc.com/mundo/articles/cq5y1lpz5pr8o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 25 Nov 2026 13:17:56 GMT"
+    },
+    {
+      "category": "Mundo",
+      "source": "BBC Mundo",
+      "title": "Cómo el brutal asesinato de las hermanas Mirabal en República Dominicana dio origen al Día Internacional de la Eliminación de la Violencia contra la Mujer",
+      "summary": "La ONU escogió esa fecha para rendir homenaje a tres mujeres que fueron brutalmente asesinadas por su oposición a la dictadura de Rafael Trujillo.",
+      "url": "https://www.bbc.com/mundo/articles/c94gn8rvjg6xo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 25 Nov 2026 12:31:54 GMT"
+    },
+    {
+      "category": "Mundo",
+      "source": "BBC Mundo",
+      "title": "Cómo China mantiene su enorme influencia en América Latina en pleno pulso geopolítico con EE.UU.",
+      "summary": "De distintas formas —y a veces con bajo perfil—, Pekín logra sostener una presencia trascendental en la región aunque Washington busca limitarla.",
+      "url": "https://www.bbc.com/mundo/articles/c32l5enge15go?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 25 Nov 2026 12:02:10 GMT"
+    },
+    {
+      "category": "Mundo",
+      "source": "BBC Mundo",
+      "title": "La disputa entre matemáticos que aviva el temor de que la IA pueda socavar la ciencia",
+      "summary": "La IA ha realizado algunos descubrimientos científicos asombrosos. Pero ahora, se están planteando dudas sobre su precisión.",
+      "url": "https://www.bbc.com/mundo/articles/cje36d6456vwo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 25 Nov 2026 11:25:49 GMT"
+    },
+    {
+      "category": "Mundo",
+      "source": "BBC Mundo",
+      "title": "\"La chica del metro\", la influencer que pasó 2 meses en una unidad psiquiátrica por error",
+      "summary": "Los vídeos que la creadora de contenido grabó bailando en el metro de Londres se hicieron virales en internet en 2023.",
+      "url": "https://www.bbc.com/mundo/articles/cwm25mze7950o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 25 Nov 2026 10:50:11 GMT"
+    },
+    {
+      "category": "Mundo",
+      "source": "BBC Mundo",
+      "title": "Las fuerzas especiales de Colombia rescatan a decenas de secuestrados en un supermercado y logran someter a los asaltantes",
+      "summary": "Según informó el gobierno, los hombres armados tomaron a los clientes y empleados del supermercado como rehenes, al ser sorprendidos por la Policía en medio de un intento de robo.",
+      "url": "https://www.bbc.com/mundo/articles/cmx2rny0dn17o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 25 Nov 2026 07:47:13 GMT"
+    },
+    {
+      "category": "Mundo",
+      "source": "BBC Mundo",
+      "title": "\"Le digo a mi hijo que son solo fuegos artificiales\": cómo es vivir en una ciudad de Yemen sitiada por los rebeldes hutíes",
+      "summary": "Taiz, la tercera ciudad más grande de Yemen, lleva semanas aislada del mundo, bajo asedio de los hutíes. La BBC habló con personas atrapadas allí.",
+      "url": "https://www.bbc.com/mundo/articles/cx5y1mzvgpe8o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 25 Nov 2026 04:47:20 GMT"
+    },
+    {
+      "category": "Mundo",
+      "source": "BBC Mundo",
+      "title": "Acusan en EE.UU. al padre de Meghan Markle, esposa del príncipe Harry, de posesión de imágenes de abuso sexual infantil",
+      "summary": "El FBI arrestó a Markle el 6 de noviembre después de que se encontrara material de abuso sexual infantil en una bodega que supuestamente había alquilado en Los Ángeles.",
+      "url": "https://www.bbc.com/mundo/articles/cwm2mz5zvp94o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 25 Nov 2026 01:42:53 GMT"
+    },
+    {
+      "category": "Mundo",
+      "source": "BBC Mundo",
+      "title": "Tu cerebro está agotado por demasiadas tareas sin terminar: 5 sencillos pasos pueden ayudarte",
+      "summary": "Las tareas inconclusas generan dificultades para la mayoría de las personas.",
+      "url": "https://www.bbc.com/mundo/articles/c6jd725nxvy2o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 25 Nov 2026 00:29:42 GMT"
+    },
+    {
+      "category": "Bolivia",
+      "source": "EL DEBER",
+      "title": "Juliana Lijeron Herrera y Rodrigo Pereyra Méndez",
+      "summary": "“Lo más especial de ese día fue mirar atrás y darme cuenta de cuánto hemos crecido juntos y todo lo que nos queda por vivir”",
+      "url": "https://eldeber.com.bo/para-ellas/juliana-lijeron-herrera-rodrigo-pereyra-mendez_1795558547",
+      "published": "Tue, 24 Nov 2026 22:15:47 GMT"
+    },
+    {
+      "category": "Mundo",
+      "source": "BBC Mundo",
+      "title": "El papa Francisco revela en su diario que vio al diablo 3 veces, así como \"las puertas del infierno\"",
+      "summary": "Según extractos publicados del diario del difunto pontífice, una de las visiones tuvo lugar \"en el coro\" durante la misa.",
+      "url": "https://www.bbc.com/mundo/articles/cm5y1p3e5knvo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 24 Nov 2026 17:21:17 GMT"
+    },
+    {
+      "category": "Mundo",
+      "source": "BBC Mundo",
+      "title": "Las lecciones que el regreso de Jensen Huang a Nvidia le enseña a Xi Jinping sobre cómo tratar a Trump",
+      "summary": "El regreso de Huang al frente de Nvidia no garantiza ningún alivio para Pekín, pero si le da pistas sobre cómo tratar a Trump.",
+      "url": "https://www.bbc.com/mundo/articles/cr930kp5eq12o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 24 Nov 2026 16:48:51 GMT"
+    },
+    {
+      "category": "Mundo",
+      "source": "BBC Mundo",
+      "title": "Quién era alias \"El Coletas\", el narco colombiano que murió tras ser baleado en un estacionamiento en España",
+      "summary": "El ataque ocurrió en el estacionamiento en Madrid. El ciudadano colombiano había sido requerido por las autoridades españolas y estadounidenses.",
+      "url": "https://www.bbc.com/mundo/articles/cmx28xy5pr10o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 24 Nov 2026 16:13:25 GMT"
+    },
+    {
+      "category": "Mundo",
+      "source": "BBC Mundo",
+      "title": "Cómo los ataques israelíes han convertido a Gaza en un \"basural tóxico\", según denuncia ONG",
+      "summary": "El informe señala que existen indicios de posible contaminación en casi toda la Franja como consecuencia de más de tres años de operaciones militares.",
+      "url": "https://www.bbc.com/mundo/articles/cmwy474p5x40o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 24 Nov 2026 12:43:00 GMT"
+    },
+    {
+      "category": "Mundo",
+      "source": "BBC Mundo",
+      "title": "\"No creo que el narcotráfico sea invencible, pero en la práctica lo es para quienes hoy gobiernan\": por qué la violencia persiste en Colombia 10 años después del acuerdo de paz",
+      "summary": "El acuerdo con las FARC, elogiado en el extranjero, es constantemente atacado dentro de Colombia y no termina de consolidarse, ¿Por qué? ¿Hay algo en la historia del país que explique la continua violencia?",
+      "url": "https://www.bbc.com/mundo/articles/cwzr53jr1xnpo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 24 Nov 2026 12:30:34 GMT"
+    },
+    {
+      "category": "Mundo",
+      "source": "BBC Mundo",
+      "title": "Cómo un adolescente aficionado a los videojuegos y su madre ayudaron a rescatar a una chica que llevaba más de un año desaparecida",
+      "summary": "Luego de que Landon Tresp, de 16 años, conociera a una adolescente en un juego en línea, él y su madre terminaron ayudando al FBI a rescatarla de un secuestro.",
+      "url": "https://www.bbc.com/mundo/articles/c6lywgreg77lo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 24 Nov 2026 11:20:28 GMT"
+    },
+    {
+      "category": "Mundo",
+      "source": "BBC Mundo",
+      "title": "Por qué nos tienta comer algo dulce o salado antes de ir a dormir aunque estemos satisfechos (y cómo no caer en la tentación)",
+      "summary": "Existen razones biológicas por las que puedes sentir la necesidad de comer un antojo antes de acostarte, pero puedes cambiar ese hábito.",
+      "url": "https://www.bbc.com/mundo/articles/ckg5rvzn0j68o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 24 Nov 2026 10:36:34 GMT"
+    },
+    {
+      "category": "Mundo",
+      "source": "BBC Mundo",
+      "title": "\"Quiero destruir el capitalismo, no al país\": así operan los grupos de ultraizquierda que impulsan las protestas violentas en Francia",
+      "summary": "El pasado sábado se cumplió el sexto fin de semana consecutivo de manifestaciones contra el aumento vertiginoso de precios, el deterioro de los servicios públicos y los  presuntos casos de brutalidad policial.",
+      "url": "https://www.bbc.com/mundo/articles/cmx27q3w9qjxo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 24 Nov 2026 05:01:11 GMT"
+    },
+    {
+      "category": "Mundo",
+      "source": "BBC Mundo",
+      "title": "\"La cúspide de la salud humana\": quiénes son los \"superdefecadores\" y cómo la ciencia los usa para dar con las heces perfectas",
+      "summary": "Los trasplantes de heces están en auge, aunque menos del 3% de nosotros producimos un material apto para ser donado. Y aún menos personas son \"superdonantes\" de heces.",
+      "url": "https://www.bbc.com/mundo/articles/c6n4em0gj88mo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 19 Nov 2026 19:00:58 GMT"
+    },
+    {
+      "category": "Mundo",
+      "source": "BBC Mundo",
+      "title": "Pasé más de 10 años llevando por las montañas de Colombia los mensajes secretos que hicieron posible el acuerdo de paz entre el gobierno y las FARC",
+      "summary": "Henry Acosta Patiño fue durante años el mensajero oculto entre el gobierno de Colombia y las FARC. Su papel en el detrás de escenas de las negociaciones fue clave para el acuerdo de paz firmado hace 10 años.",
+      "url": "https://www.bbc.com/mundo/articles/ckz74v0n4rydo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 22 Nov 2026 14:00:13 GMT"
+    },
+    {
+      "category": "Mundo",
+      "source": "BBC Mundo",
+      "title": "\"Fui coaccionada para tener un hijo\": cómo un multimillonario engañó a la exitosa DJ Liv Nervo para que quedara embarazada",
+      "summary": "Durante años creyó vivir un amor de película. Hasta que, con seis meses de embarazo, descubrió la verdad. Ahora lucha porque eso sea castigado por la ley cuando le ocurra a otras.",
+      "url": "https://www.bbc.com/mundo/articles/cqm2ly382ylxo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 22 Nov 2026 11:04:08 GMT"
+    },
+    {
+      "category": "Mundo",
+      "source": "BBC Mundo",
+      "title": "La princesa de Gales, Kate Middleton, habla abiertamente sobre cómo el cáncer cambió su vida en un documental de la BBC",
+      "summary": "\"Hay una faceta mucho, mucho más profunda de cómo un cáncer te cambia\", dice la Princesa de Gales en el documental.",
+      "url": "https://www.bbc.com/mundo/articles/c6gregq1xynwo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 21 Nov 2026 22:57:24 GMT"
+    },
+    {
+      "category": "Mundo",
+      "source": "BBC Mundo",
+      "title": "Lo que el ataque contra un buque militar ruso en Libia revela sobre los peligros de la propagación de la guerra de Ucrania más allá del frente",
+      "summary": "Si Ucrania es capaz de planificar y ejecutar un ataque tan audaz contra buques rusos en un puerto nominalmente neutral, situado a tanta distancia de su territorio, ¿dónde va a terminar esto?",
+      "url": "https://www.bbc.com/mundo/articles/cry86dl7jjw5o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 23 Nov 2026 23:00:49 GMT"
+    },
+    {
+      "category": "Mundo",
+      "source": "BBC Mundo",
+      "title": "La cantante iraní que recibió 74 latigazos por actuar en YouTube sin el velo",
+      "summary": "Según sus abogados, Parastoo Ahmadi, tres músicos y un productor recibieron 74 latigazos en Qom.",
+      "url": "https://www.bbc.com/mundo/articles/cmly7qnw55z4o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 23 Nov 2026 21:19:36 GMT"
+    },
+    {
+      "category": "Mundo",
+      "source": "BBC Mundo",
+      "title": "Por qué Jensen Huang es demasiado importante como para que Nvidia pudiera despedirlo",
+      "summary": "El papel de Huang como pieza clave en la transformación de su empresa en un pilar fundamental de la IA resultó crucial para su regreso.",
+      "url": "https://www.bbc.com/mundo/articles/c9143kp61ldjo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 23 Nov 2026 18:40:21 GMT"
+    },
+    {
+      "category": "Mundo",
+      "source": "BBC Mundo",
+      "title": "El extraordinario hallazgo de un cementerio de osos de las cavernas que se extinguieron hace 24.000 años",
+      "summary": "La BBC revela imágenes exclusivas del interior de una cueva previamente inexplorada en los Dolomitas, que contiene un tesoro de esqueletos de enormes osos de las cavernas extintos hace mucho tiempo.",
+      "url": "https://www.bbc.com/mundo/articles/cmq5vl3d603wo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 23 Nov 2026 16:42:07 GMT"
+    },
+    {
+      "category": "Mundo",
+      "source": "BBC Mundo",
+      "title": "\"La violencia de hoy no es producto del acuerdo de paz. Es la falta de implementación\": Juan Manuel Santos y Rodrigo Londoño a BBC Mundo",
+      "summary": "El expresidente de Colombia, Juan Manuel Santos, y el último comandante en jefe de las FARC, Rodrigo Londoño, se citan con BBC Mundo para hacer un balance del acuerdo de paz firmados por ambos y su situación actual.",
+      "url": "https://www.bbc.com/mundo/articles/c6wy4g48l0g5o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 23 Nov 2026 14:09:21 GMT"
+    },
+    {
+      "category": "Mundo",
+      "source": "BBC Mundo",
+      "title": "Un empleado de Anthropic dice haber usado la IA para resolver uno de los más grandes problemas matemáticos",
+      "summary": "Un matemático de la compañía afirma haber utilizado Claude para demostrar la famosa hipótesis de Riemann, aunque la verificación llevará algún tiempo.",
+      "url": "https://www.bbc.com/mundo/articles/c6n901zg7rylo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 23 Nov 2026 11:32:45 GMT"
+    },
+    {
+      "category": "Mundo",
+      "source": "BBC Mundo",
+      "title": "\"El presidente (De la Espriella) está totalmente equivocado si cree que esta paz es falsa\": Santos y Londoño hablan juntos con BBC Mundo a 10 años del acuerdo que puso fin al conflicto en Colombia",
+      "summary": "Hace 10 años se firmó el histórico acuerdo de paz que desmovilizó a la guerilla más grande y poderosa de América Latina. BBC Mundo reunió al expresidente Juan Manuel Santos y al ex comandante de las FARC Rodrigo Londoño (alias Timochenko) para hablar de los logros y retos de aquel hito.",
+      "url": "https://www.bbc.com/mundo/watch/cm0evqgj5p4go?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 23 Nov 2026 10:36:08 GMT"
+    }
+  ]
 }
