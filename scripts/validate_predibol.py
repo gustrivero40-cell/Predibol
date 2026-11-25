@@ -23,7 +23,7 @@ else:
             fail(f"question {i}: not an object"); continue
         for key in ("id","cat","level","q","exp"):
             if not isinstance(q.get(key),str) or not q[key].strip():
-                fail(f"question {i}: missing/blank {key")
+                fail(f"question {i}: missing/blank {key}")
         opts=q.get("opts")
         if not isinstance(opts,list) or len(opts)<2 or not all(isinstance(o,str) and o.strip() for o in opts):
             fail(f"question {i}: options invalid")
@@ -58,7 +58,7 @@ if news is not None:
             if not isinstance(item,dict): fail(f"news item {i}: expected object"); continue
             for key in ("title","url","source","category"):
                 if not isinstance(item.get(key),str) or not item[key].strip():
-                    fail(f"news item {i}: missing/blank {key")
+                    fail(f"news item {i}: missing/blank {key}")
             if item.get("url","").strip() and not item["url"].startswith(("https://","http://")):
                 fail(f"news item {i}: url must be HTTP(S)")
 sw=root/"sw.js"
@@ -71,7 +71,7 @@ for p in ("assets/icon.svg","noticias.json"):
     if not (root/p).exists(): fail(f"{p} missing")
 # Check inline JavaScript syntax with Node's parser; this does not execute the app.
 if html.exists():
-    scripts=re.findall(r"<script(?:\\s[^>]*)?>(.*?)</script>", html.read_text(encoding="utf-8"), re.S|re.I)
+    scripts=re.findall(r"<script(?:\s[^>]*)?>(.*?)</script>", html.read_text(encoding="utf-8"), re.S|re.I)
     for n,code in enumerate(scripts,1):
         with tempfile.NamedTemporaryFile("w", suffix=".js", encoding="utf-8", delete=False) as f:
             f.write(code); temp=f.name
