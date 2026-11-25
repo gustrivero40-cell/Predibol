@@ -19,11 +19,13 @@ def text(node, names):
 
 def main():
     items, seen = [], set()
+    successful_feeds = 0
     for section, source, url in FEEDS:
         try:
             req = urllib.request.Request(url, headers={"User-Agent":"PrediBolNewsBot/1.0 (RSS reader)"})
             with urllib.request.urlopen(req, timeout=20) as response:
                 root = ET.fromstring(response.read())
+            successful_feeds += 1
             for entry in root.findall(".//item")[:30]:
                 title = text(entry, ["title"])
                 link = text(entry, ["link"])
@@ -35,6 +37,10 @@ def main():
                 items.append({"category":cat,"source":source,"title":title[:220],"summary":desc[:380],"url":link,"published":date})
         except Exception as e:
             print(f"Feed error {source}: {e}")
+    # Preserve last known headlines if all feeds fail/return empty, rather than blanking the app.
+    if not items:
+        print(f"No new/usable items (successful feeds: {successful_feeds}); preserving existing noticias.json")
+        return
     items.sort(key=lambda x:x.get("published",""), reverse=True)
     out={"updated":datetime.now(timezone.utc).isoformat(),"items":items[:60]}
     Path("noticias.json").write_text(json.dumps(out,ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
