@@ -31,6 +31,7 @@ jobs:
           python -m json.tool manifest.webmanifest > /dev/null
           python -m json.tool noticias.json > /dev/null
           python scripts/validate_predibol.py
+          python -m unittest scripts/test_news_parser.py
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
