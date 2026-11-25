@@ -8,7 +8,7 @@
 <div class="panel"><div class="kicker">🏟️ PARTIDO DEMO</div><h2>Clásico paceño</h2><div class="notice">PARTIDO DE EJEMPLO · No corresponde a una fixture oficial actual.</div><div class="match"><div class="club"><div class="crest">B</div><b>Bolívar</b><div class="small">La Academia</div></div><div class="vs">VS</div><div class="club"><div class="crest">T</div><b>The Strongest</b><div class="small">El Tigre</div></div></div><div class="small" style="text-align:center">Cada hinchada tiene su propio SÍ y NO.</div>
 <div class="scorecard"><div class="scorehead">🔵 HINCHADA DE BOLÍVAR</div><div class="scores"><div class="score yes"><strong id="by">58%</strong><span>SÍ · GANARÁ</span></div><div class="score no"><strong id="bn">42%</strong><span>NO · NO GANARÁ</span></div></div><div class="bars"><div class="barYes" id="bym" style="width:58%"></div><div class="barNo" id="bnm" style="width:42%"></div></div><div class="voteButtons"><button class="btn yes" id="byv" onclick="vote('bolivar','yes')">👍 SÍ, BOLÍVAR GANARÁ</button><button class="btn no" id="bnv" onclick="vote('bolivar','no')">👎 NO, NO GANARÁ</button></div><div class="feedback" id="bvnote">Tu voto: sin elegir</div></div>
 <div class="scorecard gold"><div class="scorehead">🟡 HINCHADA DE THE STRONGEST</div><div class="scores"><div class="score yes"><strong id="ty">54%</strong><span>SÍ · GANARÁ</span></div><div class="score no"><strong id="tn">46%</strong><span>NO · NO GANARÁ</span></div></div><div class="bars"><div class="barYes" id="tym" style="width:54%"></div><div class="barNo" id="tnm" style="width:46%"></div></div><div class="voteButtons"><button class="btn yes" id="tyv" onclick="vote('strongest','yes')">👍 SÍ, THE STRONGEST GANARÁ</button><button class="btn no" id="tnv" onclick="vote('strongest','no')">👎 NO, NO GANARÁ</button></div><div class="feedback" id="tvnote">Tu voto: sin elegir</div></div><button class="btn full" onclick="resetVotes()">Reiniciar mis votos de esta prueba</button><p class="small">Votos locales de prueba. No se suman a otros teléfonos.</p></div></section>
-<section id="trivia" class="view"><div class="panel"><div class="kicker">🧠 DOÑA · TRIVIA BETA</div><h2>Preguntas rápidas</h2><p class="small">Banco ampliado de 60 preguntas. Se mezclan al azar y se evita repetir las últimas preguntas en este teléfono.</p><div id="quiz"></div><button class="btn gold full" onclick="newQuiz()">OTRA RONDA</button></div></section>
+<section id="trivia" class="view"><div class="panel"><div class="kicker">🧠 DOÑA · TRIVIA BETA</div><h2>Preguntas rápidas</h2><p class="small">60 preguntas. Rota categorías y dificultades, mezcla las opciones y evita repetir las últimas 9 preguntas en este teléfono.</p><div id="quiz"></div><button class="btn gold full" onclick="newQuiz()">OTRA RONDA</button></div></section>
 <section id="news" class="view"><div class="panel"><div class="kicker">📰 ACTUALIDAD</div><h2>Noticias · Deportes · Farándula</h2><div class="notice">La conexión automática a fuentes de actualidad aún no está habilitada. No mostramos noticias antiguas como si fueran de hoy.</div><div class="tilegrid" style="margin-top:12px"><div class="tile"><div class="emoji">🇧🇴</div><b>Bolivia</b><span class="small">Noticias por conectar</span></div><div class="tile"><div class="emoji">🌎</div><b>Mundo</b><span class="small">Noticias por conectar</span></div><div class="tile"><div class="emoji">🏆</div><b>Deportes</b><span class="small">Fixture por conectar</span></div><div class="tile"><div class="emoji">🎭</div><b>Farándula</b><span class="small">Tendencias por conectar</span></div></div></div></section>
 <section id="rank" class="view"><div class="panel"><div class="kicker">🏆 RANKING BETA</div><h2>Mis puntos</h2><div class="rankrow"><b>Trivia acertada</b><strong id="points">0 pts</strong></div><div class="rankrow"><b>Votos guardados</b><strong id="voteCount">0</strong></div><div class="notice" style="margin-top:12px">Ranking compartido entre jugadores requiere un servidor/backend. Esta demo solo muestra estadísticas de este dispositivo.</div></div></section>
 <div class="footer">PrediBol · Demo local · sin apuestas ni dinero real</div></main>
@@ -88,20 +88,39 @@ function newQuiz(){
  const recent=JSON.parse(localStorage.getItem('predibol_recent_questions')||'[]');
  const available=questions.filter(q=>!recent.includes(q.id));
  const pool=available.length>=3?available:questions;
- // Barajar sin sesgo y elegir tres preguntas distintas.
- const shuffled=pool.slice();
- for(let i=shuffled.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[shuffled[i],shuffled[j]]=[shuffled[j],shuffled[i]];}
- current=shuffled.slice(0,3);
+ // Elegir tres categorías distintas, si el banco lo permite, y mezclar dificultades.
+ const categories=[...new Set(pool.map(q=>q.cat))];
+ for(let i=categories.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[categories[i],categories[j]]=[categories[j],categories[i]];}
+ const picked=[];
+ categories.slice(0,3).forEach((cat,i)=>{
+  const group=pool.filter(q=>q.cat===cat);
+  // Alternar preferencia por Fácil/Media para que no salgan tres preguntas iguales de dificultad.
+  const preferred=i===1?'Media':'Fácil';
+  const levelGroup=group.filter(q=>q.level===preferred);
+  const choices=(levelGroup.length?levelGroup:group).slice();
+  const k=Math.floor(Math.random()*choices.length);
+  if(choices[k])picked.push(choices[k]);
+ });
+ // Si alguna categoría no tenía preguntas disponibles, completar con preguntas restantes.
+ while(picked.length<3){
+  const remaining=pool.filter(q=>!picked.some(x=>x.id===q.id));
+  if(!remaining.length)break;
+  picked.push(remaining[Math.floor(Math.random()*remaining.length)]);
+ }
+ current=picked;
  const nextRecent=recent.concat(current.map(q=>q.id)).slice(-9);
  localStorage.setItem('predibol_recent_questions',JSON.stringify(nextRecent));
  const box=$('quiz');box.innerHTML='';
  current.forEach((q,i)=>{
-  let d=document.createElement('div');d.className='question';
+  const d=document.createElement('div');d.className='question';
   const meta=document.createElement('div');meta.className='small';meta.textContent=q.cat+' · '+q.level;d.appendChild(meta);
   const title=document.createElement('b');title.textContent=(i+1)+'. '+q.q;d.appendChild(title);
-  q.opts.forEach((op,j)=>{
-   let b=document.createElement('button');b.className='btn option';b.textContent=op;
-   b.onclick=()=>{if(d.dataset.done)return;d.dataset.done='1';const ok=j===q.a;b.classList.add('selected');d.querySelectorAll('button').forEach(x=>x.disabled=true);const result=document.createElement('div');result.className='feedback';result.textContent=(ok?'¡Correcto! +100 puntos. ':'Incorrecto. ')+q.exp;d.appendChild(result);if(ok){data.points+=100;save()}};
+  // Mezclar alternativas y mantener la respuesta correcta asociada.
+  const options=q.opts.map((op,j)=>({text:op,correct:j===q.a}));
+  for(let n=options.length-1;n>0;n--){const j=Math.floor(Math.random()*(n+1));[options[n],options[j]]=[options[j],options[n]];}
+  options.forEach(option=>{
+   const b=document.createElement('button');b.className='btn option';b.textContent=option.text;
+   b.onclick=()=>{if(d.dataset.done)return;d.dataset.done='1';const ok=option.correct;b.classList.add('selected');d.querySelectorAll('button').forEach(x=>x.disabled=true);const result=document.createElement('div');result.className='feedback';result.textContent=(ok?'¡Correcto! +100 puntos. ':'Incorrecto. ')+q.exp;d.appendChild(result);if(ok){data.points+=100;save()}};
    d.appendChild(b);
   });
   box.appendChild(d);
