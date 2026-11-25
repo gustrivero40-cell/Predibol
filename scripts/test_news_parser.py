@@ -25,6 +25,10 @@ class NewsParserTests(unittest.TestCase):
         self.assertEqual(update_news.entry_fields(entry, atom=True), (
             "Noticia", "https://example.test/a", "Breve", "2026-11-25T10:00:00Z"))
 
+    def test_nested_atom_summary_text(self):
+        entry = ET.fromstring('''<entry xmlns="http://www.w3.org/2005/Atom"><summary><b>Texto</b> adicional</summary></entry>''')
+        self.assertEqual(update_news.child_text(entry, {"summary"}), "Texto adicional")
+
     def test_sports_category(self):
         self.assertIsNotNone(update_news.SPORTS_WORDS.search("El fútbol boliviano"))
         self.assertIsNone(update_news.SPORTS_WORDS.search("La economía crece"))
