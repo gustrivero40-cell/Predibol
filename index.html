@@ -83,6 +83,22 @@ const questions=[
 {id:'q59',cat:'Ciencia',level:'Fácil',q:'¿Qué estrella ilumina la Tierra durante el día?',opts:['Sirio','El Sol','Vega','Polaris'],a:1,exp:'El Sol es la estrella más cercana a la Tierra.'},
 {id:'q60',cat:'Cultura',level:'Fácil',q:'¿Cuántas letras tiene el alfabeto español actual?',opts:['26','27','28','29'],a:1,exp:'El alfabeto español actual tiene 27 letras.'}
 ];
+
+ // Validación preventiva del banco: no mostrar preguntas mal formadas.
+ const questionIds=new Set();
+ const validQuestions=questions.filter(q=>{
+  const valid=!!q&&typeof q.id==='string'&&q.id.trim()&&!questionIds.has(q.id)&&
+   typeof q.cat==='string'&&q.cat.trim()&&typeof q.level==='string'&&
+   typeof q.q==='string'&&q.q.trim()&&Array.isArray(q.opts)&&q.opts.length>=2&&
+   q.opts.every(o=>typeof o==='string'&&o.trim())&&new Set(q.opts).size===q.opts.length&&
+   Number.isInteger(q.a)&&q.a>=0&&q.a<q.opts.length&&typeof q.exp==='string'&&q.exp.trim();
+  if(valid)questionIds.add(q.id);
+  return valid;
+ });
+ questions.splice(0,questions.length,...validQuestions);
+ const quizIntro=document.querySelector('#trivia .small');
+ if(quizIntro)quizIntro.textContent='Banco activo: '+questions.length+' preguntas verificadas. Rondas de 3 preguntas, categorías variadas y opciones mezcladas. Se evita repetir las últimas 9 seleccionadas en este teléfono.';
+
 let current=[];
 function newQuiz(){
  const recent=JSON.parse(localStorage.getItem('predibol_recent_questions')||'[]');
