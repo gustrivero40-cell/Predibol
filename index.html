@@ -161,7 +161,7 @@ function renderNews(){
 }
 async function loadNews(){
  try{
-  const response=await fetch('./noticias.json?cache='+Date.now(),{cache:'no-store'});
+  const response=await fetch('./noticias.json',{cache:'no-store'});
   if(!response.ok)throw new Error('Noticias no disponibles');
   const data=await response.json();newsItems=Array.isArray(data.items)?data.items:[];
   const updated=data.updated?new Date(data.updated):null;
