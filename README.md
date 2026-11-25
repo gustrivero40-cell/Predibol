@@ -6,8 +6,8 @@ Prototipo web móvil de PrediBol: trivia boliviana, pulso de hinchadas y seccion
 
 Esta entrega es una **demo web/PWA**, no una aplicación Android publicada ni un APK/AAB listo para Play Store.
 
-- Trivia de demostración con banco de 100 preguntas incluidas en el código.
-- Cada ronda intenta usar tres categorías diferentes, alterna la dificultad y mezcla las alternativas manteniendo correcta la respuesta.
+- Trivia con 140 preguntas: 100 base incluidas en la app y 40 adicionales en `preguntas_extra.json`, cargadas al abrir y validadas (IDs únicos, opciones sin duplicados y respuesta correcta dentro del rango).
+- Cada ronda intenta usar tres categorías diferentes, alterna la dificultad y mezcla las alternativas manteniendo correcta la respuesta. La app descarga el banco complementario al abrir y conserva las preguntas base si falla la conexión.
 - Evita las últimas 9 preguntas seleccionadas en este teléfono (la selección local cuenta al generar una ronda).
 - Votos SÍ/NO por equipo guardados localmente en el teléfono.
 - Puntos y estadísticas locales; no se sincronizan entre usuarios.
