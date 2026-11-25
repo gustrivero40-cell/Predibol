@@ -11,7 +11,7 @@ Esta entrega es una **demo web/PWA**, no una aplicación Android publicada ni un
 - Evita las últimas 9 preguntas seleccionadas en este teléfono (la selección local cuenta al generar una ronda).
 - Votos SÍ/NO por equipo guardados localmente en el teléfono.
 - Puntos y estadísticas locales; no se sincronizan entre usuarios.
-- Actualidad se alimenta mediante un flujo RSS programado (GitHub Actions), actualmente con EL DEBER y BBC Mundo. El resumen se refresca cada 30 minutos; Deportes se etiqueta por palabras clave. La automatización necesita que Actions esté habilitado y que su primera ejecución termine correctamente.
+- Actualidad se alimenta mediante un flujo RSS programado (GitHub Actions), actualmente con EL DEBER y BBC Mundo. El resumen se refresca cada 30 minutos con EL DEBER y BBC Mundo; titulares de deportes se clasifican por palabras clave. Si las fuentes fallan, se conserva el archivo anterior. La automatización necesita que GitHub Actions esté habilitado y que su primera ejecución termine correctamente.
 - Los datos del partido y las cifras de ejemplo no son resultados oficiales ni encuestas reales.
 - No hay cuentas, servidor, ranking nacional ni moderación central.
 
