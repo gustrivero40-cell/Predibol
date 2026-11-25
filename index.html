@@ -168,7 +168,7 @@ loadExtraQuestions();
 
 let current=[];
 function newQuiz(){
- const recent=JSON.parse(localStorage.getItem('predibol_recent_questions')||'[]');
+ let recent=[];try{const savedRecent=JSON.parse(localStorage.getItem('predibol_recent_questions')||'[]');if(Array.isArray(savedRecent))recent=savedRecent.filter(x=>typeof x==='string').slice(-9)}catch(e){recent=[]}
  const available=questions.filter(q=>!recent.includes(q.id));
  const pool=available.length>=3?available:questions;
  // Elegir tres categorías distintas, si el banco lo permite, y mezclar dificultades.
