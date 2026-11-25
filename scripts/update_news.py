@@ -8,7 +8,7 @@ FEEDS = [
     ("Bolivia", "EL DEBER", "https://eldeber.com.bo/feed"),
     ("Mundo", "BBC Mundo", "https://feeds.bbci.co.uk/mundo/rss.xml"),
 ]
-SPORTS_WORDS = re.compile(r"\b(fútbol|futbol|deporte|deportes|liga|selección|seleccion|mundial|copa|gol|partido|tenis|básquet|basquet|olimpi|bolívar|bolivar|strongest|tigres|real madrid|barcelona)\b", re.I)
+SPORTS_WORDS = re.compile(r"\\b(fútbol|futbol|deporte|deportes|liga|selección|seleccion|mundial|copa|gol|partido|tenis|básquet|basquet|olimpi|bolívar|bolivar|strongest|tigres|real madrid|barcelona)\\b", re.I)
 TAG_RE = re.compile(r"<[^>]+>")
 
 def clean(value):
@@ -17,8 +17,11 @@ def clean(value):
 def child_text(node, wanted):
     for child in list(node):
         tag = child.tag.rsplit("}", 1)[-1].lower()
-        if tag in wanted and child.text:
-            return clean(child.text)
+        if tag in wanted:
+            # ElementTree's .text may only contain the first fragment of XHTML.
+            raw = child.text or "".join(child.itertext())
+            if raw:
+                return clean(raw)
     return ""
 
 def entry_fields(entry, atom=False):
@@ -57,7 +60,6 @@ def main():
             print(f"{source}: parsed {len(entries)} entries")
         except Exception as exc:
             print(f"Feed error {source}: {exc}")
-    # Preserve last known news if every feed is empty or unavailable.
     if not items:
         print(f"No usable items (successful feeds: {successful_feeds}); keeping noticias.json unchanged")
         return
