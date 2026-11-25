@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Validate core PrediBol files before deployment."""
-import json, re, sys
+import json, re, sys, subprocess, tempfile
 from pathlib import Path
 
 root=Path(".")
@@ -46,6 +46,15 @@ else:
     if "preguntas_extra.json" not in swsrc: fail("service worker bank cache missing")
 for p in ("assets/icon.svg","noticias.json"):
     if not (root/p).exists(): fail(f"{p} missing")
+# Check inline JavaScript syntax with Node's parser; this does not execute the app.
+if html.exists():
+    scripts=re.findall(r"<script(?:\\s[^>]*)?>(.*?)</script>", html.read_text(encoding="utf-8"), re.S|re.I)
+    for n,code in enumerate(scripts,1):
+        with tempfile.NamedTemporaryFile("w", suffix=".js", encoding="utf-8", delete=False) as f:
+            f.write(code); temp=f.name
+        result=subprocess.run(["node","--check",temp],capture_output=True,text=True)
+        Path(temp).unlink(missing_ok=True)
+        if result.returncode: fail(f"inline script {n} syntax error: {result.stderr.strip()}")
 if errors:
     print("VALIDATION FAILED:")
     for e in errors: print(" - "+e)
