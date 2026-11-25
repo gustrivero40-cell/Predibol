@@ -1,0 +1,562 @@
+[
+  {
+    "id": "q101",
+    "cat": "Bolivia",
+    "level": "Fácil",
+    "q": "¿Qué ciudad boliviana es conocida como la capital del folklore?",
+    "opts": [
+      "Sucre",
+      "Oruro",
+      "Tarija",
+      "Cobija"
+    ],
+    "a": 1,
+    "exp": "Oruro es reconocida por su gran tradición folklórica y Carnaval."
+  },
+  {
+    "id": "q102",
+    "cat": "Bolivia",
+    "level": "Media",
+    "q": "¿En qué departamento se encuentra el Parque Nacional Amboró?",
+    "opts": [
+      "Santa Cruz",
+      "Pando",
+      "Beni",
+      "Oruro"
+    ],
+    "a": 0,
+    "exp": "El Parque Nacional Amboró se encuentra en el departamento de Santa Cruz."
+  },
+  {
+    "id": "q103",
+    "cat": "Bolivia",
+    "level": "Fácil",
+    "q": "¿Qué fruta es tradicionalmente asociada con el valle de los Cintis?",
+    "opts": [
+      "Uva",
+      "Coco",
+      "Piña",
+      "Manzana"
+    ],
+    "a": 0,
+    "exp": "Los Cintis, en Chuquisaca, son conocidos por su producción de uvas y vinos."
+  },
+  {
+    "id": "q104",
+    "cat": "Bolivia",
+    "level": "Media",
+    "q": "¿Qué departamento boliviano tiene como capital a Trinidad?",
+    "opts": [
+      "Beni",
+      "Pando",
+      "Santa Cruz",
+      "La Paz"
+    ],
+    "a": 0,
+    "exp": "Trinidad es la capital del departamento del Beni."
+  },
+  {
+    "id": "q105",
+    "cat": "Bolivia",
+    "level": "Fácil",
+    "q": "¿Qué baile boliviano suele acompañar la fiesta del Gran Poder?",
+    "opts": [
+      "Morenada",
+      "Cueca chilena",
+      "Samba",
+      "Tango"
+    ],
+    "a": 0,
+    "exp": "La morenada es una de las danzas emblemáticas del Gran Poder."
+  },
+  {
+    "id": "q106",
+    "cat": "Bolivia",
+    "level": "Media",
+    "q": "¿Cuál de estos ríos forma parte de la cuenca amazónica en Bolivia?",
+    "opts": [
+      "Mamoré",
+      "Pilcomayo",
+      "Desaguadero",
+      "Lauca"
+    ],
+    "a": 0,
+    "exp": "El río Mamoré pertenece a la cuenca amazónica."
+  },
+  {
+    "id": "q107",
+    "cat": "Bolivia",
+    "level": "Fácil",
+    "q": "¿Qué departamento tiene como capital a Cobija?",
+    "opts": [
+      "Pando",
+      "Beni",
+      "Tarija",
+      "Cochabamba"
+    ],
+    "a": 0,
+    "exp": "Cobija es la capital del departamento de Pando."
+  },
+  {
+    "id": "q108",
+    "cat": "Bolivia",
+    "level": "Media",
+    "q": "¿Qué sitio arqueológico boliviano es famoso por la Puerta del Sol?",
+    "opts": [
+      "Tiwanaku",
+      "Samaipata",
+      "Incallajta",
+      "Iskanwaya"
+    ],
+    "a": 0,
+    "exp": "La Puerta del Sol es uno de los monumentos más conocidos de Tiwanaku."
+  },
+  {
+    "id": "q109",
+    "cat": "Deportes",
+    "level": "Fácil",
+    "q": "¿Cuántos puntos se obtiene por un tiro libre convertido en baloncesto?",
+    "opts": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "a": 0,
+    "exp": "Un tiro libre convertido vale un punto."
+  },
+  {
+    "id": "q110",
+    "cat": "Deportes",
+    "level": "Media",
+    "q": "¿En qué deporte se utiliza el término 'love' para indicar cero?",
+    "opts": [
+      "Tenis",
+      "Fútbol",
+      "Vóley",
+      "Boxeo"
+    ],
+    "a": 0,
+    "exp": "En el tenis, 'love' significa cero."
+  },
+  {
+    "id": "q111",
+    "cat": "Deportes",
+    "level": "Fácil",
+    "q": "¿Cuántos sets debe ganar normalmente un jugador para llevarse un partido masculino de Grand Slam en singles?",
+    "opts": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "a": 1,
+    "exp": "En el formato masculino tradicional de Grand Slam, se gana al mejor de cinco sets, es decir, tres sets."
+  },
+  {
+    "id": "q112",
+    "cat": "Deportes",
+    "level": "Media",
+    "q": "¿Qué país organizó los Juegos Olímpicos de verano de 2016?",
+    "opts": [
+      "Brasil",
+      "China",
+      "Grecia",
+      "Japón"
+    ],
+    "a": 0,
+    "exp": "Río de Janeiro, Brasil, fue sede de los Juegos Olímpicos de 2016."
+  },
+  {
+    "id": "q113",
+    "cat": "Deportes",
+    "level": "Fácil",
+    "q": "¿Qué deporte se juega con un balón ovalado y tries?",
+    "opts": [
+      "Rugby",
+      "Hockey",
+      "Béisbol",
+      "Handball"
+    ],
+    "a": 0,
+    "exp": "El rugby se juega con balón ovalado y permite marcar tries."
+  },
+  {
+    "id": "q114",
+    "cat": "Deportes",
+    "level": "Media",
+    "q": "¿Qué significa un empate en ajedrez cuando ningún jugador puede dar mate y no hay movimientos legales?",
+    "opts": [
+      "Tablas por ahogado",
+      "Jaque doble",
+      "Enroque",
+      "Promoción"
+    ],
+    "a": 0,
+    "exp": "El ahogado ocurre cuando el jugador no está en jaque pero no tiene movimientos legales; es tablas."
+  },
+  {
+    "id": "q115",
+    "cat": "Deportes",
+    "level": "Fácil",
+    "q": "¿Cuántos jugadores de un equipo de voleibol están en cancha?",
+    "opts": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "a": 1,
+    "exp": "El voleibol de sala se juega con seis jugadores por equipo."
+  },
+  {
+    "id": "q116",
+    "cat": "Deportes",
+    "level": "Media",
+    "q": "¿En qué deporte se disputa la Copa Davis?",
+    "opts": [
+      "Tenis",
+      "Golf",
+      "Rugby",
+      "Atletismo"
+    ],
+    "a": 0,
+    "exp": "La Copa Davis es una competición internacional masculina de tenis por equipos."
+  },
+  {
+    "id": "q117",
+    "cat": "Cultura",
+    "level": "Fácil",
+    "q": "¿Quién pintó la Mona Lisa?",
+    "opts": [
+      "Leonardo da Vinci",
+      "Vincent van Gogh",
+      "Pablo Picasso",
+      "Claude Monet"
+    ],
+    "a": 0,
+    "exp": "La Mona Lisa fue pintada por Leonardo da Vinci."
+  },
+  {
+    "id": "q118",
+    "cat": "Cultura",
+    "level": "Media",
+    "q": "¿Cuál es el idioma original de la obra 'La Odisea'?",
+    "opts": [
+      "Griego antiguo",
+      "Latín",
+      "Arameo",
+      "Francés"
+    ],
+    "a": 0,
+    "exp": "La Odisea es un poema épico compuesto en griego antiguo."
+  },
+  {
+    "id": "q119",
+    "cat": "Cultura",
+    "level": "Fácil",
+    "q": "¿Qué instrumento musical tiene seis cuerdas en su forma más común?",
+    "opts": [
+      "Guitarra",
+      "Arpa",
+      "Flauta",
+      "Timbal"
+    ],
+    "a": 0,
+    "exp": "La guitarra clásica o acústica estándar suele tener seis cuerdas."
+  },
+  {
+    "id": "q120",
+    "cat": "Cultura",
+    "level": "Media",
+    "q": "¿Qué corriente artística se asocia con Salvador Dalí?",
+    "opts": [
+      "Surrealismo",
+      "Impresionismo",
+      "Barroco",
+      "Neoclasicismo"
+    ],
+    "a": 0,
+    "exp": "Salvador Dalí fue uno de los artistas más conocidos del surrealismo."
+  },
+  {
+    "id": "q121",
+    "cat": "Cultura",
+    "level": "Fácil",
+    "q": "¿Cuál es el género literario de una historia inventada con personajes y trama?",
+    "opts": [
+      "Narrativo",
+      "Lírico",
+      "Dramático solamente",
+      "Ensayo científico"
+    ],
+    "a": 0,
+    "exp": "El género narrativo relata acontecimientos mediante una historia."
+  },
+  {
+    "id": "q122",
+    "cat": "Cultura",
+    "level": "Media",
+    "q": "¿En qué ciudad se encuentra el museo del Louvre?",
+    "opts": [
+      "París",
+      "Roma",
+      "Madrid",
+      "Londres"
+    ],
+    "a": 0,
+    "exp": "El museo del Louvre está en París, Francia."
+  },
+  {
+    "id": "q123",
+    "cat": "Cultura",
+    "level": "Fácil",
+    "q": "¿Qué celebración se asocia con calabazas talladas y disfraces?",
+    "opts": [
+      "Halloween",
+      "Carnaval de Venecia",
+      "Año Nuevo chino",
+      "Hanami"
+    ],
+    "a": 0,
+    "exp": "Halloween se celebra tradicionalmente el 31 de octubre."
+  },
+  {
+    "id": "q124",
+    "cat": "Cultura",
+    "level": "Media",
+    "q": "¿Qué escritor creó al detective Sherlock Holmes?",
+    "opts": [
+      "Arthur Conan Doyle",
+      "Agatha Christie",
+      "Edgar Allan Poe",
+      "Charles Dickens"
+    ],
+    "a": 0,
+    "exp": "Sherlock Holmes fue creado por Arthur Conan Doyle."
+  },
+  {
+    "id": "q125",
+    "cat": "Ciencia",
+    "level": "Fácil",
+    "q": "¿Cuál es el símbolo químico del oro?",
+    "opts": [
+      "Au",
+      "Ag",
+      "Fe",
+      "O"
+    ],
+    "a": 0,
+    "exp": "El símbolo químico del oro es Au."
+  },
+  {
+    "id": "q126",
+    "cat": "Ciencia",
+    "level": "Media",
+    "q": "¿Qué fuerza mantiene a los planetas en órbita alrededor del Sol?",
+    "opts": [
+      "Gravedad",
+      "Magnetismo",
+      "Fricción",
+      "Electricidad estática"
+    ],
+    "a": 0,
+    "exp": "La gravedad del Sol mantiene a los planetas ligados en sus órbitas."
+  },
+  {
+    "id": "q127",
+    "cat": "Ciencia",
+    "level": "Fácil",
+    "q": "¿Qué parte de la planta absorbe principalmente agua del suelo?",
+    "opts": [
+      "Raíces",
+      "Flores",
+      "Frutos",
+      "Hojas"
+    ],
+    "a": 0,
+    "exp": "Las raíces absorben agua y minerales del suelo."
+  },
+  {
+    "id": "q128",
+    "cat": "Ciencia",
+    "level": "Media",
+    "q": "¿Qué tipo de célula no tiene núcleo definido?",
+    "opts": [
+      "Procariota",
+      "Eucariota",
+      "Neurona",
+      "Célula vegetal"
+    ],
+    "a": 0,
+    "exp": "Las células procariotas no poseen núcleo delimitado por membrana."
+  },
+  {
+    "id": "q129",
+    "cat": "Ciencia",
+    "level": "Fácil",
+    "q": "¿Qué vitamina produce la piel con ayuda de la luz solar?",
+    "opts": [
+      "Vitamina D",
+      "Vitamina C",
+      "Vitamina B12",
+      "Vitamina K"
+    ],
+    "a": 0,
+    "exp": "La exposición a la luz solar contribuye a la producción de vitamina D en la piel."
+  },
+  {
+    "id": "q130",
+    "cat": "Ciencia",
+    "level": "Media",
+    "q": "¿Cuál es la unidad básica de la corriente eléctrica en el Sistema Internacional?",
+    "opts": [
+      "Amperio",
+      "Voltio",
+      "Ohmio",
+      "Watio"
+    ],
+    "a": 0,
+    "exp": "La corriente eléctrica se mide en amperios."
+  },
+  {
+    "id": "q131",
+    "cat": "Ciencia",
+    "level": "Fácil",
+    "q": "¿Qué órgano permite principalmente respirar al intercambiar gases?",
+    "opts": [
+      "Pulmones",
+      "Estómago",
+      "Páncreas",
+      "Bazo"
+    ],
+    "a": 0,
+    "exp": "Los pulmones realizan el intercambio de oxígeno y dióxido de carbono."
+  },
+  {
+    "id": "q132",
+    "cat": "Ciencia",
+    "level": "Media",
+    "q": "¿Qué proceso transforma el vapor de agua en líquido?",
+    "opts": [
+      "Condensación",
+      "Evaporación",
+      "Sublimación",
+      "Fusión"
+    ],
+    "a": 0,
+    "exp": "La condensación ocurre cuando el vapor pasa a estado líquido."
+  },
+  {
+    "id": "q133",
+    "cat": "Mundo",
+    "level": "Fácil",
+    "q": "¿Cuál es el océano más grande del planeta?",
+    "opts": [
+      "Pacífico",
+      "Atlántico",
+      "Índico",
+      "Ártico"
+    ],
+    "a": 0,
+    "exp": "El océano Pacífico es el más extenso."
+  },
+  {
+    "id": "q134",
+    "cat": "Mundo",
+    "level": "Media",
+    "q": "¿En qué continente se encuentra Egipto?",
+    "opts": [
+      "África",
+      "Asia",
+      "Europa",
+      "América"
+    ],
+    "a": 0,
+    "exp": "La mayor parte del territorio de Egipto se encuentra en África, aunque la península del Sinaí está en Asia."
+  },
+  {
+    "id": "q135",
+    "cat": "Mundo",
+    "level": "Fácil",
+    "q": "¿Cuál es la capital de Japón?",
+    "opts": [
+      "Tokio",
+      "Kioto",
+      "Osaka",
+      "Sapporo"
+    ],
+    "a": 0,
+    "exp": "Tokio es la capital de Japón."
+  },
+  {
+    "id": "q136",
+    "cat": "Mundo",
+    "level": "Media",
+    "q": "¿Qué país tiene forma de bota en el mapa europeo?",
+    "opts": [
+      "Italia",
+      "Portugal",
+      "Noruega",
+      "Polonia"
+    ],
+    "a": 0,
+    "exp": "La península italiana suele describirse como una bota."
+  },
+  {
+    "id": "q137",
+    "cat": "Mundo",
+    "level": "Fácil",
+    "q": "¿Qué moneda se usa en muchos países de la Unión Europea?",
+    "opts": [
+      "Euro",
+      "Dólar",
+      "Yen",
+      "Libra en todos"
+    ],
+    "a": 0,
+    "exp": "El euro es la moneda oficial de muchos países miembros de la Unión Europea."
+  },
+  {
+    "id": "q138",
+    "cat": "Mundo",
+    "level": "Media",
+    "q": "¿Cuál es el país más grande del mundo por superficie?",
+    "opts": [
+      "Rusia",
+      "Canadá",
+      "China",
+      "Estados Unidos"
+    ],
+    "a": 0,
+    "exp": "Rusia es el país más extenso del mundo por superficie."
+  },
+  {
+    "id": "q139",
+    "cat": "Mundo",
+    "level": "Fácil",
+    "q": "¿Qué cordillera atraviesa gran parte de Sudamérica por el oeste?",
+    "opts": [
+      "Andes",
+      "Alpes",
+      "Himalaya",
+      "Urales"
+    ],
+    "a": 0,
+    "exp": "La cordillera de los Andes recorre el borde occidental de Sudamérica."
+  },
+  {
+    "id": "q140",
+    "cat": "Mundo",
+    "level": "Media",
+    "q": "¿Qué país tiene como capital a Canberra?",
+    "opts": [
+      "Australia",
+      "Nueva Zelanda",
+      "Sudáfrica",
+      "Irlanda"
+    ],
+    "a": 0,
+    "exp": "Canberra es la capital de Australia."
+  }
+]
