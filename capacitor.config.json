@@ -1,11 +1,7 @@
 {
   "appId": "com.predibol.app",
   "appName": "PrediBol",
-  "webDir": ".",
-  "server": {
-    "url": "https://gustrivero40-cell.github.io/Predibol/",
-    "cleartext": false
-  },
+  "webDir": "web",
   "android": {
     "allowMixedContent": false
   }
