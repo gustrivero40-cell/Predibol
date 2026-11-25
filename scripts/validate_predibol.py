@@ -33,8 +33,12 @@ else:
         if not isinstance(a,int) or isinstance(a,bool) or not isinstance(opts,list) or a<0 or a>=len(opts):
             fail(f"question {i}: answer index invalid")
         qid=q.get("id")
-        if qid in ids: fail(f"question {i}: duplicate id {qid}")
-        ids.add(qid)
+        if not isinstance(qid,str) or not qid.strip():
+            fail(f"question {i}: id must be a nonblank string")
+        elif qid in ids:
+            fail(f"question {i}: duplicate id {qid}")
+        else:
+            ids.add(qid)
     print(f"Supplemental trivia bank: {len(bank)} questions checked")
 
 html=root/"index.html"
