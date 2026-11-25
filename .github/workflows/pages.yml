@@ -21,6 +21,12 @@ jobs:
         uses: actions/checkout@v4
       - name: Setup Pages
         uses: actions/configure-pages@v5
+      - name: Validate PrediBol files
+        run: |
+          python -m json.tool preguntas_extra.json > /dev/null
+          python -m json.tool manifest.webmanifest > /dev/null
+          python -m json.tool noticias.json > /dev/null
+          python scripts/validate_predibol.py
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
