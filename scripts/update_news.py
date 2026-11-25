@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Fetch a small, attributed RSS news digest for PrediBol."""
+"""Fetch and normalize a small, attributed RSS/Atom news digest for PrediBol."""
 import json, re, html, urllib.request, xml.etree.ElementTree as ET
 from datetime import datetime, timezone
 from pathlib import Path
@@ -8,42 +8,63 @@ FEEDS = [
     ("Bolivia", "EL DEBER", "https://eldeber.com.bo/feed"),
     ("Mundo", "BBC Mundo", "https://feeds.bbci.co.uk/mundo/rss.xml"),
 ]
-SPORTS_WORDS = re.compile(r"\b(fútbol|futbol|deporte|deportes|liga|selección|seleccion|mundial|copa|gol|partido|tenis|básquet|basquet|olimpi|bolívar|bolivar|strongest|tigres|real madrid|barcelona)\b", re.I)
+SPORTS_WORDS = re.compile(r"\\b(fútbol|futbol|deporte|deportes|liga|selección|seleccion|mundial|copa|gol|partido|tenis|básquet|basquet|olimpi|bolívar|bolivar|strongest|tigres|real madrid|barcelona)\\b", re.I)
+TAG_RE = re.compile(r"<[^>]+>")
 
-def text(node, names):
-    for name in names:
-        el = node.find(name)
-        if el is not None and el.text:
-            return html.unescape(re.sub(r"<[^>]+>", "", el.text)).strip()
+def clean(value):
+    return html.unescape(TAG_RE.sub("", value or "")).strip()
+
+def child_text(node, wanted):
+    for child in list(node):
+        tag = child.tag.rsplit("}", 1)[-1].lower()
+        if tag in wanted and child.text:
+            return clean(child.text)
     return ""
+
+def entry_fields(entry, atom=False):
+    title = child_text(entry, {"title"})
+    if atom:
+        link = next((c.attrib.get("href", "") for c in list(entry)
+                     if c.tag.rsplit("}", 1)[-1].lower() == "link"
+                     and c.attrib.get("rel", "alternate") == "alternate"), "")
+        summary = child_text(entry, {"summary", "content"})
+        date = child_text(entry, {"published", "updated"})
+    else:
+        link = child_text(entry, {"link"})
+        summary = child_text(entry, {"description", "summary"})
+        date = child_text(entry, {"pubdate", "date"})
+    return title, link, summary, date
 
 def main():
     items, seen = [], set()
     successful_feeds = 0
     for section, source, url in FEEDS:
         try:
-            req = urllib.request.Request(url, headers={"User-Agent":"PrediBolNewsBot/1.0 (RSS reader)"})
+            req = urllib.request.Request(url, headers={"User-Agent":"PrediBolNewsBot/1.1"})
             with urllib.request.urlopen(req, timeout=20) as response:
                 root = ET.fromstring(response.read())
+            atom = root.tag.rsplit("}", 1)[-1].lower() == "feed"
+            entries = root.findall(".//{*}entry") if atom else root.findall(".//item")
             successful_feeds += 1
-            for entry in root.findall(".//item")[:30]:
-                title = text(entry, ["title"])
-                link = text(entry, ["link"])
-                desc = text(entry, ["description"])
-                date = text(entry, ["pubDate"])
-                if not title or not link or link in seen: continue
+            for entry in entries[:30]:
+                title, link, summary, date = entry_fields(entry, atom)
+                if not title or not link or link in seen:
+                    continue
                 seen.add(link)
-                cat = "Deportes" if SPORTS_WORDS.search(title) else section
-                items.append({"category":cat,"source":source,"title":title[:220],"summary":desc[:380],"url":link,"published":date})
-        except Exception as e:
-            print(f"Feed error {source}: {e}")
-    # Preserve last known headlines if all feeds fail/return empty, rather than blanking the app.
+                category = "Deportes" if SPORTS_WORDS.search(title) else section
+                items.append({"category":category,"source":source,"title":title[:220],
+                             "summary":summary[:380],"url":link,"published":date})
+            print(f"{source}: parsed {len(entries)} entries")
+        except Exception as exc:
+            print(f"Feed error {source}: {exc}")
+    # Preserve last known news if every feed is empty or unavailable.
     if not items:
-        print(f"No new/usable items (successful feeds: {successful_feeds}); preserving existing noticias.json")
+        print(f"No usable items (successful feeds: {successful_feeds}); keeping noticias.json unchanged")
         return
-    items.sort(key=lambda x:x.get("published",""), reverse=True)
+    items.sort(key=lambda item:item.get("published",""), reverse=True)
     out={"updated":datetime.now(timezone.utc).isoformat(),"items":items[:60]}
-    Path("noticias.json").write_text(json.dumps(out,ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
+    Path("noticias.json").write_text(json.dumps(out,ensure_ascii=False,indent=2)+"\\n",encoding="utf-8")
     print(f"Saved {len(out['items'])} news items")
-if __name__=="__main__":
+
+if __name__ == "__main__":
     main()
