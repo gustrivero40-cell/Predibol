@@ -48,7 +48,7 @@ for p in ("assets/icon.svg","noticias.json"):
     if not (root/p).exists(): fail(f"{p} missing")
 # Check inline JavaScript syntax with Node's parser; this does not execute the app.
 if html.exists():
-    scripts=re.findall(r"<script(?:\\s[^>]*)?>(.*?)</script>", html.read_text(encoding="utf-8"), re.S|re.I)
+    scripts=re.findall(r"<script(?:\s[^>]*)?>(.*?)</script>", html.read_text(encoding="utf-8"), re.S|re.I)
     for n,code in enumerate(scripts,1):
         with tempfile.NamedTemporaryFile("w", suffix=".js", encoding="utf-8", delete=False) as f:
             f.write(code); temp=f.name
