@@ -1,5 +1,5 @@
-const CACHE = "predibol-v2";
-const FILES = ["./", "./index.html", "./manifest.webmanifest", "./assets/icon.svg"];
+const CACHE = "predibol-v3";
+const FILES = ["./", "./index.html", "./manifest.webmanifest", "./assets/icon.svg", "./preguntas_extra.json"];
 self.addEventListener("install", event => {
   event.waitUntil(caches.open(CACHE).then(cache => cache.addAll(FILES)));
   self.skipWaiting();
@@ -12,6 +12,16 @@ self.addEventListener("fetch", event => {
   if (event.request.method !== "GET") return;
   const url = new URL(event.request.url);
   // News digest must be fresh first; only fall back to cache when offline.
+  if (url.pathname.endsWith("/preguntas_extra.json") || url.pathname === "/preguntas_extra.json") {
+    event.respondWith(fetch(event.request).then(response => {
+      if (response.ok) {
+        const copy = response.clone();
+        caches.open(CACHE).then(cache => cache.put("./preguntas_extra.json", copy));
+      }
+      return response;
+    }).catch(() => caches.match("./preguntas_extra.json")));
+    return;
+  }
   if (url.pathname.endsWith("/noticias.json") || url.pathname === "/noticias.json") {
     event.respondWith(fetch(event.request).then(response => {
       if (response.ok) {
