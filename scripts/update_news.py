@@ -8,7 +8,7 @@ FEEDS = [
     ("Bolivia", "EL DEBER", "https://eldeber.com.bo/feed"),
     ("Mundo", "BBC Mundo", "https://feeds.bbci.co.uk/mundo/rss.xml"),
 ]
-SPORTS_WORDS = re.compile(r"\\b(fútbol|futbol|deporte|deportes|liga|selección|seleccion|mundial|copa|gol|partido|tenis|básquet|basquet|olimpi|bolívar|bolivar|strongest|tigres|real madrid|barcelona)\\b", re.I)
+SPORTS_WORDS = re.compile(r"\b(fútbol|futbol|deporte|deportes|liga|selección|seleccion|mundial|copa|gol|partido|tenis|básquet|basquet|olimpi|bolívar|bolivar|strongest|tigres|real madrid|barcelona)\b", re.I)
 TAG_RE = re.compile(r"<[^>]+>")
 
 def clean(value):
