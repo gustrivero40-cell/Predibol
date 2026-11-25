@@ -19,7 +19,7 @@ def child_text(node, wanted):
         tag = child.tag.rsplit("}", 1)[-1].lower()
         if tag in wanted:
             # ElementTree's .text may only contain the first fragment of XHTML.
-            raw = child.text or "".join(child.itertext())
+            raw = "".join(child.itertext())
             if raw:
                 return clean(raw)
     return ""
