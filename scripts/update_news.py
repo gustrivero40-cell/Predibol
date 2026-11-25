@@ -63,7 +63,7 @@ def main():
         return
     items.sort(key=lambda item:item.get("published",""), reverse=True)
     out={"updated":datetime.now(timezone.utc).isoformat(),"items":items[:60]}
-    Path("noticias.json").write_text(json.dumps(out,ensure_ascii=False,indent=2)+"\\n",encoding="utf-8")
+    Path("noticias.json").write_text(json.dumps(out,ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
     print(f"Saved {len(out['items'])} news items")
 
 if __name__ == "__main__":
