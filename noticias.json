@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T17:10:48.436130+00:00",
+  "updated": "2026-11-26T18:18:29.232980+00:00",
   "items": [
     {
       "category": "Mundo",
@@ -84,14 +84,6 @@
     {
       "category": "Mundo",
       "source": "BBC Mundo",
-      "title": "\"Le digo a mi hijo que son solo fuegos artificiales\": cómo es vivir en una ciudad de Yemen sitiada por los rebeldes hutíes",
-      "summary": "Taiz, la tercera ciudad más grande de Yemen, lleva semanas aislada del mundo, bajo asedio de los hutíes. La BBC habló con personas atrapadas allí.",
-      "url": "https://www.bbc.com/mundo/articles/cx5y1mzvgpe8o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 25 Nov 2026 04:47:20 GMT"
-    },
-    {
-      "category": "Mundo",
-      "source": "BBC Mundo",
       "title": "Tu cerebro está agotado por demasiadas tareas sin terminar: 5 sencillos pasos pueden ayudarte",
       "summary": "Las tareas inconclusas generan dificultades para la mayoría de las personas.",
       "url": "https://www.bbc.com/mundo/articles/c6jd725nxvy2o?at_medium=RSS&at_campaign=rss",
@@ -132,6 +124,38 @@
     {
       "category": "Bolivia",
       "source": "EL DEBER",
+      "title": "2.795 familias resultan afectadas en Bolivia tras 48 horas de lluvia; la alerta en ríos se mantiene",
+      "summary": "Santa Cruz, Cochabamba y La Paz concentran las principales emergencias. El balance todavía no incluye los daños en territorio cruceño, donde rige una alerta roja. El Gobierno pidió a las alcaldías y gobernaciones activar sus mecanismos de respuesta.",
+      "url": "https://eldeber.com.bo/pais/2-795-familias-resultan-afectadas-bolivia-48-horas-lluvia-alerta-rios-mantiene_1795715565",
+      "published": "Thu, 26 Nov 2026 17:52:45 GMT"
+    },
+    {
+      "category": "Bolivia",
+      "source": "EL DEBER",
+      "title": "Martínez da por cerrado el incidente con Alemán y no presentará denuncias",
+      "summary": "El arquero de Real Potosí se pronunció en sus redes sociales tras el golpe que recibió del árbitro Jordy Alemán al finalizar la final de vuelta de la Copa Bolivia y aseguró que decidió no iniciar acciones judiciales ni presentar denuncias ante las autoridades deportivas.",
+      "url": "https://eldeber.com.bo/deportes/martinez-da-cerrado-incidente-aleman-no-presentara-denuncias_1795715506",
+      "published": "Thu, 26 Nov 2026 17:51:46 GMT"
+    },
+    {
+      "category": "Mundo",
+      "source": "BBC Mundo",
+      "title": "\"La suerte se le terminó\": el migrante que fue detenido por ICE en EE.UU. días después de ganar la lotería",
+      "summary": "Ariel Velásquez había comprado la semana pasada un boleto de lotería instantánea en la ciudad de Boston.",
+      "url": "https://www.bbc.com/mundo/articles/c6lym4rjyp3go?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 26 Nov 2026 17:33:08 GMT"
+    },
+    {
+      "category": "Bolivia",
+      "source": "EL DEBER",
+      "title": "Un brasileño fue aprehendido tras el enfrentamiento armado que dejó un policía herido en San Matías",
+      "summary": "El hombre, originario de Brasil, fue aprehendido luego del enfrentamiento entre la Policía y presuntos traficantes, en una propiedad en el municipio fronterizo de San Matías",
+      "url": "https://eldeber.com.bo/santa-cruz/brasileno-fue-aprehendido-enfrentamiento-armado-dejo-policia-herido-san-matias_1795712685",
+      "published": "Thu, 26 Nov 2026 17:04:45 GMT"
+    },
+    {
+      "category": "Bolivia",
+      "source": "EL DEBER",
       "title": "Ampliado de choferes determina paro general indefinido desde el lunes tras el alza del diésel",
       "summary": "Los transportistas rechazan el incremento del precio del diésel de Bs 17,95 a Bs 20,57",
       "url": "https://eldeber.com.bo/pais/ampliado-choferes-determina-paro-general-indefinido-lunes-alza-diesel_1795712283",
@@ -140,10 +164,26 @@
     {
       "category": "Bolivia",
       "source": "EL DEBER",
-      "title": "“Hoy tenemos un sistema que funciona”: La Alcaldía destacó mejoras en los canales de drenaje de Santa Cruz",
-      "summary": "Luego de las intensa lluvia que dejó calles inundadas en Santa Cruz de la Sierra, Obras Públicas afirmó que los trabajos de mantenimiento mejoraron la evacuación del agua. Advirtió que la basura puede reducir nuevamente la capacidad del sistema.",
+      "title": "“Hoy tenemos un sistema que funciona”: La Alcaldía destacó mejoras en los canales de drenaje pese a calles inundadas",
+      "summary": "Luego de las intensa lluvia que dejó calles anegadas en Santa Cruz de la Sierra, Obras Públicas afirmó que los trabajos de mantenimiento mejoraron la evacuación del agua. Advirtió que la basura puede reducir nuevamente la capacidad del sistema.",
       "url": "https://eldeber.com.bo/santa-cruz/alcaldia-capital-crucena-reporta-mejoras-drenaje-lluvias-pide-no-echar-basura-canales_1795711838",
       "published": "Thu, 26 Nov 2026 16:56:58 GMT"
+    },
+    {
+      "category": "Bolivia",
+      "source": "EL DEBER",
+      "title": "La Fiscalía de Santa Cruz descartó denuncias e investigaciones contra Stello Cochamanidis",
+      "summary": "La fiscal departamental, Rose María Barrientos, aseguró que no existe ninguna acción penal contra el presidente del Comité pro Santa Cruz, quien denunció un supuesto intento de involucrarlo en un proceso judicial y alertó sobre operaciones desde el interior del Gobierno.",
+      "url": "https://eldeber.com.bo/santa-cruz/fiscalia-santa-cruz-descarto-denuncias-investigaciones-stello-cochamanidis_1795711604",
+      "published": "Thu, 26 Nov 2026 16:46:44 GMT"
+    },
+    {
+      "category": "Bolivia",
+      "source": "EL DEBER",
+      "title": "Sin canales de drenaje, sin puente y sin recursos: El Torno busca ayuda para evitar desastres por las lluvias",
+      "summary": "\"En dos horas de lluvias, el agua nos llegó hasta las rodillas\", informó el alcalde de El Torno. Las lluvias del miércoles dejaron quebradas con crecidas en sus niveles y hay comunidades incomunicadas por falta de cobertura de internet",
+      "url": "https://eldeber.com.bo/santa-cruz/canales-drenaje-puente-recursos-torno-busca-ayuda-evitar-desastres-lluvias_1795711255",
+      "published": "Thu, 26 Nov 2026 16:40:55 GMT"
     },
     {
       "category": "Mundo",
@@ -154,9 +194,17 @@
       "published": "Thu, 26 Nov 2026 16:37:09 GMT"
     },
     {
+      "category": "Bolivia",
+      "source": "EL DEBER",
+      "title": "El Gobierno busca $us 1.250 millones para pagar deudas y evitar la paralización de obras",
+      "summary": "El Ejecutivo aprobó tres proyectos de ley para acceder a créditos del BID y del Banco Mundial. La falta de liquidez afecta desde los proyectos de inversión pública hasta las obligaciones del servicio exterior y los compromisos con organismos internacionales",
+      "url": "https://eldeber.com.bo/pais/gobierno-busca-us-1-250-millones-pagar-deudas-evitar-paralizacion-obras_1795710527",
+      "published": "Thu, 26 Nov 2026 16:28:47 GMT"
+    },
+    {
       "category": "Mundo",
       "source": "BBC Mundo",
-      "title": "Starmind, el polémico proyecto de Elon Musk aprobado por EE.UU. para construir centros de datos en el espacio",
+      "title": "Starmind, el polémico proyecto de Elon Musk aprobado por EE.UU. para lanzar 1 millón de satélites al espacio",
       "summary": "La constelación Starmind pretende ser la forma más rentable y energéticamente eficiente de satisfacer la creciente demanda de capacidad de procesamiento para la inteligencia artificial.",
       "url": "https://www.bbc.com/mundo/articles/c5y4j0nyelemo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 26 Nov 2026 15:56:13 GMT"
@@ -300,26 +348,10 @@
     {
       "category": "Bolivia",
       "source": "EL DEBER",
-      "title": "Operativo en San Matías deja un policía herido de bala",
-      "summary": "El agente antidroga recibió un disparo a la altura del cuello. Fue evacuado a Brasil, a un hospital",
-      "url": "https://eldeber.com.bo/santa-cruz/operativo-san-matias-deja-policia-herido-bala_1795701605",
-      "published": "Thu, 26 Nov 2026 14:00:05 GMT"
-    },
-    {
-      "category": "Bolivia",
-      "source": "EL DEBER",
       "title": "Gobierno insta al diálogo en medio de amenazas de protestas por el alza del diésel",
       "summary": "El incremento del precio de diésel continúa generando una serie de reacciones. En La Paz, un ampliado nacional de choferes asumirá decisiones frente a la nueva medida gubernamental.",
       "url": "https://eldeber.com.bo/economia/gobierno-insta-dialogo-medio-amenazas-protestas-alza-diesel_1795701044",
       "published": "Thu, 26 Nov 2026 13:50:44 GMT"
-    },
-    {
-      "category": "Bolivia",
-      "source": "EL DEBER",
-      "title": "Los ríos alcanzaron su nivel máximo y hay alertas en las cuencas en la zona norte",
-      "summary": "Los pronósticos previstos de la lluvia para dos días, se registraron en un día y provocaron la crecida de los ríos de hasta 4 metros en puntos críticos como la cuenca de Espejos. El Searpi desplaza a sus equipos técnicos al Norte Integrado",
-      "url": "https://eldeber.com.bo/santa-cruz/rios-alcanzaron-nivel-maximo-hay-alertas-cuentas-zona-norte_1795700417",
-      "published": "Thu, 26 Nov 2026 13:40:17 GMT"
     },
     {
       "category": "Mundo",
@@ -328,38 +360,6 @@
       "summary": "La presentadora aceptó salir de forma voluntaria de EE.UU. y fue enviada a España. México pidió su extradición en 2025.",
       "url": "https://www.bbc.com/mundo/articles/crjeqy9ynvnyo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 26 Nov 2026 13:31:03 GMT"
-    },
-    {
-      "category": "Bolivia",
-      "source": "EL DEBER",
-      "title": "Martínez arremete contra Alemán y lanza una polémica frase sobre su madre",
-      "summary": "El arquero de Real Potosí reaccionó con dureza luego de recibir un golpe de puño del árbitro Jordy Alemán tras la final de la Copa Bolivia ante Always Ready.",
-      "url": "https://eldeber.com.bo/deportes/martinez-arremete-aleman-lanza-polemica-frase-madre_1795699465",
-      "published": "Thu, 26 Nov 2026 13:24:25 GMT"
-    },
-    {
-      "category": "Bolivia",
-      "source": "EL DEBER",
-      "title": "¿Qué sanción le corresponde a Jordy Alemán por agredir a un jugador?",
-      "summary": "La norma contempla una multa mínima de 20 salarios mínimos nacionales y la prohibición de ejercer actividades relacionadas con el fútbol de uno a tres años.",
-      "url": "https://eldeber.com.bo/deportes/sancion-le-corresponde-jordy-aleman-agredir-jugador_1795698951",
-      "published": "Thu, 26 Nov 2026 13:15:51 GMT"
-    },
-    {
-      "category": "Deportes",
-      "source": "EL DEBER",
-      "title": "Bolivia va por las semifinales del Mundial de talla baja ante Colombia",
-      "summary": "La Verde afrontará este jueves los cuartos de final tras cerrar la fase de grupos con puntaje perfecto. El duelo está programado para las 17:45, hora boliviana.",
-      "url": "https://eldeber.com.bo/deportes/bolivia-va-semifinales-mundial-talla-baja-colombia_1795698711",
-      "published": "Thu, 26 Nov 2026 13:11:51 GMT"
-    },
-    {
-      "category": "Bolivia",
-      "source": "EL DEBER",
-      "title": "La caída de un puente en los Yungas de Vandiola aísla a más de 500 familias",
-      "summary": "Las intensas lluvias registradas en Cochabamba provocaron el colapso del puente vehicular en el sector de Sewenkas, en el ingreso a los Yungas de Vandiola",
-      "url": "https://eldeber.com.bo/pais/caia-puente-yungas-vandiola-aisla-500-familias_1795698441",
-      "published": "Thu, 26 Nov 2026 13:07:21 GMT"
     },
     {
       "category": "Mundo",
