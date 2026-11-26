@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T14:39:53.533679+00:00",
+  "updated": "2026-11-26T15:59:02.099762+00:00",
   "items": [
     {
       "category": "Mundo",
@@ -16,14 +16,6 @@
       "summary": "El músico, coautor de algunos de los mayores éxitos de la banda, había estado recibiendo tratamiento para el cáncer de próstata.",
       "url": "https://www.bbc.com/mundo/articles/cmwy8gjdgwy6o?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 25 Nov 2026 23:24:27 GMT"
-    },
-    {
-      "category": "Bolivia",
-      "source": "EL DEBER",
-      "title": "Territorios de sangre",
-      "summary": "",
-      "url": "https://eldeber.com.bo/opinion/territorios-sangre_1795640093",
-      "published": "Wed, 25 Nov 2026 20:54:53 GMT"
     },
     {
       "category": "Mundo",
@@ -108,14 +100,6 @@
     {
       "category": "Mundo",
       "source": "BBC Mundo",
-      "title": "El papa Francisco revela en su diario que vio al diablo 3 veces, así como \"las puertas del infierno\"",
-      "summary": "Según extractos publicados del diario del difunto pontífice, una de las visiones tuvo lugar \"en el coro\" durante la misa.",
-      "url": "https://www.bbc.com/mundo/articles/cm5y1p3e5knvo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 24 Nov 2026 17:21:17 GMT"
-    },
-    {
-      "category": "Mundo",
-      "source": "BBC Mundo",
       "title": "Las lecciones que el regreso de Jensen Huang a Nvidia le enseña a Xi Jinping sobre cómo tratar a Trump",
       "summary": "El regreso de Huang al frente de Nvidia no garantiza ningún alivio para Pekín, pero si le da pistas sobre cómo tratar a Trump.",
       "url": "https://www.bbc.com/mundo/articles/cr930kp5eq12o?at_medium=RSS&at_campaign=rss",
@@ -144,6 +128,110 @@
       "summary": "El pasado sábado se cumplió el sexto fin de semana consecutivo de manifestaciones contra el aumento vertiginoso de precios, el deterioro de los servicios públicos y los  presuntos casos de brutalidad policial.",
       "url": "https://www.bbc.com/mundo/articles/cmx27q3w9qjxo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 24 Nov 2026 05:01:11 GMT"
+    },
+    {
+      "category": "Mundo",
+      "source": "BBC Mundo",
+      "title": "Starmind, el polémico proyecto de Elon Musk aprobado por EE.UU. para construir centros de datos en el espacio",
+      "summary": "La constelación Starmind pretende ser la forma más rentable y energéticamente eficiente de satisfacer la creciente demanda de capacidad de procesamiento para la inteligencia artificial.",
+      "url": "https://www.bbc.com/mundo/articles/c5y4j0nyelemo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 26 Nov 2026 15:56:13 GMT"
+    },
+    {
+      "category": "Bolivia",
+      "source": "EL DEBER",
+      "title": "San Matías: un policía resultó herido de bala tras un enfrentamiento con presuntos narcotraficantes",
+      "summary": "La Policía confirmó que una persona fue aprehendida luego de un enfrentamiento entre agentes antidrogas con presuntos traficantes. Ocurrió en el municipio fronterizo de San Matías",
+      "url": "https://eldeber.com.bo/santa-cruz/san-matias-confirman-policia-resulto-herido-bala-enfrentamiento-presuntos-narcotraficantes_1795707783",
+      "published": "Thu, 26 Nov 2026 15:43:03 GMT"
+    },
+    {
+      "category": "Bolivia",
+      "source": "EL DEBER",
+      "title": "Diésel: Choferes se reúnen de emergencia con pedidos de paro y la abrogación de un decreto",
+      "summary": "“Seguramente hoy día se va a determinar un paro general indefinido a nivel nacional en todas las modalidades”, afirmó el dirigente Víctor Tarqui antes de ingresar al encuentro",
+      "url": "https://eldeber.com.bo/pais/diesel-choferes-reunen-emergencia-pedidos-paro-abrogacion-decreto_1795707692",
+      "published": "Thu, 26 Nov 2026 15:41:32 GMT"
+    },
+    {
+      "category": "Bolivia",
+      "source": "EL DEBER",
+      "title": "El puñetazo de Jordy Alemán da la vuelta al mundo",
+      "summary": "Reconocidos medios internacionales de Argentina, Colombia y Venezuela se hicieron eco del escándalo protagonizado por el árbitro boliviano, que golpeó al arquero de Real Potosí, Cristian Martínez, tras la final de la Copa Bolivia ante Always Ready (0-0).",
+      "url": "https://eldeber.com.bo/deportes/punetazo-jordy-aleman-da-vuelta-mundo_1795707549",
+      "published": "Thu, 26 Nov 2026 15:39:09 GMT"
+    },
+    {
+      "category": "Bolivia",
+      "source": "EL DEBER",
+      "title": "El gobernador Loza (Cochabamba) busca cooperación de Irán y Rusia",
+      "summary": "Gestiona becas, convenios para instalar una industria farmacéutica y acuerdos para la importación de combustibles. Ambos países consolidaron sus vínculos con Bolivia durante los gobiernos del MAS.",
+      "url": "https://eldeber.com.bo/pais/gobernador-loza-cochabamba-busca-cooperacion-iran-rusia_1795707315",
+      "published": "Thu, 26 Nov 2026 15:35:15 GMT"
+    },
+    {
+      "category": "Mundo",
+      "source": "BBC Mundo",
+      "title": "El poco conocido origen mexicano del pavo que se come en Acción de Gracias en Estados Unidos",
+      "summary": "El plato central de la cena de Acción de Gracias en EE.UU. es el pavo, un ave que fue domesticada hace siglos en la región mesoamericana de México y Centroamérica.",
+      "url": "https://www.bbc.com/mundo/articles/cyv7r0m6g14o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 26 Nov 2026 15:27:48 GMT"
+    },
+    {
+      "category": "Bolivia",
+      "source": "EL DEBER",
+      "title": "Tras las inundaciones, Defensa Civil evalúa los daños en La Guardia y El Torno",
+      "summary": "Una comisión del Gobierno inspecciona las zonas afectadas en los dos municipios, en busca de identificar posibles daños estructurales y establecer el número de familias afectadas.",
+      "url": "https://eldeber.com.bo/santa-cruz/inundaciones-defensa-civil-evalua-danos-guardia-torno_1795706047",
+      "published": "Thu, 26 Nov 2026 15:14:07 GMT"
+    },
+    {
+      "category": "Bolivia",
+      "source": "EL DEBER",
+      "title": "FIFA confirma un ciberataque y advierte sobre la filtración de datos personales",
+      "summary": "El organismo rector del fútbol mundial informó que sufrió un acceso no autorizado a información personal y empresarial. El grupo 'Handsome Boy Hacking Club' se atribuyó el ataque, que habría comprometido el 0,1% de los datos almacenados por la entidad.",
+      "url": "https://eldeber.com.bo/deportes/fifa-confirma-ciberataque-advierte-filtracion-datos-personales_1795705825",
+      "published": "Thu, 26 Nov 2026 15:10:25 GMT"
+    },
+    {
+      "category": "Deportes",
+      "source": "EL DEBER",
+      "title": "Fecha unificada: así se disputará la penúltima jornada de la Liga",
+      "summary": "La FBF confirmó la programación de la fecha 29 del torneo todos contra todos. Los dos principales candidatos al título jugarán el domingo 6 de diciembre, desde las 16:00, en una jornada que se disputará de manera unificada para ambos.",
+      "url": "https://eldeber.com.bo/deportes/fecha-unificada-asi-disputara-penultima-jornada-liga_1795705619",
+      "published": "Thu, 26 Nov 2026 15:06:59 GMT"
+    },
+    {
+      "category": "Bolivia",
+      "source": "EL DEBER",
+      "title": "Blooming recupera a cuatro jugadores para recibir a San Antonio",
+      "summary": "Juan José González, Julio Vila, Richard Spenhay y Matías Abisab están habilitados para jugar este domingo (19:30) en el estadio Tahuichi. Además, Marc Enoumba superó un cuadro de varicela y también está a disposición del cuerpo técnico.",
+      "url": "https://eldeber.com.bo/deportes/blooming-recupera-cuatro-jugadores-recibir-san-antonio_1795704837",
+      "published": "Thu, 26 Nov 2026 14:55:35 GMT"
+    },
+    {
+      "category": "Bolivia",
+      "source": "EL DEBER",
+      "title": "Sorprenden a una pasajera con paquetes de droga adheridos a su cuerpo",
+      "summary": "La traficante viajaba como pasajera en un vehículo y fue retenida durante un control policial. Se secuestraron los paquetes de cocaína",
+      "url": "https://eldeber.com.bo/santa-cruz/sorprenden-pasajera-paquetes-droga-adheridos-cuerpo_1795704616",
+      "published": "Thu, 26 Nov 2026 14:50:16 GMT"
+    },
+    {
+      "category": "Bolivia",
+      "source": "EL DEBER",
+      "title": "Estudiantes ya está en Montevideo para disputar la final ante Palmeiras",
+      "summary": "El equipo argentino llegó la noche del miércoles a Uruguay con 27 futbolistas convocados por Alexander Medina para enfrentar a Palmeiras. Joaquín Correa trabaja con balón y podría sumar minutos este sábado en la definición de la Libertadores.",
+      "url": "https://eldeber.com.bo/deportes/estudiantes-esta-montevideo-disputar-final-palmeiras_1795704410",
+      "published": "Thu, 26 Nov 2026 14:46:50 GMT"
+    },
+    {
+      "category": "Bolivia",
+      "source": "EL DEBER",
+      "title": "El fenómeno de El Niño podría extender sus efectos hasta junio de 2027: ¿qué le espera a Santa Cruz?",
+      "summary": "El agrometeorólogo Luis Alberto Alpire advierte que se alternarán lluvias sectorizadas, temperaturas superiores a los 30 °C, sequías e incendios forestale",
+      "url": "https://eldeber.com.bo/santa-cruz/nino-podria-extender-efectos-junio-2027-le-espera-santa-cruz_1795704087",
+      "published": "Thu, 26 Nov 2026 14:41:27 GMT"
     },
     {
       "category": "Bolivia",
@@ -188,6 +276,14 @@
     {
       "category": "Bolivia",
       "source": "EL DEBER",
+      "title": "Gobierno insta al diálogo en medio de amenazas de protestas por el alza del diésel",
+      "summary": "El incremento del precio de diésel continúa generando una serie de reacciones. En La Paz, un ampliado nacional de choferes asumirá decisiones frente a la nueva medida gubernamental.",
+      "url": "https://eldeber.com.bo/economia/gobierno-insta-dialogo-medio-amenazas-protestas-alza-diesel_1795701044",
+      "published": "Thu, 26 Nov 2026 13:50:44 GMT"
+    },
+    {
+      "category": "Bolivia",
+      "source": "EL DEBER",
       "title": "Los ríos alcanzaron su nivel máximo y hay alertas en las cuencas en la zona norte",
       "summary": "Los pronósticos previstos de la lluvia para dos días, se registraron en un día y provocaron la crecida de los ríos de hasta 4 metros en puntos críticos como la cuenca de Espejos. El Searpi desplaza a sus equipos técnicos al Norte Integrado",
       "url": "https://eldeber.com.bo/santa-cruz/rios-alcanzaron-nivel-maximo-hay-alertas-cuentas-zona-norte_1795700417",
@@ -196,7 +292,7 @@
     {
       "category": "Mundo",
       "source": "BBC Mundo",
-      "title": "Inés Gómez Mont, la exestrella de TV acusada de delincuencia organizada que causa un roce diplomático entre México y EE.UU.",
+      "title": "Inés Gómez Mont, la exestrella de TV mexicana prófuga de la justicia cuya huida a España causó un roce diplomático entre los gobiernos de Trump y Sheinbaum",
       "summary": "La presentadora aceptó salir de forma voluntaria de EE.UU. y fue enviada a España. México pidió su extradición en 2025.",
       "url": "https://www.bbc.com/mundo/articles/crjeqy9ynvnyo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 26 Nov 2026 13:31:03 GMT"
@@ -236,7 +332,7 @@
     {
       "category": "Mundo",
       "source": "BBC Mundo",
-      "title": "El papa Francisco y el diablo: cómo el cristianismo moldeó la figura de satán para combatir otras religiones",
+      "title": "El papa Francisco y el diablo: cómo el cristianismo moldeó la figura de satán para combatir a otras religiones",
       "summary": "Desde los cuernos de Pan hasta el tridente de Poseidón: el cristianismo tomó símbolos de otras religiones para construir la imagen del diablo. Sin embargo, esa representación dista mucho de la figura que describió el fallecido papa Francisco en su diario.",
       "url": "https://www.bbc.com/mundo/articles/c6zjrm77lrgwo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 26 Nov 2026 12:49:04 GMT"
@@ -282,84 +378,12 @@
       "published": "Thu, 26 Nov 2026 11:37:59 GMT"
     },
     {
-      "category": "Bolivia",
-      "source": "EL DEBER",
-      "title": "La Fiscalía implica a Róger Mariaca en el ‘caso maletas’",
-      "summary": "Las declaraciones de Quezada y de un testigo protegido comprometen al exfiscal general. Dos abogados señalados de pagar sobornos obtuvieron detención domiciliaria",
-      "url": "https://eldeber.com.bo/pais/fiscalia-implica-roger-mariaca-caso-maletas_1795690597",
-      "published": "Thu, 26 Nov 2026 10:56:41 GMT"
-    },
-    {
-      "category": "Bolivia",
-      "source": "EL DEBER",
-      "title": "Fiscalía despide a tres funcionarios por filtraciones y anuncia cambios",
-      "summary": "Dos médicos forenses y un informático fueron desvinculados tras una investigación interna. La nueva fiscal, Rose María Barrientos, recibe la misión de “limpiar” la institución y evitar nuevas fugas de información clave",
-      "url": "https://eldeber.com.bo/santa-cruz/fiscalia-despide-tres-funcionarios-filtraciones-anuncia-cambios_1795690251",
-      "published": "Thu, 26 Nov 2026 10:51:12 GMT"
-    },
-    {
-      "category": "Bolivia",
-      "source": "EL DEBER",
-      "title": "Akly reaparece 8 meses después de dejar YPFB y desconoce denuncias",
-      "summary": "El exejecutivo de Yacimientos, que dejó la estatal en marzo en medio de la crisis por la gasolina desestabilizada, afirmó que no estaba al tanto de la denuncia en su contra",
-      "url": "https://eldeber.com.bo/economia/akly-reaparece-8-meses-despues-dejar-ypfb-desconoce-denuncias_1795689890",
-      "published": "Thu, 26 Nov 2026 10:44:55 GMT"
-    },
-    {
-      "category": "Bolivia",
-      "source": "EL DEBER",
-      "title": "Cainco pide mitigar el  efecto del alza del diésel y reducir burocracia estatal",
-      "summary": "La entidad privada cuestiona la falta de acciones para compensar el impacto sobre la producción. El Gobierno defiende el ajuste por razones fiscales y anuncia que evaluará mecanismos de protección. En Sucre y Oruro se anuncian nuevas medidas de presión",
-      "url": "https://eldeber.com.bo/economia/cainco-pide-mitigar-efecto-alza-diesel-reducir-burocracia-estatal_1795689355",
-      "published": "Thu, 26 Nov 2026 10:36:00 GMT"
-    },
-    {
-      "category": "Bolivia",
-      "source": "EL DEBER",
-      "title": "Por qué nuestros cerebros no están preparados para hacer varias tareas a la vez (aunque creas que lo haces bien)",
-      "summary": "¿Envias un correo electrónico mientras escuchas un podcast? ¿Respondes mensajes durante una reunión o revisas el celular mientras miras la televisión? Muchos de nosotros creemos que estamos realizando varias tareas a la vez. Algunos expertos que estudian el cerebro no están de acuerdo.",
-      "url": "https://eldeber.com.bo/bbc/nuestros-cerebros-no-estan-preparados-hacer-varias-tareas-vez-aunque-creas-haces-bien_1795689231",
-      "published": "Thu, 26 Nov 2026 10:33:51 GMT"
-    },
-    {
       "category": "Mundo",
       "source": "BBC Mundo",
       "title": "Por qué nuestros cerebros no están preparados para hacer varias tareas a la vez (aunque creas que lo haces bien)",
       "summary": "Nuestro cerebro tiene una capacidad limitada, y por ello intentar realizar varias tareas a la vez puede hacernos más propensos a la distracción, según expertos.",
       "url": "https://www.bbc.com/mundo/articles/cw808pxm2ndzo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 26 Nov 2026 10:33:47 GMT"
-    },
-    {
-      "category": "Bolivia",
-      "source": "EL DEBER",
-      "title": "La ‘Mamita de Cotoca’ llega este viernes para iniciar celebraciones",
-      "summary": "La Iglesia Católica presentó el programa de actividades que comenzará con el traslado de la imagen de la Virgen de Cotoca hasta la capital. La novena se desarrollará del 29 de noviembre al 7 de diciembre",
-      "url": "https://eldeber.com.bo/santa-cruz/mamita-cotoca-llega-este-viernes-iniciar-celebraciones_1795688960",
-      "published": "Thu, 26 Nov 2026 10:29:41 GMT"
-    },
-    {
-      "category": "Bolivia",
-      "source": "EL DEBER",
-      "title": "Lluvias inundan barrios cruceños y hay alerta  por la crecida de ríos",
-      "summary": "En medio de los vaivenes climáticos y la preocupación por el fenómeno del Súper Niño, varias calles quedaron anegadas y hubo menos unidades del transporte público en servicio. Las autoridades mantienen la vigilancia por riesgo de desbordes",
-      "url": "https://eldeber.com.bo/santa-cruz/lluvias-inundan-barrios-crucenos-hay-alerta-crecida-rios_1795688614",
-      "published": "Thu, 26 Nov 2026 10:24:08 GMT"
-    },
-    {
-      "category": "Bolivia",
-      "source": "EL DEBER",
-      "title": "Venezuela: Machado promete transición \"sin venganza\" y con fuerzas militares \"desideologizadas\"",
-      "summary": "La líder opositora venezolana María Corina Machado prometió el miércoles una transición \"sin rencor\" y \"sin venganza\" en Venezuela, durante su primer acto multitudinario en el país desde su sorpresivo regreso del exilio en octubre.",
-      "url": "https://eldeber.com.bo/rfi/venezuela-machado-promete-transicion-venganza-fuerzas-militares-desideologizadas_1795684313",
-      "published": "Thu, 26 Nov 2026 09:11:53 GMT"
-    },
-    {
-      "category": "Bolivia",
-      "source": "EL DEBER",
-      "title": "La España de los (casi) 50 millones: cómo la inmigración ha transformado el país en la última década y se ha convertido en tema clave de las elecciones",
-      "summary": "El crecimiento de la población foránea se produce en un país cuya sociedad envejece y donde, desde hace años, fallecen más personas de las que nacen.",
-      "url": "https://eldeber.com.bo/bbc/espana-casi-50-millones-inmigracion-ha-transformado-pais-ultima-decada-ha-convertido-tema-clave-elecciones_1795668772",
-      "published": "Thu, 26 Nov 2026 04:52:52 GMT"
     },
     {
       "category": "Mundo",
@@ -378,28 +402,12 @@
       "published": "Thu, 26 Nov 2026 02:44:48 GMT"
     },
     {
-      "category": "Bolivia",
-      "source": "EL DEBER",
-      "title": "Gracias infinitas al “restaurador de sueños”",
-      "summary": "",
-      "url": "https://eldeber.com.bo/opinion/gracias-infinitas-restaurador-suenos_1795652477",
-      "published": "Thu, 26 Nov 2026 00:21:17 GMT"
-    },
-    {
-      "category": "Bolivia",
-      "source": "EL DEBER",
-      "title": "Cara a cara",
-      "summary": "",
-      "url": "https://eldeber.com.bo/opinion/cara-cara_1795652268",
-      "published": "Thu, 26 Nov 2026 00:17:48 GMT"
-    },
-    {
       "category": "Mundo",
       "source": "BBC Mundo",
-      "title": "Lo que el ataque contra un buque militar ruso en Libia revela sobre los peligros de la propagación de la guerra de Ucrania más allá del frente",
-      "summary": "Si Ucrania es capaz de planificar y ejecutar un ataque tan audaz contra buques rusos en un puerto nominalmente neutral, situado a tanta distancia de su territorio, ¿dónde va a terminar esto?",
-      "url": "https://www.bbc.com/mundo/articles/cry86dl7jjw5o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 23 Nov 2026 23:00:49 GMT"
+      "title": "La cantante iraní que recibió 74 latigazos por actuar en YouTube sin el velo",
+      "summary": "Según sus abogados, Parastoo Ahmadi, tres músicos y un productor recibieron 74 latigazos en Qom.",
+      "url": "https://www.bbc.com/mundo/articles/cmly7qnw55z4o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 23 Nov 2026 21:19:36 GMT"
     },
     {
       "category": "Mundo",
@@ -432,14 +440,6 @@
       "summary": "Un matemático de la compañía afirma haber utilizado Claude para demostrar la famosa hipótesis de Riemann, aunque la verificación llevará algún tiempo.",
       "url": "https://www.bbc.com/mundo/articles/c6n901zg7rylo?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 23 Nov 2026 11:32:45 GMT"
-    },
-    {
-      "category": "Mundo",
-      "source": "BBC Mundo",
-      "title": "\"El presidente (De la Espriella) está totalmente equivocado si cree que esta paz es falsa\": Santos y Londoño hablan juntos con BBC Mundo a 10 años del acuerdo que puso fin al conflicto en Colombia",
-      "summary": "Hace 10 años se firmó el histórico acuerdo de paz que desmovilizó a la guerilla más grande y poderosa de América Latina. BBC Mundo reunió al expresidente Juan Manuel Santos y al ex comandante de las FARC Rodrigo Londoño (alias Timochenko) para hablar de los logros y retos de aquel hito.",
-      "url": "https://www.bbc.com/mundo/watch/cm0evqgj5p4go?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 23 Nov 2026 10:36:08 GMT"
     }
   ]
 }
