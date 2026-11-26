@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T13:20:08.999672+00:00",
+  "updated": "2026-11-26T14:39:53.533679+00:00",
   "items": [
     {
       "category": "Mundo",
@@ -24,38 +24,6 @@
       "summary": "",
       "url": "https://eldeber.com.bo/opinion/territorios-sangre_1795640093",
       "published": "Wed, 25 Nov 2026 20:54:53 GMT"
-    },
-    {
-      "category": "Bolivia",
-      "source": "EL DEBER",
-      "title": "Los años que no volverán",
-      "summary": "",
-      "url": "https://eldeber.com.bo/opinion/anos-no-volveran_1795639812",
-      "published": "Wed, 25 Nov 2026 20:50:12 GMT"
-    },
-    {
-      "category": "Bolivia",
-      "source": "EL DEBER",
-      "title": "Piotr Nawrot, el polaco al que más le debe Santa Cruz",
-      "summary": "",
-      "url": "https://eldeber.com.bo/opinion/piotr-nawrot-polaco-le-debe-santa-cruz_1795639552",
-      "published": "Wed, 25 Nov 2026 20:45:52 GMT"
-    },
-    {
-      "category": "Bolivia",
-      "source": "EL DEBER",
-      "title": "El plagio a la calle",
-      "summary": "",
-      "url": "https://eldeber.com.bo/opinion/plagio-calle_1795639341",
-      "published": "Wed, 25 Nov 2026 20:42:21 GMT"
-    },
-    {
-      "category": "Bolivia",
-      "source": "EL DEBER",
-      "title": "Ni gusano ni mariposa",
-      "summary": "",
-      "url": "https://eldeber.com.bo/opinion/gusano-mariposa_1795639041",
-      "published": "Wed, 25 Nov 2026 20:37:21 GMT"
     },
     {
       "category": "Mundo",
@@ -178,6 +146,78 @@
       "published": "Tue, 24 Nov 2026 05:01:11 GMT"
     },
     {
+      "category": "Bolivia",
+      "source": "EL DEBER",
+      "title": "Jueves decisivo en Oriente: la dirigencia busca recursos para pagar un sueldo",
+      "summary": "Este jueves es un día clave para la dirigencia refinera, que trabaja contrarreloj en la búsqueda de recursos económicos para cancelar una cuota salarial. Los futbolistas flexibilizaron su postura y esperan que se cumpla el compromiso para levantar el paro y regresar a las prácticas.",
+      "url": "https://eldeber.com.bo/deportes/jueves-decisivo-oriente-dirigencia-busca-recursos-pagar-sueldo_1795703484",
+      "published": "Thu, 26 Nov 2026 14:31:24 GMT"
+    },
+    {
+      "category": "Deportes",
+      "source": "EL DEBER",
+      "title": "Andrés Costa tras ganar la Copa Bolivia: “Ahora vamos por el torneo todos contra todos”",
+      "summary": "El presidente del conjunto alteño destacó el trabajo del plantel, agradeció el respaldo de la afición y aseguró que ahora el objetivo es conquistar el torneo todos contra todos, donde su equipo es líder.",
+      "url": "https://eldeber.com.bo/deportes/andres-costa-ganar-copa-bolivia-ahora-vamos-torneo-todos-todos_1795702918",
+      "published": "Thu, 26 Nov 2026 14:24:09 GMT"
+    },
+    {
+      "category": "Bolivia",
+      "source": "EL DEBER",
+      "title": "Toyosa consolida 45 años de trayectoria con una nueva inversión en infraestructura y tecnología",
+      "summary": "En el marco de su aniversario la marca inauguró su Taller Central con una superficie de 22.000 metros cuadrados, una infraestructura desarrollada bajo lineamientos de Toyota Motor Corporation que cuenta con 25 bahías de trabajo y capacidad instalada para atender hasta 80 vehículos por día",
+      "url": "https://eldeber.com.bo/dinero/toyosa-consolida-45-anos-trayectoria-nueva-inversion-infraestructura-tecnologia_1795702865",
+      "published": "Thu, 26 Nov 2026 14:22:30 GMT"
+    },
+    {
+      "category": "Bolivia",
+      "source": "EL DEBER",
+      "title": "Un premio récord: El campeón de la Libertadores recibirá 25 millones de dólares",
+      "summary": "Palmeiras y Estudiantes se enfrentarán este sábado desde las 16:00 (hora boliviana) en el estadio Centenario de Montevideo, en busca del título de la Libertadores 2026.",
+      "url": "https://eldeber.com.bo/deportes/premio-record-campeon-libertadores-recibira-25-millones-dolares_1795702814",
+      "published": "Thu, 26 Nov 2026 14:20:14 GMT"
+    },
+    {
+      "category": "Bolivia",
+      "source": "EL DEBER",
+      "title": "Operativo en San Matías deja un policía herido de bala",
+      "summary": "El agente antidroga recibió un disparo a la altura del cuello. Fue evacuado a Brasil, a un hospital",
+      "url": "https://eldeber.com.bo/santa-cruz/operativo-san-matias-deja-policia-herido-bala_1795701605",
+      "published": "Thu, 26 Nov 2026 14:00:05 GMT"
+    },
+    {
+      "category": "Bolivia",
+      "source": "EL DEBER",
+      "title": "Los ríos alcanzaron su nivel máximo y hay alertas en las cuencas en la zona norte",
+      "summary": "Los pronósticos previstos de la lluvia para dos días, se registraron en un día y provocaron la crecida de los ríos de hasta 4 metros en puntos críticos como la cuenca de Espejos. El Searpi desplaza a sus equipos técnicos al Norte Integrado",
+      "url": "https://eldeber.com.bo/santa-cruz/rios-alcanzaron-nivel-maximo-hay-alertas-cuentas-zona-norte_1795700417",
+      "published": "Thu, 26 Nov 2026 13:40:17 GMT"
+    },
+    {
+      "category": "Mundo",
+      "source": "BBC Mundo",
+      "title": "Inés Gómez Mont, la exestrella de TV acusada de delincuencia organizada que causa un roce diplomático entre México y EE.UU.",
+      "summary": "La presentadora aceptó salir de forma voluntaria de EE.UU. y fue enviada a España. México pidió su extradición en 2025.",
+      "url": "https://www.bbc.com/mundo/articles/crjeqy9ynvnyo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 26 Nov 2026 13:31:03 GMT"
+    },
+    {
+      "category": "Bolivia",
+      "source": "EL DEBER",
+      "title": "Martínez arremete contra Alemán y lanza una polémica frase sobre su madre",
+      "summary": "El arquero de Real Potosí reaccionó con dureza luego de recibir un golpe de puño del árbitro Jordy Alemán tras la final de la Copa Bolivia ante Always Ready.",
+      "url": "https://eldeber.com.bo/deportes/martinez-arremete-aleman-lanza-polemica-frase-madre_1795699465",
+      "published": "Thu, 26 Nov 2026 13:24:25 GMT"
+    },
+    {
+      "category": "Bolivia",
+      "source": "EL DEBER",
+      "title": "¿Qué sanción le corresponde a Jordy Alemán por agredir a un jugador?",
+      "summary": "La norma contempla una multa mínima de 20 salarios mínimos nacionales y la prohibición de ejercer actividades relacionadas con el fútbol de uno a tres años.",
+      "url": "https://eldeber.com.bo/deportes/sancion-le-corresponde-jordy-aleman-agredir-jugador_1795698951",
+      "published": "Thu, 26 Nov 2026 13:15:51 GMT"
+    },
+    {
       "category": "Deportes",
       "source": "EL DEBER",
       "title": "Bolivia va por las semifinales del Mundial de talla baja ante Colombia",
@@ -188,7 +228,7 @@
     {
       "category": "Bolivia",
       "source": "EL DEBER",
-      "title": "La caída de puente en los Yungas de Vandiola aísla a más de 500 familias",
+      "title": "La caída de un puente en los Yungas de Vandiola aísla a más de 500 familias",
       "summary": "Las intensas lluvias registradas en Cochabamba provocaron el colapso del puente vehicular en el sector de Sewenkas, en el ingreso a los Yungas de Vandiola",
       "url": "https://eldeber.com.bo/pais/caia-puente-yungas-vandiola-aisla-500-familias_1795698441",
       "published": "Thu, 26 Nov 2026 13:07:21 GMT"
@@ -340,38 +380,6 @@
     {
       "category": "Bolivia",
       "source": "EL DEBER",
-      "title": "De Santa Cruz a Ivirgarzama: ¿qué se sabe del último viaje del joven asesinado en Buena Vista?",
-      "summary": "La familia vela en Ascensión de Guarayos el cuerpo de Carlos Rafael Valencia Vargas, el joven encontrado sin vida en Buena Vista después de estar más de 10 días desaparecido",
-      "url": "https://eldeber.com.bo/santa-cruz/santa-cruz-ivirgarzama-sabe-ultimo-viaje-joven-asesinado-buena-vista_1795660246",
-      "published": "Thu, 26 Nov 2026 02:30:46 GMT"
-    },
-    {
-      "category": "Bolivia",
-      "source": "EL DEBER",
-      "title": "Jordy Alemán perdió los estribos y golpeó al arquero de Real Potosí en la final",
-      "summary": "La celebración por la consagración del Millonario en la Copa Bolivia quedó relegada tras el incidente protagonizado por Jordy Alemán, que golpeó al arquero Cristian Martínez al final del encuentro.",
-      "url": "https://eldeber.com.bo/deportes/jordy-aleman-perdio-estribos-golpeo-arquero-real-potosi-final_1795657906",
-      "published": "Thu, 26 Nov 2026 01:51:46 GMT"
-    },
-    {
-      "category": "Deportes",
-      "source": "EL DEBER",
-      "title": "ONG halla cuatro tigres de Bengala y cuatro pavorreales en discoteca de Mazatlán, México",
-      "summary": "El fundador y presidente de organización, Ernesto Zazueta, destacó que los grandes felinos requirieron contención química y manejo por parte del equipo especializado",
-      "url": "https://eldeber.com.bo/mundo/ong-halla-cuatro-tigres-bengala-cuatro-pavorreales-discoteca-mazatlan-mexico_1795657392",
-      "published": "Thu, 26 Nov 2026 01:43:12 GMT"
-    },
-    {
-      "category": "Bolivia",
-      "source": "EL DEBER",
-      "title": "De la Espriella dice que cárceles no pueden ser \"centros de operaciones\" para más delitos",
-      "summary": "Desde la campaña electoral, De la Espriella ha prometido la construcción de \"megacárceles\" de máxima seguridad, siguiendo el modelo de su homólogo Nayib Bukele",
-      "url": "https://eldeber.com.bo/mundo/espriella-dice-carceles-no-pueden-ser-centros-operaciones-delitos_1795657266",
-      "published": "Thu, 26 Nov 2026 01:41:06 GMT"
-    },
-    {
-      "category": "Bolivia",
-      "source": "EL DEBER",
       "title": "Gracias infinitas al “restaurador de sueños”",
       "summary": "",
       "url": "https://eldeber.com.bo/opinion/gracias-infinitas-restaurador-suenos_1795652477",
@@ -408,14 +416,6 @@
       "summary": "La BBC revela imágenes exclusivas del interior de una cueva previamente inexplorada en los Dolomitas, que contiene un tesoro de esqueletos de enormes osos de las cavernas extintos hace mucho tiempo.",
       "url": "https://www.bbc.com/mundo/articles/cmq5vl3d603wo?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 23 Nov 2026 16:42:07 GMT"
-    },
-    {
-      "category": "Mundo",
-      "source": "BBC Mundo",
-      "title": "Dos hombres en mi vida: cómo un accidente de tráfico me enseñó nuevas formas de amar",
-      "summary": "Brandon era el amor de la adolescencia de Kris y su \"Príncipe Azul\", pero cuando él sufrió un catastrófico accidente automovilístico, ella tuvo que encontrar una nueva forma de amarlo.",
-      "url": "https://www.bbc.com/mundo/articles/cx4gnrrqm61jo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 23 Nov 2026 14:45:43 GMT"
     },
     {
       "category": "Mundo",
