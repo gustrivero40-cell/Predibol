@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T15:59:02.099762+00:00",
+  "updated": "2026-11-26T17:10:48.436130+00:00",
   "items": [
     {
       "category": "Mundo",
@@ -130,6 +130,30 @@
       "published": "Tue, 24 Nov 2026 05:01:11 GMT"
     },
     {
+      "category": "Bolivia",
+      "source": "EL DEBER",
+      "title": "Ampliado de choferes determina paro general indefinido desde el lunes tras el alza del diésel",
+      "summary": "Los transportistas rechazan el incremento del precio del diésel de Bs 17,95 a Bs 20,57",
+      "url": "https://eldeber.com.bo/pais/ampliado-choferes-determina-paro-general-indefinido-lunes-alza-diesel_1795712283",
+      "published": "Thu, 26 Nov 2026 16:58:03 GMT"
+    },
+    {
+      "category": "Bolivia",
+      "source": "EL DEBER",
+      "title": "“Hoy tenemos un sistema que funciona”: La Alcaldía destacó mejoras en los canales de drenaje de Santa Cruz",
+      "summary": "Luego de las intensa lluvia que dejó calles inundadas en Santa Cruz de la Sierra, Obras Públicas afirmó que los trabajos de mantenimiento mejoraron la evacuación del agua. Advirtió que la basura puede reducir nuevamente la capacidad del sistema.",
+      "url": "https://eldeber.com.bo/santa-cruz/alcaldia-capital-crucena-reporta-mejoras-drenaje-lluvias-pide-no-echar-basura-canales_1795711838",
+      "published": "Thu, 26 Nov 2026 16:56:58 GMT"
+    },
+    {
+      "category": "Mundo",
+      "source": "BBC Mundo",
+      "title": "Un petrolero con 7.000 toneladas de combustible se hunde cerca de las costas de la isla de Ibiza",
+      "summary": "El servicio español de salvamento marítimo aún está evaluando los posibles daños medioambientales",
+      "url": "https://www.bbc.com/mundo/articles/cm5y1l439dz6o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 26 Nov 2026 16:37:09 GMT"
+    },
+    {
       "category": "Mundo",
       "source": "BBC Mundo",
       "title": "Starmind, el polémico proyecto de Elon Musk aprobado por EE.UU. para construir centros de datos en el espacio",
@@ -168,6 +192,14 @@
       "summary": "Gestiona becas, convenios para instalar una industria farmacéutica y acuerdos para la importación de combustibles. Ambos países consolidaron sus vínculos con Bolivia durante los gobiernos del MAS.",
       "url": "https://eldeber.com.bo/pais/gobernador-loza-cochabamba-busca-cooperacion-iran-rusia_1795707315",
       "published": "Thu, 26 Nov 2026 15:35:15 GMT"
+    },
+    {
+      "category": "Bolivia",
+      "source": "EL DEBER",
+      "title": "El poco conocido origen mexicano del pavo que se come en Acción de Gracias en Estados Unidos",
+      "summary": "Nueve de cada diez estadounidenses se sentarán a la mesa este jueves para comer pavo en la celebración de Acción de Gracias (Thanksgiving), la fiesta más tradicional de ese país.",
+      "url": "https://eldeber.com.bo/bbc/poco-conocido-origen-mexicano-pavo-come-accion-gracias-estados-unidos_1795706873",
+      "published": "Thu, 26 Nov 2026 15:27:53 GMT"
     },
     {
       "category": "Mundo",
@@ -338,36 +370,12 @@
       "published": "Thu, 26 Nov 2026 12:49:04 GMT"
     },
     {
-      "category": "Bolivia",
-      "source": "EL DEBER",
-      "title": "“Desde hoy seré su voz”: Jeanine Áñez apadrina a una actriz iraní condenada a prisión",
-      "summary": "Elnaz Shakerdoost fue condenada a un año de prisión por expresar su solidaridad con las víctimas de las protestas en Irán",
-      "url": "https://eldeber.com.bo/pais/hoy-sere-voz-jeanine-anez-apadrina-actriz-irani-condenada-prision_1795697059",
-      "published": "Thu, 26 Nov 2026 12:44:19 GMT"
-    },
-    {
-      "category": "Bolivia",
-      "source": "EL DEBER",
-      "title": "VI Foro Internacional de Finanzas Sostenibles: autoridades, sector privado y cooperación internacional identifican oportunidades de inversión en energía y biodiversidad para Bolivia",
-      "summary": "La reunión se llevó a cabo en el auditorio de CAF con autoridades nacionales, representantes del sector financiero, empresas y organismos de cooperación para analizar oportunidades de inversión que impulsen la transición energética, la protección de la biodiversidad y una economía más competitiva y resiliente",
-      "url": "https://eldeber.com.bo/sostenibilidad-y-negocios/vi-foro-internacional-finanzas-sostenibles-autoridades-sector-privado-cooperacion-internacional-identifican-oportunidades-inversion-energia-biodiversidad-bolivia_1795697037",
-      "published": "Thu, 26 Nov 2026 12:44:00 GMT"
-    },
-    {
       "category": "Mundo",
       "source": "BBC Mundo",
       "title": "Efecto BYD: por qué Brasil se ha convertido en un \"laboratorio en América Latina\" para las empresas chinas",
       "summary": "La enorme planta que se construye en el noreste de Brasil marca el ascenso de China al liderazgo del mercado automotriz global: Ford ocupó ese mismo predio hasta que cerró sus puertas en 2021.",
       "url": "https://www.bbc.com/mundo/articles/ck1ewnv46x70o?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 26 Nov 2026 12:26:39 GMT"
-    },
-    {
-      "category": "Bolivia",
-      "source": "EL DEBER",
-      "title": "El dólar subió 11 centavos en lo que va de la semana: ¿Cuánto cuesta este jueves 26 de noviembre?",
-      "summary": "La cotización flexible acumula 11 centavos de incremento desde el lunes, mientras que el mercado paralelo registra precios superiores a los Bs 12.",
-      "url": "https://eldeber.com.bo/economia/dolar-sigue-subiendo-bolivia-cuanto-cotiza-este-jueves-26-noviembre_1795694455",
-      "published": "Thu, 26 Nov 2026 12:06:08 GMT"
     },
     {
       "category": "Mundo",
@@ -432,14 +440,6 @@
       "summary": "El expresidente de Colombia, Juan Manuel Santos, y el último comandante en jefe de las FARC, Rodrigo Londoño, se citan con BBC Mundo para hacer un balance del acuerdo de paz firmados por ambos y su situación actual.",
       "url": "https://www.bbc.com/mundo/articles/c6wy4g48l0g5o?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 23 Nov 2026 14:09:21 GMT"
-    },
-    {
-      "category": "Mundo",
-      "source": "BBC Mundo",
-      "title": "Un empleado de Anthropic dice haber usado la IA para resolver uno de los más grandes problemas matemáticos",
-      "summary": "Un matemático de la compañía afirma haber utilizado Claude para demostrar la famosa hipótesis de Riemann, aunque la verificación llevará algún tiempo.",
-      "url": "https://www.bbc.com/mundo/articles/c6n901zg7rylo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 23 Nov 2026 11:32:45 GMT"
     }
   ]
 }
