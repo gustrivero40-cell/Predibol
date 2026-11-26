@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T19:37:00.905465+00:00",
+  "updated": "2026-11-26T20:53:00.309692+00:00",
   "items": [
     {
       "category": "Mundo",
@@ -28,7 +28,7 @@
     {
       "category": "Mundo",
       "source": "BBC Mundo",
-      "title": "Kilmar Abrego García abandona EE.UU. y viaja a España tras una larga batalla legal para evitar ser deportado de nuevo",
+      "title": "Kilmar Ábrego García abandona EE.UU. y viaja a España tras una larga batalla legal para evitar ser deportado de nuevo",
       "summary": "Ábrego se convirtió en un símbolo de la resistencia en contra de la persecución del gobierno de EE.UU. en contra de los inmigrantes indocumentados.",
       "url": "https://www.bbc.com/mundo/articles/c6y80kp45gv2o?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 25 Nov 2026 13:32:58 GMT"
@@ -124,10 +124,82 @@
     {
       "category": "Bolivia",
       "source": "EL DEBER",
+      "title": "Detenido un futbolista del Vasco da Gama brasileño por tráfico de drogas y armas",
+      "summary": "La Policía brasileña detuvo este jueves en Río de Janeiro a David Corrêa, futbolista del Vasco da Gama, en el marco de una investigación sobre tráfico de drogas y armas y lavado de dinero, informó la institución.",
+      "url": "https://eldeber.com.bo/deportes/detenido-futbolista-vasco-da-gama-brasileno-trafico-drogas-armas_1795725128",
+      "published": "Thu, 26 Nov 2026 20:32:08 GMT"
+    },
+    {
+      "category": "Bolivia",
+      "source": "EL DEBER",
+      "title": "Derrumbe deja sin agua potable a toda la ciudad Sucre",
+      "summary": "\"Sucre atraviesa una tragedia natural climatológica\", así lo calificó la alcaldesa de Sucre, Fátima Tardío, luego de recibir información de la magnitud del derrumbe provocado por las lluvias en las últimas horas",
+      "url": "https://eldeber.com.bo/chuquisaca/derrumbe-deja-agua-potable-toda-ciudad-sucre_1795724806",
+      "published": "Thu, 26 Nov 2026 20:26:46 GMT"
+    },
+    {
+      "category": "Bolivia",
+      "source": "EL DEBER",
+      "title": "Lluvias: monitorean y cuantifican los daños en La Guardia y El Torno",
+      "summary": "El alcalde de La Guardia, Jorge Junior Morales Toledo, confirmó a EL DEBER que el municipio está trabajando la declaratoria de desastre y emergencia a raíz de la inundaciones sufridas por la lluvia del miércoles",
+      "url": "https://eldeber.com.bo/santa-cruz/lluvias-monitorean-cuantifican-danos-guardia-torno_1795724774",
+      "published": "Thu, 26 Nov 2026 20:26:14 GMT"
+    },
+    {
+      "category": "Bolivia",
+      "source": "EL DEBER",
+      "title": "Messi volverá a jugar en Argentina para la despedida de Tévez",
+      "summary": "La Pulga estará el 20 de diciembre en La Bombonera junto a otras estrellas como Agüero, Buffon, Ferdinand y Palermo, en el homenaje al Apache.",
+      "url": "https://eldeber.com.bo/deportes/messi-volvera-jugar-argentina-despedida-tevez_1795724387",
+      "published": "Thu, 26 Nov 2026 20:19:48 GMT"
+    },
+    {
+      "category": "Bolivia",
+      "source": "EL DEBER",
+      "title": "Policía herido en San Matías presenta grave lesión cervical, según informe médico",
+      "summary": "El agente antidrogas de 44 años presenta una lesión en la región cervical y parálisis de las extremidades inferiores, según la evaluación médica de un hospital brasileño. Fue evacuado a Cáceres tras el enfrentamiento durante una operación de la Umopar",
+      "url": "https://eldeber.com.bo/santa-cruz/policia-herido-san-matias-presenta-grave-lesion-cervical-informe-medico_1795723740",
+      "published": "Thu, 26 Nov 2026 20:09:00 GMT"
+    },
+    {
+      "category": "Bolivia",
+      "source": "EL DEBER",
+      "title": "El Skymarathon Sorata cierra la temporada 2026 con una gran competencia este fin de semana",
+      "summary": "Unos 190 deportistas del país y del exterior serán parte de la prueba que tendrá tres modalidades y que serás clasificatorios a eventos internacionales de 2027",
+      "url": "https://eldeber.com.bo/deportes/skymarathon-sorata-cierra-temporada-2026-gran-competencia-este-fin-semana_1795723685",
+      "published": "Thu, 26 Nov 2026 20:08:06 GMT"
+    },
+    {
+      "category": "Bolivia",
+      "source": "EL DEBER",
+      "title": "El Gobierno anuncia inversión en Santa Cruz para construir el paso a desnivel del Plan 3.000 y la remodelación del estadio Tahuichi",
+      "summary": "Las dos obras demandarán una inversión del Gobierno nacional de Bs 100 millones. El sábado se prevé la firma del convenio",
+      "url": "https://eldeber.com.bo/santa-cruz/gobierno-anuncia-inversion-santa-cruz-construir-paso-desnivel-plan-3-000-remodelacion-estadio-tahuichi_1795723047",
+      "published": "Thu, 26 Nov 2026 19:57:27 GMT"
+    },
+    {
+      "category": "Bolivia",
+      "source": "EL DEBER",
+      "title": "Caso Aisem: devuelven la denuncia contra Bilbao y Medinaceli y piden pericias a audios en 24 horas",
+      "summary": "La denuncia fue presentada por el exdiputado Rafael Quispe y observada este jueves, por el Ministerio Público.",
+      "url": "https://eldeber.com.bo/pais/caso-aisem-devuelven-denuncia-bilbao-medinaceli-piden-pericias-audios-24-horas_1795722857",
+      "published": "Thu, 26 Nov 2026 19:54:17 GMT"
+    },
+    {
+      "category": "Bolivia",
+      "source": "EL DEBER",
       "title": "'Caso billetes del Bicentenario': dictan detención preventiva para el ex director del BCB,  Héctor Pino",
       "summary": "El fiscal Johan Muñoz informó que el exfuncionario habría autorizado la contratación, el fraccionamiento del proceso y el pago por la impresión de un millón de billetes",
       "url": "https://eldeber.com.bo/pais/caso-billetes-bicentenario-dictan-detencion-preventiva-ex-director-bcb-hector-pino_1795720949",
       "published": "Thu, 26 Nov 2026 19:22:29 GMT"
+    },
+    {
+      "category": "Bolivia",
+      "source": "EL DEBER",
+      "title": "Un hombre acaba con la vida de su ex, una estilista que fue atacada en su propio salón",
+      "summary": "El hecho se investiga como feminicidio. El agresor había salido de la cárcel hace diez días y cometió el crimen en contra de su expareja. Fue aprehendido por la Policía cuando intentaba escapar de Cochabamba",
+      "url": "https://eldeber.com.bo/pais/hombre-acaba-vida-ex-estilista-fue-atacada-propio-salon_1795720816",
+      "published": "Thu, 26 Nov 2026 19:20:16 GMT"
     },
     {
       "category": "Bolivia",
@@ -268,30 +340,6 @@
     {
       "category": "Bolivia",
       "source": "EL DEBER",
-      "title": "Diésel: Choferes se reúnen de emergencia con pedidos de paro y la abrogación de un decreto",
-      "summary": "“Seguramente hoy día se va a determinar un paro general indefinido a nivel nacional en todas las modalidades”, afirmó el dirigente Víctor Tarqui antes de ingresar al encuentro",
-      "url": "https://eldeber.com.bo/pais/diesel-choferes-reunen-emergencia-pedidos-paro-abrogacion-decreto_1795707692",
-      "published": "Thu, 26 Nov 2026 15:41:32 GMT"
-    },
-    {
-      "category": "Bolivia",
-      "source": "EL DEBER",
-      "title": "El puñetazo de Jordy Alemán da la vuelta al mundo",
-      "summary": "Reconocidos medios internacionales de Argentina, Colombia y Venezuela se hicieron eco del escándalo protagonizado por el árbitro boliviano, que golpeó al arquero de Real Potosí, Cristian Martínez, tras la final de la Copa Bolivia ante Always Ready (0-0).",
-      "url": "https://eldeber.com.bo/deportes/punetazo-jordy-aleman-da-vuelta-mundo_1795707549",
-      "published": "Thu, 26 Nov 2026 15:39:09 GMT"
-    },
-    {
-      "category": "Bolivia",
-      "source": "EL DEBER",
-      "title": "El gobernador Loza (Cochabamba) busca cooperación de Irán y Rusia",
-      "summary": "Gestiona becas, convenios para instalar una industria farmacéutica y acuerdos para la importación de combustibles. Ambos países consolidaron sus vínculos con Bolivia durante los gobiernos del MAS.",
-      "url": "https://eldeber.com.bo/pais/gobernador-loza-cochabamba-busca-cooperacion-iran-rusia_1795707315",
-      "published": "Thu, 26 Nov 2026 15:35:15 GMT"
-    },
-    {
-      "category": "Bolivia",
-      "source": "EL DEBER",
       "title": "El poco conocido origen mexicano del pavo que se come en Acción de Gracias en Estados Unidos",
       "summary": "Nueve de cada diez estadounidenses se sentarán a la mesa este jueves para comer pavo en la celebración de Acción de Gracias (Thanksgiving), la fiesta más tradicional de ese país.",
       "url": "https://eldeber.com.bo/bbc/poco-conocido-origen-mexicano-pavo-come-accion-gracias-estados-unidos_1795706873",
@@ -304,54 +352,6 @@
       "summary": "El plato central de la cena de Acción de Gracias en EE.UU. es el pavo, un ave que fue domesticada hace siglos en la región mesoamericana de México y Centroamérica.",
       "url": "https://www.bbc.com/mundo/articles/cyv7r0m6g14o?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 26 Nov 2026 15:27:48 GMT"
-    },
-    {
-      "category": "Bolivia",
-      "source": "EL DEBER",
-      "title": "Tras las inundaciones, Defensa Civil evalúa los daños en La Guardia y El Torno",
-      "summary": "Una comisión del Gobierno inspecciona las zonas afectadas en los dos municipios, en busca de identificar posibles daños estructurales y establecer el número de familias afectadas.",
-      "url": "https://eldeber.com.bo/santa-cruz/inundaciones-defensa-civil-evalua-danos-guardia-torno_1795706047",
-      "published": "Thu, 26 Nov 2026 15:14:07 GMT"
-    },
-    {
-      "category": "Bolivia",
-      "source": "EL DEBER",
-      "title": "FIFA confirma un ciberataque y advierte sobre la filtración de datos personales",
-      "summary": "El organismo rector del fútbol mundial informó que sufrió un acceso no autorizado a información personal y empresarial. El grupo 'Handsome Boy Hacking Club' se atribuyó el ataque, que habría comprometido el 0,1% de los datos almacenados por la entidad.",
-      "url": "https://eldeber.com.bo/deportes/fifa-confirma-ciberataque-advierte-filtracion-datos-personales_1795705825",
-      "published": "Thu, 26 Nov 2026 15:10:25 GMT"
-    },
-    {
-      "category": "Deportes",
-      "source": "EL DEBER",
-      "title": "Fecha unificada: así se disputará la penúltima jornada de la Liga",
-      "summary": "La FBF confirmó la programación de la fecha 29 del torneo todos contra todos. Los dos principales candidatos al título jugarán el domingo 6 de diciembre, desde las 16:00, en una jornada que se disputará de manera unificada para ambos.",
-      "url": "https://eldeber.com.bo/deportes/fecha-unificada-asi-disputara-penultima-jornada-liga_1795705619",
-      "published": "Thu, 26 Nov 2026 15:06:59 GMT"
-    },
-    {
-      "category": "Bolivia",
-      "source": "EL DEBER",
-      "title": "Sorprenden a una pasajera con paquetes de droga adheridos a su cuerpo",
-      "summary": "La traficante viajaba como pasajera en un vehículo y fue retenida durante un control policial. Se secuestraron los paquetes de cocaína",
-      "url": "https://eldeber.com.bo/santa-cruz/sorprenden-pasajera-paquetes-droga-adheridos-cuerpo_1795704616",
-      "published": "Thu, 26 Nov 2026 14:50:16 GMT"
-    },
-    {
-      "category": "Bolivia",
-      "source": "EL DEBER",
-      "title": "El fenómeno de El Niño podría extender sus efectos hasta junio de 2027: ¿qué le espera a Santa Cruz?",
-      "summary": "El agrometeorólogo Luis Alberto Alpire advierte que se alternarán lluvias sectorizadas, temperaturas superiores a los 30 °C, sequías e incendios forestale",
-      "url": "https://eldeber.com.bo/santa-cruz/nino-podria-extender-efectos-junio-2027-le-espera-santa-cruz_1795704087",
-      "published": "Thu, 26 Nov 2026 14:41:27 GMT"
-    },
-    {
-      "category": "Bolivia",
-      "source": "EL DEBER",
-      "title": "Gobierno insta al diálogo en medio de amenazas de protestas por el alza del diésel",
-      "summary": "El incremento del precio de diésel continúa generando una serie de reacciones. En La Paz, un ampliado nacional de choferes asumirá decisiones frente a la nueva medida gubernamental.",
-      "url": "https://eldeber.com.bo/economia/gobierno-insta-dialogo-medio-amenazas-protestas-alza-diesel_1795701044",
-      "published": "Thu, 26 Nov 2026 13:50:44 GMT"
     },
     {
       "category": "Mundo",
