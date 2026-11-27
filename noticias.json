@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T18:19:02.417315+00:00",
+  "updated": "2026-11-27T19:31:32.292712+00:00",
   "items": [
     {
       "category": "Mundo",
@@ -100,14 +100,6 @@
     {
       "category": "Mundo",
       "source": "BBC Mundo",
-      "title": "Un petrolero con 7.000 toneladas de combustible se hunde cerca de las costas de la isla de Ibiza",
-      "summary": "El servicio español de salvamento marítimo aún está evaluando los posibles daños medioambientales",
-      "url": "https://www.bbc.com/mundo/articles/cm5y1l439dz6o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 26 Nov 2026 16:37:09 GMT"
-    },
-    {
-      "category": "Mundo",
-      "source": "BBC Mundo",
       "title": "Starmind, el polémico proyecto de Elon Musk aprobado por EE.UU. para lanzar 1 millón de satélites al espacio",
       "summary": "La constelación Starmind pretende ser la forma más rentable y energéticamente eficiente de satisfacer la creciente demanda de capacidad de procesamiento para la inteligencia artificial.",
       "url": "https://www.bbc.com/mundo/articles/c5y4j0nyelemo?at_medium=RSS&at_campaign=rss",
@@ -170,9 +162,33 @@
       "published": "Mon, 23 Nov 2026 14:09:21 GMT"
     },
     {
-      "category": "Deportes",
+      "category": "Bolivia",
       "source": "EL DEBER",
-      "title": "Mundial de Talla Baja: Bolivia sueña con la final ante Marruecos (0-0)",
+      "title": "ABB rechaza la reprogramación ante Real Tomayapo y denuncia conflictos de intereses",
+      "summary": "El encuentro pasó de las 15:00 a las 20:00 de este viernes por un retraso en el vuelo del equipo tarijeño. El club paceño rechazó la medida y denunció presuntos conflictos de intereses.",
+      "url": "https://eldeber.com.bo/deportes/abb-rechaza-reprogramacion-real-tomayapo-denuncia-conflictos-intereses_1795807593",
+      "published": "Fri, 27 Nov 2026 19:26:33 GMT"
+    },
+    {
+      "category": "Mundo",
+      "source": "BBC Mundo",
+      "title": "\"Ni EE.UU. llegó tan lejos\": por qué Costa Rica le impidió la entrada al país a Francesca Albanese, relatora especial de la ONU sobre los territorios palestinos",
+      "summary": "Albanese había sido invitada al país para recibir este viernes un doctorado honoris causa por la Universidad de Costa Rica, desde donde dijeron que \"lamentan profundamente esta situación\".",
+      "url": "https://www.bbc.com/mundo/articles/cmpqrv8e8n32o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 27 Nov 2026 19:13:06 GMT"
+    },
+    {
+      "category": "Bolivia",
+      "source": "EL DEBER",
+      "title": "ABB vs. Real Tomayapo cambia de horario por vuelo demorado",
+      "summary": "El vuelo del equipo tarijeño hacia La Paz sufrió un retraso por problemas con la aerolínea, lo que obligó a modificar la programación del partido correspondiente a la lucha por la permanencia.",
+      "url": "https://eldeber.com.bo/deportes/abb-vs-real-tomayapo-cambia-horario-vuelo-demorado_1795803913",
+      "published": "Fri, 27 Nov 2026 18:25:15 GMT"
+    },
+    {
+      "category": "Bolivia",
+      "source": "EL DEBER",
+      "title": "¡Final del primer tiempo! La Verde cae por goleada ante Marruecos (4-0)",
       "summary": "La selección boliviana de talla baja busca meterse en la gran final del Mundial ante el anfitrión Marruecos. Seguí la transmisión en vivo del partido.",
       "url": "https://eldeber.com.bo/deportes/mundial-talla-baja-bolivia-suena-final-marruecos-0-0_1795802383",
       "published": "Fri, 27 Nov 2026 17:59:43 GMT"
@@ -216,6 +232,14 @@
       "summary": "En la capital cruceña, las federaciones de maestros urbanos y la COD de Santa Cruz protagonizaron una marcha pacífica contra el alza del diésel y la descentralización educativa.",
       "url": "https://eldeber.com.bo/santa-cruz/alza-diesel-suma-conflicto-educativo-maestros-trabajadores-protestaron-santa-cruz_1795797243",
       "published": "Fri, 27 Nov 2026 16:34:03 GMT"
+    },
+    {
+      "category": "Bolivia",
+      "source": "EL DEBER",
+      "title": "Los estafadores que engañaron a miles de migrantes detenidos en EEUU con servicios de fianzas fraudulentos",
+      "summary": "Dos hombres habían sido multados con $us 811 millones en 2024 por estafar a sus clientes.",
+      "url": "https://eldeber.com.bo/bbc/estafadores-enganaron-miles-migrantes-detenidos-ee-uu-servicios-fianzas-fraudulentos_1795796311",
+      "published": "Fri, 27 Nov 2026 16:18:31 GMT"
     },
     {
       "category": "Mundo",
@@ -272,6 +296,14 @@
       "summary": "El Comité pro Santa Cruz pidió modificar el cálculo del precio del combustible, transparentar su estructura de costos y aplicar una reducción temporal de impuestos. La estatal petrolera se comprometió a transmitir las observaciones a las instancias competentes.",
       "url": "https://eldeber.com.bo/santa-cruz/comite-pro-santa-cruz-exige-revisar-formula-diesel-ypfb-compromete-llevar-pedido-anh_1795793714",
       "published": "Fri, 27 Nov 2026 15:35:14 GMT"
+    },
+    {
+      "category": "Bolivia",
+      "source": "EL DEBER",
+      "title": "Cómo el asesinato de una mujer hizo que la violencia machista entrara en el debate electoral en España",
+      "summary": "El asesinato de Verónica, una mujer de 32 años en Murcia, el pasado 25 de noviembre, llevó la violencia machista al centro del debate electoral en España, a pocos días de las elecciones, del próximo domingo.",
+      "url": "https://eldeber.com.bo/bbc/asesinato-mujer-hizo-violencia-machista-entrara-debate-electoral-espana_1795792517",
+      "published": "Fri, 27 Nov 2026 15:15:17 GMT"
     },
     {
       "category": "Bolivia",
@@ -346,30 +378,6 @@
       "published": "Fri, 27 Nov 2026 14:15:59 GMT"
     },
     {
-      "category": "Bolivia",
-      "source": "EL DEBER",
-      "title": "Presidente de YPFB encara consultas del Comité pro Santa Cruz tras el incremento del precio del diésel",
-      "summary": "Este viernes Sebastián Daroca acudió a una reunión con los representantes cívicos para abordar consultas sobre proyectos en el departamento y compartir información sobre la estatal petrolera.",
-      "url": "https://eldeber.com.bo/santa-cruz/presidente-ypfb-encara-consultas-comite-pro-santa-cruz-incremento-precio-diesel_1795788269",
-      "published": "Fri, 27 Nov 2026 14:04:29 GMT"
-    },
-    {
-      "category": "Deportes",
-      "source": "EL DEBER",
-      "title": "La permanencia y los premios internacionales entran en juego en la fecha 27 de la Liga",
-      "summary": "ABB y Real Tomayapo protagonizarán un duelo clave en la lucha por la permanencia, mientras que Independiente y Real Oruro se enfrentarán en Sucre con la necesidad de sumar para mantener vivas sus aspiraciones de clasificarse a un torneo internacional.",
-      "url": "https://eldeber.com.bo/deportes/permanencia-premios-internacionales-entran-juego-fecha-27-liga_1795787740",
-      "published": "Fri, 27 Nov 2026 13:55:40 GMT"
-    },
-    {
-      "category": "Bolivia",
-      "source": "EL DEBER",
-      "title": "Unas 180 familias fueron afectadas por nueva inundación de Tipuani; vecinos claman ayuda",
-      "summary": "Desde hace al menos ocho años, la población de Tipuani se anega de manera recurrente",
-      "url": "https://eldeber.com.bo/la-paz/180-familias-fueron-afectadas-nueva-inundacion-tipuani-vecinos-claman-ayuda_1795787560",
-      "published": "Fri, 27 Nov 2026 13:52:40 GMT"
-    },
-    {
       "category": "Mundo",
       "source": "BBC Mundo",
       "title": "\"No estaría aquí si no fuera por usted\": el conmovedor encuentro de una joven con el hombre que la salvó de un ataque con cuchillo en un tren",
@@ -380,26 +388,10 @@
     {
       "category": "Bolivia",
       "source": "EL DEBER",
-      "title": "Una noche de gala para el nuevo titán: Ventura Sur fue inaugurado oficialmente",
-      "summary": "Con más de 2.000 invitados, corte de cinta y un espectáculo de fuegos artificiales que iluminó el cielo cruceño, el Grupo Daher inauguró el mayor desarrollo inmobiliario de la historia de Bolivia",
-      "url": "https://eldeber.com.bo/te-puede-interesar/noche-gala-nuevo-titan-ventura-sur-fue-inaugurado-oficialmente_1795785343",
-      "published": "Fri, 27 Nov 2026 13:15:45 GMT"
-    },
-    {
-      "category": "Deportes",
-      "source": "EL DEBER",
-      "title": "¡Vamos, Bolivia! La Verde va por el pase a la final del Mundial de Talla Baja",
-      "summary": "La selección boliviana de talla baja enfrentará este viernes a Marruecos, desde las 14:00 HB, por un lugar en la gran final del Mundial. La Verde llega invicta a esta instancia y buscará repetir la hazaña conseguida ante Colombia en cuartos de final.",
-      "url": "https://eldeber.com.bo/deportes/vamos-bolivia-verde-va-pase-final-mundial-talla-baja_1795784570",
-      "published": "Fri, 27 Nov 2026 13:02:50 GMT"
-    },
-    {
-      "category": "Bolivia",
-      "source": "EL DEBER",
-      "title": "Transporte pesado descartó que el paro indefinido incluya bloqueos de carreteras y calles",
-      "summary": "El dirigente del Transporte Pesado Internacional, Marcelo Cruz, confirmó que el sector se sumará al paro indefinido nacional. Aunque inicialmente no habrá bloqueos, las medidas podrían endurecerse si el Gobierno no escucha las demandas respecto al precio del diésel.",
-      "url": "https://eldeber.com.bo/pais/transporte-pesado-descarto-paro-indefinido-incluya-bloqueos-carreteras-calles_1795784131",
-      "published": "Fri, 27 Nov 2026 12:55:31 GMT"
+      "title": "\"Comiendo frutas y bebiendo agua de manantiales\": el hombre de 74 años con alzhéimer que sobrevivió 11 días perdido en el Amazonas",
+      "summary": "Dos Santos había salido de su casa situada al borde de la selva tropical en el estado de Amapá, en el norte de Brasil, mientras sus familiares visitaban a un vecino, cuando no pudo encontrar el camino de regreso.",
+      "url": "https://eldeber.com.bo/bbc/comiendo-frutas-bebiendo-agua-manantiales-hombre-74-anos-alzheimer-sobrevivio-11-dias-perdido-amazonas_1795783207",
+      "published": "Fri, 27 Nov 2026 12:40:07 GMT"
     },
     {
       "category": "Mundo",
@@ -408,6 +400,14 @@
       "summary": "Un septuagenario con alzhéimer logró sobrevir en la selva durante 11 días hasta que fue rescatado.",
       "url": "https://www.bbc.com/mundo/articles/ckp809pd5ve9o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 27 Nov 2026 12:40:03 GMT"
+    },
+    {
+      "category": "Bolivia",
+      "source": "EL DEBER",
+      "title": "Los campesinos en Colombia que no dejan de recibir amenazas por un terreno que les devolvió el gobierno hace 6 meses",
+      "summary": "Un líder de la Asociación de Campesinos Sin Tierra del Cesar, uno de los departamentos más afectados por la violencia en Colombia, comenzó a recibir intimidaciones por los terrenos que el Estado colombiano le había entregado apenas seis meses antes.",
+      "url": "https://eldeber.com.bo/bbc/campesinos-colombia-no-dejan-recibir-amenazas-terreno-les-devolvio-gobierno-hace-6-meses_1795781920",
+      "published": "Fri, 27 Nov 2026 12:18:40 GMT"
     },
     {
       "category": "Mundo",
