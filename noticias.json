@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T14:33:19.460525+00:00",
+  "updated": "2026-11-27T15:57:40.508339+00:00",
   "items": [
     {
       "category": "Mundo",
@@ -90,22 +90,6 @@
       "published": "Thu, 26 Nov 2026 22:58:00 GMT"
     },
     {
-      "category": "Bolivia",
-      "source": "EL DEBER",
-      "title": "Bolivia ante los embates de El Niño",
-      "summary": "",
-      "url": "https://eldeber.com.bo/opinion/bolivia-embates-nino_1795731510",
-      "published": "Thu, 26 Nov 2026 22:18:30 GMT"
-    },
-    {
-      "category": "Bolivia",
-      "source": "EL DEBER",
-      "title": "¡Quiero hablar con un humano, por favor!",
-      "summary": "",
-      "url": "https://eldeber.com.bo/opinion/quiero-hablar-humano-favor_1795730314",
-      "published": "Thu, 26 Nov 2026 21:58:34 GMT"
-    },
-    {
       "category": "Mundo",
       "source": "BBC Mundo",
       "title": "\"La suerte se le terminó\": el migrante que fue detenido por ICE en EE.UU. días después de ganar la lotería",
@@ -188,18 +172,90 @@
     {
       "category": "Mundo",
       "source": "BBC Mundo",
-      "title": "Por qué Jensen Huang es demasiado importante como para que Nvidia pudiera despedirlo",
-      "summary": "El papel de Huang como pieza clave en la transformación de su empresa en un pilar fundamental de la IA resultó crucial para su regreso.",
-      "url": "https://www.bbc.com/mundo/articles/c9143kp61ldjo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 23 Nov 2026 18:40:21 GMT"
-    },
-    {
-      "category": "Mundo",
-      "source": "BBC Mundo",
       "title": "\"La violencia de hoy no es producto del acuerdo de paz. Es la falta de implementación\": Juan Manuel Santos y Rodrigo Londoño a BBC Mundo",
       "summary": "El expresidente de Colombia, Juan Manuel Santos, y el último comandante en jefe de las FARC, Rodrigo Londoño, se citan con BBC Mundo para hacer un balance del acuerdo de paz firmados por ambos y su situación actual.",
       "url": "https://www.bbc.com/mundo/articles/c6wy4g48l0g5o?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 23 Nov 2026 14:09:21 GMT"
+    },
+    {
+      "category": "Bolivia",
+      "source": "EL DEBER",
+      "title": "Jordy Alemán no volverá a dirigir este año y podría recibir una sanción mayor",
+      "summary": "El árbitro fue apartado provisionalmente por la Comisión de Árbitros de la FBF luego de propinarle un golpe a Cristian Martínez al finalizar la final de la Copa Bolivia. José Jordán, presidente de la comisión, confirmó que solicitaron informes para determinar una sanción definitiva, que podría ser mayor.",
+      "url": "https://eldeber.com.bo/deportes/jordy-aleman-no-volvera-dirigir-este-ano-podria-recibir-sancion-mayor_1795794435",
+      "published": "Fri, 27 Nov 2026 15:47:15 GMT"
+    },
+    {
+      "category": "Bolivia",
+      "source": "EL DEBER",
+      "title": "Comité pro Santa Cruz exige revisar la fórmula del diésel y YPFB se compromete a llevar el pedido a la ANH",
+      "summary": "El Comité pro Santa Cruz pidió modificar el cálculo del precio del combustible, transparentar su estructura de costos y aplicar una reducción temporal de impuestos. La estatal petrolera se comprometió a transmitir las observaciones a las instancias competentes.",
+      "url": "https://eldeber.com.bo/santa-cruz/comite-pro-santa-cruz-exige-revisar-formula-diesel-ypfb-compromete-llevar-pedido-anh_1795793714",
+      "published": "Fri, 27 Nov 2026 15:35:14 GMT"
+    },
+    {
+      "category": "Bolivia",
+      "source": "EL DEBER",
+      "title": "Policías gasifican a maestros en Cochabamba y arrestan a algunos de ellos",
+      "summary": "Los profesores se encuentran en movilizaciones constantes desde hace varias semanas en contra del proyecto de descentralización de la educación",
+      "url": "https://eldeber.com.bo/cochabamba/policias-gasifican-maestros-cochabamba-arrestan-algunos-ellos_1795792493",
+      "published": "Fri, 27 Nov 2026 15:14:53 GMT"
+    },
+    {
+      "category": "Bolivia",
+      "source": "EL DEBER",
+      "title": "SERVICIO DE AGENCIA INTEGRAL DE PUBLICIDAD Y COMUNICACIÓN PARA LA COMERCIALIZACIÓN DEL SEGURO OBLIGATORIO DE ACCIDENTES DE TRÁNSITO SOAT 2027",
+      "summary": "",
+      "url": "https://eldeber.com.bo/comunicados/servicio-agencia-integral-publicidad-comunicacion-comercializacion-seguro-obligatorio-accidentes-transito-soat-2027_1795791994",
+      "published": "Fri, 27 Nov 2026 15:06:34 GMT"
+    },
+    {
+      "category": "Bolivia",
+      "source": "EL DEBER",
+      "title": "Rodrigo Paz y Keiko Fujimori ya están reunidos para abrir una nueva agenda de cooperación",
+      "summary": "Los mandatarios encabezan el VII Gabinete Binacional, que reúne a autoridades de ambos países para tratar asuntos comerciales, económicos, de seguridad, defensa e integración fronteriza.",
+      "url": "https://eldeber.com.bo/pais/rodrigo-paz-keiko-fujimori-estan-reunidos-abrir-nueva-agenda-cooperacion_1795791912",
+      "published": "Fri, 27 Nov 2026 15:05:12 GMT"
+    },
+    {
+      "category": "Bolivia",
+      "source": "EL DEBER",
+      "title": "Blooming busca recuperar la calma y mantener viva la ilusión internacional",
+      "summary": "Gustavo Almada confirmó que tuvo una discusión con su compañero durante un entrenamiento, pero aseguró que ambos solucionaron sus diferencias.",
+      "url": "https://eldeber.com.bo/deportes/blooming-busca-recuperar-calma-mantener-viva-ilusion-internacional_1795791585",
+      "published": "Fri, 27 Nov 2026 14:59:45 GMT"
+    },
+    {
+      "category": "Mundo",
+      "source": "BBC Mundo",
+      "title": "Cómo el asesinato de una mujer hizo que la violencia machista entrara en el debate electoral en España",
+      "summary": "El asesinato de Verónica, de 32 años, en Murcia, situó la violencia machista en el centro del debate electoral, en el que también se abordaron la crisis de la vivienda y la inmigración.",
+      "url": "https://www.bbc.com/mundo/articles/cxdd13p8nr3eo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 27 Nov 2026 14:56:54 GMT"
+    },
+    {
+      "category": "Mundo",
+      "source": "BBC Mundo",
+      "title": "Zelenski critica la \"extraña\" amistad entre Trump y Putin en entrevista con la BBC",
+      "summary": "El presidente de Ucrania expresa su frustración con Estados Unidos y dice que es \"extraño\" que Trump haya descrito a Vladimir Putin como un amigo.",
+      "url": "https://www.bbc.com/mundo/articles/cqvg2vv9mzmwo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 27 Nov 2026 14:51:33 GMT"
+    },
+    {
+      "category": "Bolivia",
+      "source": "EL DEBER",
+      "title": "¿Dónde será la gran minga contra los mosquitos este sábado en Santa Cruz de la Sierra?",
+      "summary": "El operativo iniciará este sábado en el Distrito 6 y abarcará 1.747 manzanas. La capital cruceña busca eliminar criaderos de mosquitos y evitar enfermedades como dengue, chikunguña y zika.",
+      "url": "https://eldeber.com.bo/santa-cruz/donde-sera-gran-minga-mosquitos-este-sabado-santa-cruz-sierra_1795791086",
+      "published": "Fri, 27 Nov 2026 14:51:26 GMT"
+    },
+    {
+      "category": "Bolivia",
+      "source": "EL DEBER",
+      "title": "La ONU prende las alarmas en Bolivia donde casi dos mil niñas de 12 a 14 años viven en concubinato",
+      "summary": "El organismo difundió esta información con motivo del Día Internacional para la Eliminación del Matrimonio Infantil, Precoz y Forzado, que se conmemora este 27 de noviembre por primera vez, después de que Naciones Unidas lo declarara en la Asamblea General en septiembre.",
+      "url": "https://eldeber.com.bo/pais/onu-insta-bolivia-definir-politicas-publicas-erradicar-matrimonios-infantiles_1795790733",
+      "published": "Fri, 27 Nov 2026 14:48:53 GMT"
     },
     {
       "category": "Bolivia",
@@ -372,46 +428,6 @@
     {
       "category": "Bolivia",
       "source": "EL DEBER",
-      "title": "Lluvias destruyen puentes, aíslan a las comunidades y agravan daños en Bolivia",
-      "summary": "Santa Cruz, Cochabamba y La Paz son castigados por fuertes lluvias y las inundaciones. Potosí, Oruro y Chuquisaca sufren sequías y en Beni hubo incendios. El Gobierno gestiona créditos del BID para atender las situaciones de emergencia",
-      "url": "https://eldeber.com.bo/pais/lluvias-destruyen-puentes-aislan-comunidades-agravan-danos-bolivia_1795776013",
-      "published": "Fri, 27 Nov 2026 10:40:18 GMT"
-    },
-    {
-      "category": "Bolivia",
-      "source": "EL DEBER",
-      "title": "Santa Cruz recibirá Bs 100 millones para obras en el Plan 3.000 y el Tahuichi",
-      "summary": "El Gobierno y la Alcaldía firmarán este sábado un acuerdo para reactivar el paso a desnivel del Distrito 8, con una inversión conjunta de Bs 49 MM. El Ejecutivo destinará otros Bs 51 MM a la remodelación del estadio de la capital cruceña",
-      "url": "https://eldeber.com.bo/economia/santa-cruz-recibira-bs-100-millones-obras-plan-3-000-tahuichi_1795775666",
-      "published": "Fri, 27 Nov 2026 10:34:29 GMT"
-    },
-    {
-      "category": "Bolivia",
-      "source": "EL DEBER",
-      "title": "Exdirector del BCB va a San Pedro  por ‘caso billetes del Bicentenario’",
-      "summary": "La auditoría estableció que se vendió el 3,8% del millón de piezas adquiridas por Bs 4,5 MM. Quedan 962.115 billetes y, al ritmo de ventas registrado en 2026, se necesitarían 297 años para colocar el saldo",
-      "url": "https://eldeber.com.bo/economia/exdirector-bcb-va-san-pedro-caso-billetes-bicentenario_1795775341",
-      "published": "Fri, 27 Nov 2026 10:31:44 GMT"
-    },
-    {
-      "category": "Bolivia",
-      "source": "EL DEBER",
-      "title": "La ‘Mamita de Cotoca’ despierta devoción en sus fieles y se prepara su llegada",
-      "summary": "Devotos nacionales y extranjeros visitaron a la Virgen de Cotoca en vísperas de su traslado a Santa Cruz de la Sierra. La imagen de la Patrona del Oriente Boliviano estrenará un vestido y será recibida este viernes por cientos de creyentes",
-      "url": "https://eldeber.com.bo/santa-cruz/mamita-cotoca-despierta-devocion-fieles-prepara-llegada_1795775070",
-      "published": "Fri, 27 Nov 2026 10:24:30 GMT"
-    },
-    {
-      "category": "Bolivia",
-      "source": "EL DEBER",
-      "title": "Warnes celebró 107 años con reconocimientos y fiesta",
-      "summary": "Entre actos cívicos, distinciones a personalidades y una multitudinaria serenata encabezada por el colombiano Jessi Uribe, Warnes celebró a lo grande",
-      "url": "https://eldeber.com.bo/santa-cruz/warnes-celebro-107-anos-reconocimientos-fiesta_1795774817",
-      "published": "Fri, 27 Nov 2026 10:20:23 GMT"
-    },
-    {
-      "category": "Bolivia",
-      "source": "EL DEBER",
       "title": "4 datos económicos que explican cómo llega España a las elecciones generales del 29N",
       "summary": "Muchas familias viven con salarios muy por debajo de la media europea, mientras el costo de la vida no ha dejado de aumentar.",
       "url": "https://eldeber.com.bo/bbc/4-datos-economicos-explican-llega-espana-elecciones-generales-29n_1795755213",
@@ -420,26 +436,10 @@
     {
       "category": "Mundo",
       "source": "BBC Mundo",
-      "title": "4 datos económicos que explican cómo llega España a las elecciones generales del 29N",
+      "title": "Elecciones en España: 4 datos que explican cómo está la economía del país tras 8 años de gobierno de Pedro Sánchez",
       "summary": "Analizamos, de cara a las elecciones generales del 29 de noviembre, por qué el crecimiento del PIB y el récord de empleo en España conviven con salarios que han perdido poder adquisitivo y una de las tasas de pobreza infantil más altas de Europa.",
       "url": "https://www.bbc.com/mundo/articles/c3rrgd44kqk2o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 27 Nov 2026 04:53:27 GMT"
-    },
-    {
-      "category": "Bolivia",
-      "source": "EL DEBER",
-      "title": "Cara a cara",
-      "summary": "",
-      "url": "https://eldeber.com.bo/opinion/cara-cara_1795753732",
-      "published": "Fri, 27 Nov 2026 04:28:52 GMT"
-    },
-    {
-      "category": "Mundo",
-      "source": "BBC Mundo",
-      "title": "EE.UU. está demasiado centrado en Medio Oriente y no presiona lo suficiente a Rusia, le dice Zelensky a la BBC",
-      "summary": "El presidente de Ucrania expresa su frustración con Estados Unidos y dice que es \"extraño\" que Trump haya descrito a Vladimir Putin como un amigo.",
-      "url": "https://www.bbc.com/mundo/articles/cqvg2vv9mzmwo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 27 Nov 2026 00:49:22 GMT"
     }
   ]
 }
