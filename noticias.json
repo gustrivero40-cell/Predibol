@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T23:53:55.822306+00:00",
+  "updated": "2026-11-27T01:12:29.136284+00:00",
   "items": [
     {
       "category": "Mundo",
@@ -8,14 +8,6 @@
       "summary": "Jane Collins casi había perdido la esperanza de ver a Michael Donovan y Richard Moore comparecer ante la justicia. Entonces fueron acusados de robar al hermano de un autor de un tiroteo masivo.",
       "url": "https://www.bbc.com/mundo/articles/c6174wy0l54eo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 25 Nov 2026 23:49:27 GMT"
-    },
-    {
-      "category": "Mundo",
-      "source": "BBC Mundo",
-      "title": "Muere a los 65 años el guitarrista de la legendaria banda de pop Duran Duran",
-      "summary": "El músico, coautor de algunos de los mayores éxitos de la banda, había estado recibiendo tratamiento para el cáncer de próstata.",
-      "url": "https://www.bbc.com/mundo/articles/cmwy8gjdgwy6o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 25 Nov 2026 23:24:27 GMT"
     },
     {
       "category": "Mundo",
@@ -124,10 +116,26 @@
     {
       "category": "Bolivia",
       "source": "EL DEBER",
+      "title": "Ariel Mantilla Antezana asume la Dirección General de Régimen Penitenciario",
+      "summary": "La nueva autoridad dependiente del Ministerio de Gobierno anunció que buscará fortalecer la gestión penitenciaria, los procesos de rehabilitación y reinserción social, además de mejorar las condiciones de vida de la población carcelaria",
+      "url": "https://eldeber.com.bo/pais/ariel-mantilla-antezana-asume-direccion-general-regimen-penitenciario_1795737061",
+      "published": "Thu, 26 Nov 2026 23:51:01 GMT"
+    },
+    {
+      "category": "Bolivia",
+      "source": "EL DEBER",
       "title": "\"No existen procesos armados\", asegura el vocero presidencial en respuesta a los cívicos cruceños",
       "summary": "Galvez aseguró que no se repetirá la persecución política como sucedió en el pasado, simplemente por pensar distinto",
       "url": "https://eldeber.com.bo/santa-cruz/no-existen-procesos-armados-asegura-vocero-presidencial-respuesta-civicos-crucenos_1795736765",
       "published": "Thu, 26 Nov 2026 23:46:57 GMT"
+    },
+    {
+      "category": "Bolivia",
+      "source": "EL DEBER",
+      "title": "Convocan al diálogo a los choferes este domingo, para evitar el paro",
+      "summary": "El anuncio lo realizó la noche de este jueves el vocero presidencial, José Luis Gálvez. La cita fue fijada para este domingo, a las 10:00",
+      "url": "https://eldeber.com.bo/pais/convocan-dialogo-choferes-este-domingo-evitar-paro_1795736795",
+      "published": "Thu, 26 Nov 2026 23:46:35 GMT"
     },
     {
       "category": "Bolivia",
@@ -284,42 +292,10 @@
     {
       "category": "Bolivia",
       "source": "EL DEBER",
-      "title": "Defensa Civil da por controlados los incendios en Piso Firme y el Parque Noel Kempff Mercado",
-      "summary": "Tras varios días de trabajo coordinado, las autoridades concluyeron las operaciones de mitigación de los dos incendios forestales registrados en Santa Cruz. Las lluvias y la humedad del terreno contribuyeron a reducir el riesgo de propagación y reactivación del fuego.",
-      "url": "https://eldeber.com.bo/santa-cruz/defensa-civil-da-controlados-incendios-piso-firme-parque-noel-kempff-mercado_1795726249",
-      "published": "Thu, 26 Nov 2026 20:50:49 GMT"
-    },
-    {
-      "category": "Bolivia",
-      "source": "EL DEBER",
       "title": "Felcv busca a pareja de mujer desaparecida en Montero e investiga un presunto feminicidio",
       "summary": "Pamela P. O., de 38 años, no es vista desde el 14 de noviembre. Su cónyuge, Raúl C. Y., es considerado el principal sospechoso y permanece prófugo, mientras la Fiscalía y la Policía realizan diligencias para esclarecer el caso",
       "url": "https://eldeber.com.bo/santa-cruz/felcv-busca-pareja-mujer-desaparecida-montero-investiga-presunto-feminicidio_1795725923",
       "published": "Thu, 26 Nov 2026 20:45:23 GMT"
-    },
-    {
-      "category": "Bolivia",
-      "source": "EL DEBER",
-      "title": "Detenido un futbolista del Vasco da Gama brasileño por tráfico de drogas y armas",
-      "summary": "La Policía brasileña detuvo este jueves en Río de Janeiro a David Corrêa, futbolista del Vasco da Gama, en el marco de una investigación sobre tráfico de drogas y armas y lavado de dinero, informó la institución.",
-      "url": "https://eldeber.com.bo/deportes/detenido-futbolista-vasco-da-gama-brasileno-trafico-drogas-armas_1795725128",
-      "published": "Thu, 26 Nov 2026 20:32:08 GMT"
-    },
-    {
-      "category": "Bolivia",
-      "source": "EL DEBER",
-      "title": "Derrumbe deja sin agua potable a toda la ciudad Sucre",
-      "summary": "\"Sucre atraviesa una tragedia natural climatológica\", así lo calificó la alcaldesa de Sucre, Fátima Tardío, luego de recibir información de la magnitud del derrumbe provocado por las lluvias en las últimas horas",
-      "url": "https://eldeber.com.bo/chuquisaca/derrumbe-deja-agua-potable-toda-ciudad-sucre_1795724806",
-      "published": "Thu, 26 Nov 2026 20:26:46 GMT"
-    },
-    {
-      "category": "Bolivia",
-      "source": "EL DEBER",
-      "title": "Lluvias: monitorean y cuantifican los daños en La Guardia y El Torno",
-      "summary": "El alcalde de La Guardia, Jorge Junior Morales Toledo, confirmó a EL DEBER que el municipio está trabajando la declaratoria de desastre y emergencia a raíz de la inundaciones sufridas por la lluvia del miércoles",
-      "url": "https://eldeber.com.bo/santa-cruz/lluvias-monitorean-cuantifican-danos-guardia-torno_1795724774",
-      "published": "Thu, 26 Nov 2026 20:26:14 GMT"
     },
     {
       "category": "Mundo",
@@ -440,6 +416,30 @@
       "summary": "El expresidente de Colombia, Juan Manuel Santos, y el último comandante en jefe de las FARC, Rodrigo Londoño, se citan con BBC Mundo para hacer un balance del acuerdo de paz firmados por ambos y su situación actual.",
       "url": "https://www.bbc.com/mundo/articles/c6wy4g48l0g5o?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 23 Nov 2026 14:09:21 GMT"
+    },
+    {
+      "category": "Deportes",
+      "source": "EL DEBER",
+      "title": "Histórico: Bolivia está en semifinales del Mundial de talla baja",
+      "summary": "Bolivia venció a Colombia en los penales tras igualar 2-2 y ahora se medirá con el anfitrión Marruecos por el pase a la final del Mundial.",
+      "url": "https://eldeber.com.bo/deportes/historico-bolivia-esta-semifinales-mundial-talla-baja_1795741002",
+      "published": "Fri, 27 Nov 2026 00:56:42 GMT"
+    },
+    {
+      "category": "Mundo",
+      "source": "BBC Mundo",
+      "title": "EE.UU. está demasiado centrado en Medio Oriente y no presiona lo suficiente a Rusia, le dice Zelensky a la BBC",
+      "summary": "El presidente de Ucrania expresa su frustración con Estados Unidos y dice que es \"extraño\" que Trump haya descrito a Vladimir Putin como un amigo.",
+      "url": "https://www.bbc.com/mundo/articles/cqvg2vv9mzmwo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 27 Nov 2026 00:49:22 GMT"
+    },
+    {
+      "category": "Bolivia",
+      "source": "EL DEBER",
+      "title": "Maestros y fabriles alistan marcha para este viernes en Santa Cruz",
+      "summary": "La convocatoria está fijada para las 8:30 en el centro de la capital cruceña",
+      "url": "https://eldeber.com.bo/santa-cruz/maestros-fabriles-alistan-marcha-este-viernes-santa-cruz_1795739106",
+      "published": "Fri, 27 Nov 2026 00:25:06 GMT"
     }
   ]
 }
