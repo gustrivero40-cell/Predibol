@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T21:53:54.281944+00:00",
+  "updated": "2026-11-27T22:55:10.969079+00:00",
   "items": [
     {
       "category": "Mundo",
@@ -162,12 +162,44 @@
       "published": "Mon, 23 Nov 2026 14:09:21 GMT"
     },
     {
+      "category": "Bolivia",
+      "source": "EL DEBER",
+      "title": "Tres clubes de la Premier quieren que Emiratos venda al Manchester City",
+      "summary": "La propuesta surge por el caso de las 115 irregularidades financieras que enfrenta el club inglés, cuya sanción definitiva todavía está pendiente.",
+      "url": "https://eldeber.com.bo/deportes/tres-clubes-premier-quieren-emiratos-venda-manchester-city_1795817403",
+      "published": "Fri, 27 Nov 2026 22:10:03 GMT"
+    },
+    {
       "category": "Mundo",
       "source": "BBC Mundo",
       "title": "\"Ni EE.UU. llegó tan lejos\": por qué Costa Rica le impidió la entrada al país a Francesca Albanese, relatora especial de la ONU sobre los territorios palestinos",
       "summary": "Albanese había sido invitada al país para recibir este viernes un doctorado honoris causa por la Universidad de Costa Rica, desde donde dijeron que \"lamentan profundamente esta situación\".",
       "url": "https://www.bbc.com/mundo/articles/cmpqrv8e8n32o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 27 Nov 2026 21:29:09 GMT"
+      "published": "Fri, 27 Nov 2026 22:04:28 GMT"
+    },
+    {
+      "category": "Bolivia",
+      "source": "EL DEBER",
+      "title": "Montero: Cárcel para dos presuntos cómplices del feminicidio de Pamela",
+      "summary": "La Fiscalía sostiene que el principal sospechoso envió mensajes desde el teléfono de Pamela después de su desaparición. Dos familiares del hombre fueron enviados a la cárcel acusados de complicidad",
+      "url": "https://eldeber.com.bo/santa-cruz/montero-carcel-dos-presuntos-complices-feminicidio-pamela_1795816613",
+      "published": "Fri, 27 Nov 2026 21:56:53 GMT"
+    },
+    {
+      "category": "Bolivia",
+      "source": "EL DEBER",
+      "title": "Searpi prevé en dos semanas cerrar un boquete que desvía el río en San Pedro y amenaza a Hardeman",
+      "summary": "El equipo técnico inspeccionó la zona de Litoral, en San Pedro, y prevé completar las intervenciones de emergencia durante las próximas dos semanas. Se proyectan erogar Bs 32 millones para obras de protección de riberas en el municipio",
+      "url": "https://eldeber.com.bo/santa-cruz/searpi-preve-dos-semanas-cerrar-boquete-desvia-rio-san-pedro-amenaza-hardeman_1795816604",
+      "published": "Fri, 27 Nov 2026 21:56:44 GMT"
+    },
+    {
+      "category": "Bolivia",
+      "source": "EL DEBER",
+      "title": "El Amboró guarda vestigios de un extraño yacaré y Santa Cruz tiene yacimientos de dinosaurios",
+      "summary": "Dos esqueletos y dos huevos fosilizados permitieron identificar una especie de reptil que vivió hace unos 90 millones de años. El investigador José Luis Ortiz revela que existen otros yacimientos paleontológicos cuyas ubicaciones se mantienen en reserva para protegerlos.",
+      "url": "https://eldeber.com.bo/pais/amboro-guarda-vestigios-extrano-yacare-santa-cruz-tiene-yacimientos-dinosaurios_1795815746",
+      "published": "Fri, 27 Nov 2026 21:42:26 GMT"
     },
     {
       "category": "Bolivia",
@@ -189,7 +221,7 @@
       "category": "Bolivia",
       "source": "EL DEBER",
       "title": "Aprehenden al exdirector general de la Felcn por vinculación con el caso 'Roma'",
-      "summary": "La captura del exdirector antidroga se registró en Santa Cruz. Es investigado por presuntos delitos de tráfico de sustancias controladas, organización criminal y confabulación",
+      "summary": "(VIDEO) La captura del exdirector antidroga se registró en Santa Cruz. Es investigado por presuntos delitos de tráfico de sustancias controladas, organización criminal y confabulación",
       "url": "https://eldeber.com.bo/santa-cruz/aprehenden-exdirector-general-felcn-vinculacion-caso-roma_1795812591",
       "published": "Fri, 27 Nov 2026 20:49:51 GMT"
     },
@@ -292,34 +324,10 @@
     {
       "category": "Bolivia",
       "source": "EL DEBER",
-      "title": "El lago Titicaca une a Bolivia y Perú en un sello postal por sus 200 años de relaciones diplomáticas",
-      "summary": "La estampilla tiene como imagen al lago que comparten ambos países. Su presentación se realizó en Lima, durante el encuentro presidencial entre Rodrigo Paz y Keiko Fujimori.",
-      "url": "https://eldeber.com.bo/pais/lago-titicaca-une-bolivia-peru-sello-postal-200-anos-relaciones-diplomaticas_1795799739",
-      "published": "Fri, 27 Nov 2026 17:15:39 GMT"
-    },
-    {
-      "category": "Bolivia",
-      "source": "EL DEBER",
-      "title": "Admiten querella contra Evo y Álvaro por “tentativa de asesinato” y solicitan su búsqueda internacional",
-      "summary": "La querella fue presentada el 9 de julio de 2026 por Juan Carlos Guedes Bruno y fue admitida el 9 de noviembre, según la PGE",
-      "url": "https://eldeber.com.bo/pais/admiten-querella-evo-alvaro-tentativa-asesinato-solicitan-busqueda-internacional_1795799335",
-      "published": "Fri, 27 Nov 2026 17:08:55 GMT"
-    },
-    {
-      "category": "Bolivia",
-      "source": "EL DEBER",
       "title": "El zoológico municipal de Santa Cruz estrena un parque infantil y anuncia \"novedades\"",
       "summary": "El alcalde de la capital cruceña recordó el valor del zoológico municipal, fundado por Noel Kempff Mercado. Señaló que su revitalización debe tener como prioridad el cuidado de los animales y la atención a los visitantes.",
       "url": "https://eldeber.com.bo/santa-cruz/zoologico-municipal-santa-cruz-estrena-parque-infantil-anuncia-novedades_1795799044",
       "published": "Fri, 27 Nov 2026 17:04:04 GMT"
-    },
-    {
-      "category": "Bolivia",
-      "source": "EL DEBER",
-      "title": "Encuentran muerta a la mujer desaparecida en Montero; hay dos aprehendidos",
-      "summary": "El cuerpo de la víctima estaba envuelto con bolsas de yute y el principal sospechoso del crimen es un hombre que tenía una relación sentimental con la fallecida, según la Fiscalía",
-      "url": "https://eldeber.com.bo/pais/encuentran-muerta-mujer-desaparecida-montero-hay-dos-aprehendidos_1795798220",
-      "published": "Fri, 27 Nov 2026 16:50:20 GMT"
     },
     {
       "category": "Bolivia",
@@ -344,14 +352,6 @@
       "summary": "Cada vez es más frecuente el uso de la inteligencia artificial para resumir programas electorales o para obtener una recomendación de a qué partido votar. Según un estudio de la Universidad Oberta de Catalunya, Grok, la IA de X, es la que más se posiciona, en más del 45% de los casos, seguida de ChatGPT, en un 25%, mientras que los asistentes Gemini y Claude apenas lo hacen, en",
       "url": "https://eldeber.com.bo/rfi/irrupcion-ia-campana-elecciones-espana_1795795464",
       "published": "Fri, 27 Nov 2026 16:04:24 GMT"
-    },
-    {
-      "category": "Bolivia",
-      "source": "EL DEBER",
-      "title": "La barra de Oriente convoca a una concentración y exige la renuncia de Raldes",
-      "summary": "En medio del conflicto con los jugadores por las deudas salariales y los últimos episodios de violencia, la barra brava convocó a una concentración pacífica para este sábado, con el objetivo de exigir la salida del presidente Ronald Raldes y todo su directorio.",
-      "url": "https://eldeber.com.bo/deportes/barra-oriente-convoca-concentracion-exige-renuncia-raldes_1795794282",
-      "published": "Fri, 27 Nov 2026 15:44:42 GMT"
     },
     {
       "category": "Bolivia",
