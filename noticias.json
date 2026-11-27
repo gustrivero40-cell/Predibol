@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T13:13:40.761291+00:00",
+  "updated": "2026-11-27T14:33:19.460525+00:00",
   "items": [
     {
       "category": "Mundo",
@@ -84,14 +84,6 @@
     {
       "category": "Mundo",
       "source": "BBC Mundo",
-      "title": "\"Quiero destruir el capitalismo, no al país\": así operan los grupos de ultraizquierda que impulsan las protestas violentas en Francia",
-      "summary": "El pasado sábado se cumplió el sexto fin de semana consecutivo de manifestaciones contra el aumento vertiginoso de precios, el deterioro de los servicios públicos y los  presuntos casos de brutalidad policial.",
-      "url": "https://www.bbc.com/mundo/articles/cmx27q3w9qjxo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 24 Nov 2026 05:01:11 GMT"
-    },
-    {
-      "category": "Mundo",
-      "source": "BBC Mundo",
       "title": "Los desesperados mensajes de mujeres que están en el corredor de la muerte en Irán por participar en protestas contra el gobierno",
       "summary": "Según organizaciones de derechos humanos y la propia ONU, las mujeres disidentes están siendo condenadas a muerte en unos números sin precedentes en las últimas décadas.",
       "url": "https://www.bbc.com/mundo/articles/cj62p7wv9qnxo?at_medium=RSS&at_campaign=rss",
@@ -112,30 +104,6 @@
       "summary": "",
       "url": "https://eldeber.com.bo/opinion/quiero-hablar-humano-favor_1795730314",
       "published": "Thu, 26 Nov 2026 21:58:34 GMT"
-    },
-    {
-      "category": "Bolivia",
-      "source": "EL DEBER",
-      "title": "Los pactos del MAS y el Magisterio contra la calidad educativa (2012-2014)",
-      "summary": "",
-      "url": "https://eldeber.com.bo/opinion/pactos-magisterio-calidad-educativa-2012-2014_1795729959",
-      "published": "Thu, 26 Nov 2026 21:52:39 GMT"
-    },
-    {
-      "category": "Bolivia",
-      "source": "EL DEBER",
-      "title": "El país que pasa de curso",
-      "summary": "",
-      "url": "https://eldeber.com.bo/opinion/pais-pasa-curso_1795729657",
-      "published": "Thu, 26 Nov 2026 21:47:37 GMT"
-    },
-    {
-      "category": "Bolivia",
-      "source": "EL DEBER",
-      "title": "La Flauta Mágica cruza con éxito el Piraí",
-      "summary": "",
-      "url": "https://eldeber.com.bo/opinion/flauta-magica-cruza-exito-pirai_1795729365",
-      "published": "Thu, 26 Nov 2026 21:42:45 GMT"
     },
     {
       "category": "Mundo",
@@ -232,6 +200,54 @@
       "summary": "El expresidente de Colombia, Juan Manuel Santos, y el último comandante en jefe de las FARC, Rodrigo Londoño, se citan con BBC Mundo para hacer un balance del acuerdo de paz firmados por ambos y su situación actual.",
       "url": "https://www.bbc.com/mundo/articles/c6wy4g48l0g5o?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 23 Nov 2026 14:09:21 GMT"
+    },
+    {
+      "category": "Bolivia",
+      "source": "EL DEBER",
+      "title": "Oriente espera un milagro, mientras la reserva se alista para viajar",
+      "summary": "La dirigencia no logró llegar a un acuerdo con el primer plantel por las deudas salariales y el paro se mantiene. Mientras los jugadores esperan una respuesta económica, la reserva se prepara para viajar a Potosí y afrontar el partido de este sábado ante Nacional.",
+      "url": "https://eldeber.com.bo/deportes/oriente-espera-milagro-mientras-reserva-alista-viajar_1795788959",
+      "published": "Fri, 27 Nov 2026 14:15:59 GMT"
+    },
+    {
+      "category": "Bolivia",
+      "source": "EL DEBER",
+      "title": "Presidente de YPFB encara consultas del Comité pro Santa Cruz tras el incremento del precio del diésel",
+      "summary": "Este viernes Sebastián Daroca acudió a una reunión con los representantes cívicos para abordar consultas sobre proyectos en el departamento y compartir información sobre la estatal petrolera.",
+      "url": "https://eldeber.com.bo/santa-cruz/presidente-ypfb-encara-consultas-comite-pro-santa-cruz-incremento-precio-diesel_1795788269",
+      "published": "Fri, 27 Nov 2026 14:04:29 GMT"
+    },
+    {
+      "category": "Deportes",
+      "source": "EL DEBER",
+      "title": "La permanencia y los premios internacionales entran en juego en la fecha 27 de la Liga",
+      "summary": "ABB y Real Tomayapo protagonizarán un duelo clave en la lucha por la permanencia, mientras que Independiente y Real Oruro se enfrentarán en Sucre con la necesidad de sumar para mantener vivas sus aspiraciones de clasificarse a un torneo internacional.",
+      "url": "https://eldeber.com.bo/deportes/permanencia-premios-internacionales-entran-juego-fecha-27-liga_1795787740",
+      "published": "Fri, 27 Nov 2026 13:55:40 GMT"
+    },
+    {
+      "category": "Bolivia",
+      "source": "EL DEBER",
+      "title": "Unas 180 familias fueron afectadas por nueva inundación de Tipuani; vecinos claman ayuda",
+      "summary": "Desde hace al menos ocho años, la población de Tipuani se anega de manera recurrente",
+      "url": "https://eldeber.com.bo/la-paz/180-familias-fueron-afectadas-nueva-inundacion-tipuani-vecinos-claman-ayuda_1795787560",
+      "published": "Fri, 27 Nov 2026 13:52:40 GMT"
+    },
+    {
+      "category": "Mundo",
+      "source": "BBC Mundo",
+      "title": "\"No estaría aquí si no fuera por usted\": el conmovedor encuentro de una joven con el hombre que la salvó de un ataque con cuchillo en un tren",
+      "summary": "Crean y Astrid se conocieron en medio de una emergencia: un ataque con cuchillo en un tren.",
+      "url": "https://www.bbc.com/mundo/articles/cv5y1pxjpj9lo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 27 Nov 2026 13:39:17 GMT"
+    },
+    {
+      "category": "Bolivia",
+      "source": "EL DEBER",
+      "title": "Una noche de gala para el nuevo titán: Ventura Sur fue inaugurado oficialmente",
+      "summary": "Con más de 2.000 invitados, corte de cinta y un espectáculo de fuegos artificiales que iluminó el cielo cruceño, el Grupo Daher inauguró el mayor desarrollo inmobiliario de la historia de Bolivia",
+      "url": "https://eldeber.com.bo/te-puede-interesar/noche-gala-nuevo-titan-ventura-sur-fue-inaugurado-oficialmente_1795785343",
+      "published": "Fri, 27 Nov 2026 13:15:45 GMT"
     },
     {
       "category": "Deportes",
@@ -416,22 +432,6 @@
       "summary": "",
       "url": "https://eldeber.com.bo/opinion/cara-cara_1795753732",
       "published": "Fri, 27 Nov 2026 04:28:52 GMT"
-    },
-    {
-      "category": "Bolivia",
-      "source": "EL DEBER",
-      "title": "Cadex rechaza el paro del transporte y plantea bajar el precio del diésel sin volver a la subvención",
-      "summary": "Oswaldo Barriga, gerente general de Cadex, cuestionó la amenaza de paro indefinido anunciada por los choferes y aseguró que los bloqueos ponen en riesgo mercados de exportación",
-      "url": "https://eldeber.com.bo/economia/cadex-rechaza-paro-transporte-plantea-bajar-precio-diesel_1795748314",
-      "published": "Fri, 27 Nov 2026 02:58:34 GMT"
-    },
-    {
-      "category": "Bolivia",
-      "source": "EL DEBER",
-      "title": "Bolivia accede a un segundo desembolso del FMI por $us 212 millones",
-      "summary": "La institución explicó en un comunicado de prensa que el Gobierno y el equipo técnico del FMI \"alcanzaron un acuerdo sobre la primera revisión del programa económico de Bolivia\", respaldado por el Servicio Ampliado del Fondo (SAF)",
-      "url": "https://eldeber.com.bo/economia/bolivia-accede-segundo-desembolso-fmi-us-212-millones_1795744614",
-      "published": "Fri, 27 Nov 2026 01:56:54 GMT"
     },
     {
       "category": "Mundo",
