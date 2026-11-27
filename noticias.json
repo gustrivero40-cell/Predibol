@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T15:57:40.508339+00:00",
+  "updated": "2026-11-27T17:08:21.004212+00:00",
   "items": [
     {
       "category": "Mundo",
@@ -140,14 +140,6 @@
     {
       "category": "Mundo",
       "source": "BBC Mundo",
-      "title": "\"Si puedes reconocer como padre a alguien sin vínculo biológico, también es justo que puedas dejar de hacerlo si no hay relación\"",
-      "summary": "Algunos hijos aseguran que conservar el nombre de un padre o una madre que les causó sufrimiento, supone revivir traumas una y otra vez a lo largo de sus vidas.",
-      "url": "https://www.bbc.com/mundo/articles/cwm2m625qej3o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 26 Nov 2026 11:37:59 GMT"
-    },
-    {
-      "category": "Mundo",
-      "source": "BBC Mundo",
       "title": "Por qué nuestros cerebros no están preparados para hacer varias tareas a la vez (aunque creas que lo haces bien)",
       "summary": "Nuestro cerebro tiene una capacidad limitada, y por ello intentar realizar varias tareas a la vez puede hacernos más propensos a la distracción, según expertos.",
       "url": "https://www.bbc.com/mundo/articles/cw808pxm2ndzo?at_medium=RSS&at_campaign=rss",
@@ -180,10 +172,66 @@
     {
       "category": "Bolivia",
       "source": "EL DEBER",
+      "title": "Encuentran muerta a la mujer desaparecida en Montero; hay dos aprehendidos",
+      "summary": "El cuerpo de la víctima estaba envuelto con bolsas de yute y el principal sospechoso del crimen es un hombre que tenía una relación sentimental con la fallecida, según la Fiscalía",
+      "url": "https://eldeber.com.bo/pais/encuentran-muerta-mujer-desaparecida-montero-hay-dos-aprehendidos_1795798220",
+      "published": "Fri, 27 Nov 2026 16:50:20 GMT"
+    },
+    {
+      "category": "Bolivia",
+      "source": "EL DEBER",
+      "title": "El alza del diésel se suma al conflicto educativo: maestros y trabajadores protestaron en Santa Cruz",
+      "summary": "En la capital cruceña, las federaciones de maestros urbanos y la COD de Santa Cruz protagonizaron una marcha pacífica contra el alza del diésel y la descentralización educativa.",
+      "url": "https://eldeber.com.bo/santa-cruz/alza-diesel-suma-conflicto-educativo-maestros-trabajadores-protestaron-santa-cruz_1795797243",
+      "published": "Fri, 27 Nov 2026 16:34:03 GMT"
+    },
+    {
+      "category": "Mundo",
+      "source": "BBC Mundo",
+      "title": "Los estafadores que engañaron a miles de migrantes detenidos en EE.UU. con servicios de fianzas fraudulentos",
+      "summary": "Ganaron millones de dólares a costa de migrantes detenidos y eludieron los intentos de desmantelar su negocio.",
+      "url": "https://www.bbc.com/mundo/articles/c6gm3jxzy3dro?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 27 Nov 2026 16:18:26 GMT"
+    },
+    {
+      "category": "Bolivia",
+      "source": "EL DEBER",
+      "title": "Se restablece el servicio de agua potable en Sucre de manera gradual",
+      "summary": "Ante algunas quejas de los vecinos por el suministro de agua turbia, Elapas asegura que se trata solo de un hecho “momentáneo”",
+      "url": "https://eldeber.com.bo/chuquisaca/restablece-servicio-agua-potable-sucre-manera-gradual_1795795568",
+      "published": "Fri, 27 Nov 2026 16:06:08 GMT"
+    },
+    {
+      "category": "Bolivia",
+      "source": "EL DEBER",
+      "title": "La problemática del diésel en Bolivia también llegó al Vaticano; 24 obispos lo comentaron con el papa",
+      "summary": "La delegación sostuvo este viernes una audiencia privada con el papa León XIV, después de nueve años, en la que abordó la situación económica y social del país. Le entregaron una imagen de la Virgen María tallada en madera, representativa del arte sacro de la Chiquitania.",
+      "url": "https://eldeber.com.bo/pais/problematica-diesel-bolvia-llego-vaticano-24-obispos-comentaron-papa_1795795484",
+      "published": "Fri, 27 Nov 2026 16:04:44 GMT"
+    },
+    {
+      "category": "Bolivia",
+      "source": "EL DEBER",
+      "title": "Ortuño comparece ante el Senado y queda pendiente la ratificación de tres embajadores",
+      "summary": "El senador Cochi confirmó a EL DEBER que la comisión entrevistó este viernes al nominado para Washington. El restablecimiento de embajadores con EEUU avanza tras 18 años.",
+      "url": "https://eldeber.com.bo/pais/ortuno-comparece-senado-queda-pendiente-ratificacion-tres-embajadores_1795794561",
+      "published": "Fri, 27 Nov 2026 15:49:21 GMT"
+    },
+    {
+      "category": "Bolivia",
+      "source": "EL DEBER",
       "title": "Jordy Alemán no volverá a dirigir este año y podría recibir una sanción mayor",
       "summary": "El árbitro fue apartado provisionalmente por la Comisión de Árbitros de la FBF luego de propinarle un golpe a Cristian Martínez al finalizar la final de la Copa Bolivia. José Jordán, presidente de la comisión, confirmó que solicitaron informes para determinar una sanción definitiva, que podría ser mayor.",
       "url": "https://eldeber.com.bo/deportes/jordy-aleman-no-volvera-dirigir-este-ano-podria-recibir-sancion-mayor_1795794435",
       "published": "Fri, 27 Nov 2026 15:47:15 GMT"
+    },
+    {
+      "category": "Bolivia",
+      "source": "EL DEBER",
+      "title": "La barra de Oriente convoca a una concentración y exige la renuncia de Raldes",
+      "summary": "En medio del conflicto con los jugadores por las deudas salariales y los últimos episodios de violencia, la barra brava convocó a una concentración pacífica para este sábado, con el objetivo de exigir la salida del presidente Ronald Raldes y todo su directorio.",
+      "url": "https://eldeber.com.bo/deportes/barra-oriente-convoca-concentracion-exige-renuncia-raldes_1795794282",
+      "published": "Fri, 27 Nov 2026 15:44:42 GMT"
     },
     {
       "category": "Bolivia",
@@ -362,52 +410,12 @@
       "published": "Fri, 27 Nov 2026 12:18:35 GMT"
     },
     {
-      "category": "Bolivia",
-      "source": "EL DEBER",
-      "title": "¿Cómo fluctuó el dólar durante la semana y a cuánto se cotiza este viernes 27 de noviembre?",
-      "summary": "La cotización en el Banco Central de Bolivia y en el mercado paralelo son diferentes.",
-      "url": "https://eldeber.com.bo/economia/fluctuo-dolar-semana-cuanto-cotiza-este-viernes-27-noviembre_1795780353",
-      "published": "Fri, 27 Nov 2026 11:53:15 GMT"
-    },
-    {
-      "category": "Bolivia",
-      "source": "EL DEBER",
-      "title": "Taiwán critica reticencias de Argentina, Bolivia y Uruguay a estrechar lazos bilaterales",
-      "summary": "\"Bolivia es una nación con una enorme riqueza minera, pero esta riqueza debe redundar en beneficio del desarrollo de la ciudadanía y no ser controlada por China (...). Yo me pregunto, un país que es territorialmente no pequeño, como Bolivia, ¿por qué se somete al control de China?\", criticó el ministro taiwanés",
-      "url": "https://eldeber.com.bo/mundo/taiwan-critica-reticencias-argentina-bolivia-uruguay-estrechar-lazos-bilaterales_1795779991",
-      "published": "Fri, 27 Nov 2026 11:46:31 GMT"
-    },
-    {
-      "category": "Bolivia",
-      "source": "EL DEBER",
-      "title": "La científica mexicana que ayudó a descubrir el origen de los murciélagos y por qué son inmunes a los virus que transmiten",
-      "summary": "\"La primera vez que tuve un murciélago en las manos ya no quise estudiar nada más\", dice Ariadna Morales a BBC Mundo.",
-      "url": "https://eldeber.com.bo/bbc/cientifica-mexicana-ayudo-descubrir-origen-murcielagos-inmunes-virus-transmiten_1795779495",
-      "published": "Fri, 27 Nov 2026 11:38:15 GMT"
-    },
-    {
       "category": "Mundo",
       "source": "BBC Mundo",
       "title": "La científica mexicana que ayudó a descubrir el origen de los murciélagos y por qué son inmunes a los virus que transmiten",
       "summary": "Hay unas 1.500 especies de murciélagos y uno de los grandes misterios es por qué, si bien son reservorios de virus letales, ellos mismos no se enferman, explicó la bióloga Ariadna Morales a BBC Mundo.",
       "url": "https://www.bbc.com/mundo/articles/cm62y8017lxpo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 27 Nov 2026 11:38:10 GMT"
-    },
-    {
-      "category": "Bolivia",
-      "source": "EL DEBER",
-      "title": "“Ya no dormimos cuando llueve, tenemos miedo de amanecer muertos”: más de 40 familias de El Puerto temen que el río Yapacaní arrase sus viviendas",
-      "summary": "El barrio El Puerto, conocido por sus cabañas turísticas a orillas del río Yapacaní, no solo concentra viviendas, sino también negocios de más de 40 familias que dependen de esta actividad económica.",
-      "url": "https://eldeber.com.bo/santa-cruz/no-dormimos-cuando-llueve-tenemos-miedo-levantarnos-muertos-40-familias-puerto-temen-rio-yapacani-arrase-viviendas_1795779204",
-      "published": "Fri, 27 Nov 2026 11:33:59 GMT"
-    },
-    {
-      "category": "Bolivia",
-      "source": "EL DEBER",
-      "title": "Paz y Fujimori reactivan agenda de 48 puntos de integración y seguridad",
-      "summary": "Los presidentes de Bolivia y Perú encabezarán hoy el VII Gabinete Binacional en Lima, después de cinco años. Los gobiernos prevén establecer una hoja de ruta con proyectos a ejecutar hasta 2027",
-      "url": "https://eldeber.com.bo/pais/paz-fujimori-reactivan-agenda-48-puntos-integracion-seguridad_1795777158",
-      "published": "Fri, 27 Nov 2026 10:59:18 GMT"
     },
     {
       "category": "Bolivia",
@@ -424,14 +432,6 @@
       "summary": "Nuestra columna es la estructura principal de nuestro cuerpo. Y, aun así, la mayor parte del tiempo le prestamos poca atención.",
       "url": "https://www.bbc.com/mundo/articles/cqevr0l23e1vo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 27 Nov 2026 10:45:22 GMT"
-    },
-    {
-      "category": "Bolivia",
-      "source": "EL DEBER",
-      "title": "4 datos económicos que explican cómo llega España a las elecciones generales del 29N",
-      "summary": "Muchas familias viven con salarios muy por debajo de la media europea, mientras el costo de la vida no ha dejado de aumentar.",
-      "url": "https://eldeber.com.bo/bbc/4-datos-economicos-explican-llega-espana-elecciones-generales-29n_1795755213",
-      "published": "Fri, 27 Nov 2026 04:53:33 GMT"
     },
     {
       "category": "Mundo",
