@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T11:56:18.729886+00:00",
+  "updated": "2026-11-27T13:13:40.761291+00:00",
   "items": [
     {
       "category": "Mundo",
@@ -8,22 +8,6 @@
       "summary": "Jane Collins casi había perdido la esperanza de ver a Michael Donovan y Richard Moore comparecer ante la justicia. Entonces fueron acusados de robar al hermano de un autor de un tiroteo masivo.",
       "url": "https://www.bbc.com/mundo/articles/c6174wy0l54eo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 25 Nov 2026 23:49:27 GMT"
-    },
-    {
-      "category": "Mundo",
-      "source": "BBC Mundo",
-      "title": "Muere a los 65 años el guitarrista de la legendaria banda de pop Duran Duran",
-      "summary": "El músico, coautor de algunos de los mayores éxitos de la banda, había estado recibiendo tratamiento para el cáncer de próstata.",
-      "url": "https://www.bbc.com/mundo/articles/cmwy8gjdgwy6o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 25 Nov 2026 23:24:27 GMT"
-    },
-    {
-      "category": "Mundo",
-      "source": "BBC Mundo",
-      "title": "Menos sexo y más porno: lo que revela el último informe nacional sobre la sexualidad de los británicos",
-      "summary": "En Reino Unido, muchos jóvenes nunca han tenido relaciones sexuales, pero muchos practican el sexting y ven pornografía.",
-      "url": "https://www.bbc.com/mundo/articles/cq8e04ynw811o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 25 Nov 2026 17:16:04 GMT"
     },
     {
       "category": "Mundo",
@@ -250,12 +234,84 @@
       "published": "Mon, 23 Nov 2026 14:09:21 GMT"
     },
     {
+      "category": "Deportes",
+      "source": "EL DEBER",
+      "title": "¡Vamos, Bolivia! La Verde va por el pase a la final del Mundial de Talla Baja",
+      "summary": "La selección boliviana de talla baja enfrentará este viernes a Marruecos, desde las 14:00 HB, por un lugar en la gran final del Mundial. La Verde llega invicta a esta instancia y buscará repetir la hazaña conseguida ante Colombia en cuartos de final.",
+      "url": "https://eldeber.com.bo/deportes/vamos-bolivia-verde-va-pase-final-mundial-talla-baja_1795784570",
+      "published": "Fri, 27 Nov 2026 13:02:50 GMT"
+    },
+    {
+      "category": "Bolivia",
+      "source": "EL DEBER",
+      "title": "Miguelito de talla baja: “No vinimos a participar, vinimos a competir y a dejarlo todo”",
+      "summary": "Miguel Chávez, conocido futbolísticamente como Miguelito, destacó el esfuerzo de la selección boliviana de talla baja para superar a Colombia en los penales y clasificarse a las semifinales del Mundial.",
+      "url": "https://eldeber.com.bo/deportes/miguelito-talla-baja-no-vinimos-participar-vinimos-competir-dejarlo-todo_1795784338",
+      "published": "Fri, 27 Nov 2026 12:58:58 GMT"
+    },
+    {
+      "category": "Bolivia",
+      "source": "EL DEBER",
+      "title": "Transporte pesado descartó que el paro indefinido incluya bloqueos de carreteras y calles",
+      "summary": "El dirigente del Transporte Pesado Internacional, Marcelo Cruz, confirmó que el sector se sumará al paro indefinido nacional. Aunque inicialmente no habrá bloqueos, las medidas podrían endurecerse si el Gobierno no escucha las demandas respecto al precio del diésel.",
+      "url": "https://eldeber.com.bo/pais/transporte-pesado-descarto-paro-indefinido-incluya-bloqueos-carreteras-calles_1795784131",
+      "published": "Fri, 27 Nov 2026 12:55:31 GMT"
+    },
+    {
+      "category": "Bolivia",
+      "source": "EL DEBER",
+      "title": "“Dios quiso que sea así”: DT de Bolivia, tras el drama ante Colombia",
+      "summary": "Julio César Lavadenz, director técnico de la selección boliviana de talla baja, valoró la clasificación a las semifinales del Mundial tras superar a Colombia en los penales. La Verde se impuso luego de igualar 2-2 en el tiempo reglamentario y ahora enfrentará a Marruecos.",
+      "url": "https://eldeber.com.bo/deportes/dios-quiso-sea-asi-dt-bolivia-drama-colombia_1795784017",
+      "published": "Fri, 27 Nov 2026 12:53:37 GMT"
+    },
+    {
+      "category": "Bolivia",
+      "source": "EL DEBER",
+      "title": "Fiscalía admite denuncia contra ex directora de Aisem y observa la demanda contra diputados",
+      "summary": "La exdirectora Daniela Quiroga fue denunciada por supuesta discriminación a una de las personas mencionadas en los audios del presunto cuoteo de cargos en Aisem",
+      "url": "https://eldeber.com.bo/pais/fiscalia-admite-denuncia-ex-directora-aisem-observa-demanda-diputados_1795783236",
+      "published": "Fri, 27 Nov 2026 12:40:36 GMT"
+    },
+    {
+      "category": "Mundo",
+      "source": "BBC Mundo",
+      "title": "\"Comiendo frutas y bebiendo agua de manantiales\": el hombre de 74 años con alzhéimer que sobrevivió 11 días perdido en el Amazonas",
+      "summary": "Un septuagenario con alzhéimer logró sobrevir en la selva durante 11 días hasta que fue rescatado.",
+      "url": "https://www.bbc.com/mundo/articles/ckp809pd5ve9o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 27 Nov 2026 12:40:03 GMT"
+    },
+    {
+      "category": "Mundo",
+      "source": "BBC Mundo",
+      "title": "Los campesinos en Colombia que no dejan de recibir amenazas por un terreno que les devolvió el gobierno hace 6 meses",
+      "summary": "Campesinos a los que les fueron cerca de 400 hectáreas en Colombia están recibiendo amenazas para que abandonen estos terrenos.",
+      "url": "https://www.bbc.com/mundo/articles/cqevrxnk1p8po?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 27 Nov 2026 12:18:35 GMT"
+    },
+    {
+      "category": "Bolivia",
+      "source": "EL DEBER",
+      "title": "¿Cómo fluctuó el dólar durante la semana y a cuánto se cotiza este viernes 27 de noviembre?",
+      "summary": "La cotización en el Banco Central de Bolivia y en el mercado paralelo son diferentes.",
+      "url": "https://eldeber.com.bo/economia/fluctuo-dolar-semana-cuanto-cotiza-este-viernes-27-noviembre_1795780353",
+      "published": "Fri, 27 Nov 2026 11:53:15 GMT"
+    },
+    {
       "category": "Bolivia",
       "source": "EL DEBER",
       "title": "Taiwán critica reticencias de Argentina, Bolivia y Uruguay a estrechar lazos bilaterales",
       "summary": "\"Bolivia es una nación con una enorme riqueza minera, pero esta riqueza debe redundar en beneficio del desarrollo de la ciudadanía y no ser controlada por China (...). Yo me pregunto, un país que es territorialmente no pequeño, como Bolivia, ¿por qué se somete al control de China?\", criticó el ministro taiwanés",
       "url": "https://eldeber.com.bo/mundo/taiwan-critica-reticencias-argentina-bolivia-uruguay-estrechar-lazos-bilaterales_1795779991",
       "published": "Fri, 27 Nov 2026 11:46:31 GMT"
+    },
+    {
+      "category": "Bolivia",
+      "source": "EL DEBER",
+      "title": "La científica mexicana que ayudó a descubrir el origen de los murciélagos y por qué son inmunes a los virus que transmiten",
+      "summary": "\"La primera vez que tuve un murciélago en las manos ya no quise estudiar nada más\", dice Ariadna Morales a BBC Mundo.",
+      "url": "https://eldeber.com.bo/bbc/cientifica-mexicana-ayudo-descubrir-origen-murcielagos-inmunes-virus-transmiten_1795779495",
+      "published": "Fri, 27 Nov 2026 11:38:15 GMT"
     },
     {
       "category": "Mundo",
@@ -280,6 +336,14 @@
       "summary": "Los presidentes de Bolivia y Perú encabezarán hoy el VII Gabinete Binacional en Lima, después de cinco años. Los gobiernos prevén establecer una hoja de ruta con proyectos a ejecutar hasta 2027",
       "url": "https://eldeber.com.bo/pais/paz-fujimori-reactivan-agenda-48-puntos-integracion-seguridad_1795777158",
       "published": "Fri, 27 Nov 2026 10:59:18 GMT"
+    },
+    {
+      "category": "Bolivia",
+      "source": "EL DEBER",
+      "title": "4 movimientos que debes evitar para tener una columna saludable",
+      "summary": "Nuestra columna vertebral es una maravilla de la evolución: no solo provee la estructura ósea que nos permite pararnos y caminar, sino que a lo largo de ella descienden millones de nervios que son los que conectan al cerebro con el resto del cuerpo.",
+      "url": "https://eldeber.com.bo/bbc/4-movimientos-debes-evitar-tener-columna-saludable_1795776327",
+      "published": "Fri, 27 Nov 2026 10:45:27 GMT"
     },
     {
       "category": "Mundo",
@@ -330,6 +394,14 @@
       "published": "Fri, 27 Nov 2026 10:20:23 GMT"
     },
     {
+      "category": "Bolivia",
+      "source": "EL DEBER",
+      "title": "4 datos económicos que explican cómo llega España a las elecciones generales del 29N",
+      "summary": "Muchas familias viven con salarios muy por debajo de la media europea, mientras el costo de la vida no ha dejado de aumentar.",
+      "url": "https://eldeber.com.bo/bbc/4-datos-economicos-explican-llega-espana-elecciones-generales-29n_1795755213",
+      "published": "Fri, 27 Nov 2026 04:53:33 GMT"
+    },
+    {
       "category": "Mundo",
       "source": "BBC Mundo",
       "title": "4 datos económicos que explican cómo llega España a las elecciones generales del 29N",
@@ -356,82 +428,10 @@
     {
       "category": "Bolivia",
       "source": "EL DEBER",
-      "title": "Sociedad de Ingenieros y Exomad Green firman convenio para la incorporación de profesionales",
-      "summary": "El acuerdo se firmó en las instalaciones de la SIB. Su presidente destacó la alianza con Exomad Green, reconocida como líder mundial en la producción de biochar, mientras que desde la empresa valoraron la sinergia alcanzada con la entidad de ingenieros.",
-      "url": "https://eldeber.com.bo/santa-cruz/sociedad-ingenieros-exomad-green-firman-convenio-incorporacion-profesionales_1795747591",
-      "published": "Fri, 27 Nov 2026 02:46:31 GMT"
-    },
-    {
-      "category": "Bolivia",
-      "source": "EL DEBER",
-      "title": "Curul guaraní sigue sin definirse y la Asamblea espera una notificación oficial del TSE para su posesión",
-      "summary": "La presidenta de la Asamblea Legislativa Departamental de Santa Cruz, María René Álvarez, pidió al Tribunal Supremo Electoral (TSE) emitir un pronunciamiento formal sobre la representación indígena, que permanece en acefalía desde mayo. Además, denunció presuntas amenazas durante la visita de un diputado nacional a su despacho.",
-      "url": "https://eldeber.com.bo/santa-cruz/curul-guarani-sigue-definirse-asamblea-espera-notificacion-oficial-tse-posesion_1795745934",
-      "published": "Fri, 27 Nov 2026 02:18:54 GMT"
-    },
-    {
-      "category": "Bolivia",
-      "source": "EL DEBER",
-      "title": "Aprehenden a dos familiares del sospechoso de feminicidio de mujer desaparecida",
-      "summary": "El principal sospechoso permanece prófugo y tiene una orden de aprehensión. La Policía continúa con la búsqueda del cuerpo de la mujer, desaparecida desde el 14 de noviembre",
-      "url": "https://eldeber.com.bo/santa-cruz/aprehenden-dos-familiares-sospechoso-feminicidio-mujer-desaparecida_1795745751",
-      "published": "Fri, 27 Nov 2026 02:15:51 GMT"
-    },
-    {
-      "category": "Bolivia",
-      "source": "EL DEBER",
-      "title": "Salió de la cárcel hace 10 días y ahora la Fiscalía pide su detención por feminicidio",
-      "summary": "El sospechoso, de 45 años, fue aprehendido por la Policía tras ser ubicado en un hostal de la zona sur de Cochabamba. El Ministerio Público solicitó su detención preventiva",
-      "url": "https://eldeber.com.bo/cochabamba/salio-carcel-hace-10-dias-ahora-fiscalia-pide-detencion-feminicidio_1795744996",
-      "published": "Fri, 27 Nov 2026 02:03:16 GMT"
-    },
-    {
-      "category": "Bolivia",
-      "source": "EL DEBER",
-      "title": "La Fórmula Uno aterriza en Catar bajo la sombra de la guerra en Oriente Medio",
-      "summary": "El Mundial de Fórmula Uno aterriza este fin de semana en Catar para su penúltima cita de la temporada, una carrera sin demasiados alicientes deportivos, más allá del posible subcampeonato del neerlandés Max Verstappen, pero atravesado por la sombra de la guerra en Oriente Medio.",
-      "url": "https://eldeber.com.bo/deportes/formula-uno-aterriza-catar-sombra-guerra-oriente-medio_1795744800",
-      "published": "Fri, 27 Nov 2026 02:00:00 GMT"
-    },
-    {
-      "category": "Bolivia",
-      "source": "EL DEBER",
       "title": "Bolivia accede a un segundo desembolso del FMI por $us 212 millones",
       "summary": "La institución explicó en un comunicado de prensa que el Gobierno y el equipo técnico del FMI \"alcanzaron un acuerdo sobre la primera revisión del programa económico de Bolivia\", respaldado por el Servicio Ampliado del Fondo (SAF)",
       "url": "https://eldeber.com.bo/economia/bolivia-accede-segundo-desembolso-fmi-us-212-millones_1795744614",
       "published": "Fri, 27 Nov 2026 01:56:54 GMT"
-    },
-    {
-      "category": "Bolivia",
-      "source": "EL DEBER",
-      "title": "Warnes está de fiesta por sus 107 años",
-      "summary": "El alcalde, Mario Cronenbold, aprovechó para decirle a sus colegas presentes que los municipios no pueden seguir creciendo de forma independiente, cada uno por su lado. \"Hay carreteras y canales que hay que hacer juntos\".",
-      "url": "https://eldeber.com.bo/santa-cruz/warnes-esta-fiesta-107-anos_1795744168",
-      "published": "Fri, 27 Nov 2026 01:52:30 GMT"
-    },
-    {
-      "category": "Bolivia",
-      "source": "EL DEBER",
-      "title": "Temen pérdidas en el sector productivo en la zona norte de Santa Cruz, por las intensas lluvias del miércoles",
-      "summary": "El reporte de este jueves es que se han normalizado los niveles de los caudales en Santa Cruz",
-      "url": "https://eldeber.com.bo/santa-cruz/temen-perdidas-sector-productivo-zona-norte-santa-cruz-intensas-lluvias-miercoles_1795744242",
-      "published": "Fri, 27 Nov 2026 01:50:42 GMT"
-    },
-    {
-      "category": "Bolivia",
-      "source": "EL DEBER",
-      "title": "Figueroa: “Esperemos que el día de mañana se pueda hacer el pago”",
-      "summary": "El secretario general de Oriente Petrolero aseguró que se gestionan los recursos para cancelar una cuota pendiente este viernes, luego de que los jugadores ratificaran que no viajarán a Potosí.",
-      "url": "https://eldeber.com.bo/deportes/figueroa-esperemos-dia-manana-pueda-hacer-pago_1795742336",
-      "published": "Fri, 27 Nov 2026 01:18:57 GMT"
-    },
-    {
-      "category": "Bolivia",
-      "source": "EL DEBER",
-      "title": "Fiscalía imputa a brasileño por tentativa de homicidio tras ataque a policía",
-      "summary": "En el operativo se secuestraron sustancias controladas, armamento, teléfonos celulares y una camioneta. El policía herido presenta una lesión cervical y parálisis de las extremidades inferiores, según un informe médico de Brasil",
-      "url": "https://eldeber.com.bo/santa-cruz/fiscalia-imputa-brasileno-tentativa-homicidio-ataque-policia_1795741674",
-      "published": "Fri, 27 Nov 2026 01:07:54 GMT"
     },
     {
       "category": "Mundo",
