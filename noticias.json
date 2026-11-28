@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-28T10:50:20.204410+00:00",
+  "updated": "2026-11-28T11:46:32.784361+00:00",
   "items": [
     {
       "category": "Mundo",
@@ -24,14 +24,6 @@
       "summary": "Las cifras obtenidas por unos hackers muestran cómo la invasión a gran escala de Ucrania ha transformado significativamente los patrones de mortalidad en Rusia.",
       "url": "https://www.bbc.com/mundo/articles/cq5y1lpz5pr8o?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 25 Nov 2026 13:17:56 GMT"
-    },
-    {
-      "category": "Mundo",
-      "source": "BBC Mundo",
-      "title": "Cómo el brutal asesinato de las hermanas Mirabal en República Dominicana dio origen al Día Internacional de la Eliminación de la Violencia contra la Mujer",
-      "summary": "La ONU escogió esa fecha para rendir homenaje a tres mujeres que fueron brutalmente asesinadas por su oposición a la dictadura de Rafael Trujillo.",
-      "url": "https://www.bbc.com/mundo/articles/c94gn8rvjg6xo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 25 Nov 2026 12:31:54 GMT"
     },
     {
       "category": "Mundo",
@@ -138,12 +130,68 @@
       "published": "Thu, 26 Nov 2026 02:44:48 GMT"
     },
     {
+      "category": "Bolivia",
+      "source": "EL DEBER",
+      "title": "Bs 11,90, el valor de la divisa norteamericana para el fin de semana",
+      "summary": "La divisa se mantiene bajo el esquema de tipo de cambio flexible, vigente desde finales de junio de 2026, cuando inició con una cotización de Bs 9,73.",
+      "url": "https://eldeber.com.bo/economia/bs-11-90-valor-divisa-norteamericana-fin-semana_1795865926",
+      "published": "Sat, 28 Nov 2026 11:38:46 GMT"
+    },
+    {
+      "category": "Bolivia",
+      "source": "EL DEBER",
+      "title": "¿Por qué la temperatura corporal de los humanos se ha reducido en los últimos 150 años?",
+      "summary": "La temperatura corporal promedio de los tsimane, una comunidad indígena seminómada que habita en la selva amazónica, solía rondar los 37 °C a principios de la década de los 2000, según el antropólogo biológico Adrian Jaeggi, de la Universidad de Zúrich (Suiza). Sin embargo, en 2018, tras dos décadas de rápidos cambios socioeconómicos, su promedio descendió a 36,5 °C",
+      "url": "https://eldeber.com.bo/bbc/temperatura-corporal-humanos-ha-reducido-ultimos-150-anos_1795865613",
+      "published": "Sat, 28 Nov 2026 11:33:33 GMT"
+    },
+    {
+      "category": "Mundo",
+      "source": "BBC Mundo",
+      "title": "¿Por qué la temperatura corporal de los humanos se ha reducido en los últimos 150 años?",
+      "summary": "Al parecer, la temperatura corporal promedio de los seres humanos solía ser más alta que ahora. Los científicos aún investigan la razón exacta.",
+      "url": "https://www.bbc.com/mundo/articles/c62kek7gyy3qo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 28 Nov 2026 11:33:29 GMT"
+    },
+    {
+      "category": "Mundo",
+      "source": "BBC Mundo",
+      "title": "Cómo \"Los viajes de Gulliver\" han logrado encantar tanto a niños como adultos por 300 años, a pesar de retratar lo peor de la humanidad",
+      "summary": "Publicada en 1726, la novela de Jonathan Swift ha sido objeto de muchas modificaciones y adaptaciones. ¿Es una sátira misantrópica o un cuento fantástico?",
+      "url": "https://www.bbc.com/mundo/articles/c6y49n3xvqlpo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 28 Nov 2026 11:08:56 GMT"
+    },
+    {
+      "category": "Bolivia",
+      "source": "EL DEBER",
+      "title": "España: El voto de los jóvenes se inclina cada vez más hacia la extrema derecha",
+      "summary": "Casi 50 millones de españoles acuden el domingo a las urnas para elegir a su presidente. Los partidos tradicionales han perdido espacio ante fórmulas marcadas por el radicalismo tanto en la izquierda como en la derecha",
+      "url": "https://eldeber.com.bo/rfi/espana-voto-jovenes-inclina-cada-vez-extrema-derecha_1795861282",
+      "published": "Sat, 28 Nov 2026 10:21:22 GMT"
+    },
+    {
+      "category": "Bolivia",
+      "source": "EL DEBER",
+      "title": "Erika Cheung, la joven que creció en la pobreza y terminó exponiendo el fraude multimillonario de Elizabeth Holmes con Theranos",
+      "summary": "Theranos prometía revolucionar la medicina con análisis rápidos y económicos para detectar una gran variedad de enfermedades. Su dispositivo Edison supuestamente podía realizar las pruebas con apenas una gota de sangre obtenida mediante un pinchazo en el dedo",
+      "url": "https://eldeber.com.bo/bbc/erika-cheung-joven-crecio-pobreza-termino-exponiendo-fraude-multimillonario-elizabeth-holmes-theranos_1795860002",
+      "published": "Sat, 28 Nov 2026 10:00:02 GMT"
+    },
+    {
       "category": "Mundo",
       "source": "BBC Mundo",
       "title": "Erika Cheung, la joven que creció en la pobreza y terminó exponiendo el fraude multimillonario de Elizabeth Holmes con Theranos",
       "summary": "Recién graduada, empezó a trabajar en una pujante empresa tecnológica que prometía revolucionar la atención médica. Pero descubrió algo oscuro y se atrevió a denunciarlo.",
       "url": "https://www.bbc.com/mundo/articles/c60qjwen98jdo?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 28 Nov 2026 09:59:57 GMT"
+    },
+    {
+      "category": "Bolivia",
+      "source": "EL DEBER",
+      "title": "España: La vivienda, un reto pendiente y gran tema de las elecciones",
+      "summary": "En las calles de Sevilla se ven a menudo parejas frente a las vitrinas de las inmobiliarias haciendo cuentas, para comprar o hacer esa mudanza deseada... Un escenario que se vive en casi todo el país y que gane quien gane en estas elecciones, será un tema obligatorio en la agenda de Gobierno",
+      "url": "https://eldeber.com.bo/rfi/espana-vivienda-reto-pendiente-gran-tema-elecciones_1795857277",
+      "published": "Sat, 28 Nov 2026 09:14:37 GMT"
     },
     {
       "category": "Bolivia",
@@ -162,6 +210,14 @@
       "published": "Sat, 28 Nov 2026 03:26:47 GMT"
     },
     {
+      "category": "Bolivia",
+      "source": "EL DEBER",
+      "title": "El país cuya revolución solar ha sido tan exitosa que su red eléctrica se está desmoronando",
+      "summary": "Pakistán ha experimentado un auge en la importación de paneles solares, que brillan en los tejados de casas y hospitales; desde campos agrícolas hasta complejos industriales",
+      "url": "https://eldeber.com.bo/bbc/pais-cuya-revolucion-solar-ha-sido-tan-exitosa-red-electrica-esta-desmoronando_1795836107",
+      "published": "Sat, 28 Nov 2026 03:21:47 GMT"
+    },
+    {
       "category": "Mundo",
       "source": "BBC Mundo",
       "title": "El país cuya revolución solar ha sido tan exitosa que su red eléctrica se está desmoronando",
@@ -176,6 +232,14 @@
       "summary": "Los estudiantes, por más que pasen de año, no logran gestionar las competencias mínimas requeridas. Los resultados en matemáticas y lectura son más que preocupantes. La enseñanza en Bolivia está reprobada por su falta de resultados evidenciables",
       "url": "https://eldeber.com.bo/opinion/cara-cara_1795834267",
       "published": "Sat, 28 Nov 2026 02:51:07 GMT"
+    },
+    {
+      "category": "Bolivia",
+      "source": "EL DEBER",
+      "title": "Fiscalía abre investigación contra Nadia Beller y la relaciona con Marset",
+      "summary": "La investigación se sustenta en la declaración de un venezolano, exintegrante del equipo de seguridad de Marset, quien identificó a Nadia Beller como una presunta intermediaria en contactos con autoridades policiales y judiciales",
+      "url": "https://eldeber.com.bo/pais/fiscalia-abre-investigacion-nadia-beller-relaciona-marset_1795831816",
+      "published": "Sat, 28 Nov 2026 02:10:16 GMT"
     },
     {
       "category": "Bolivia",
@@ -308,66 +372,10 @@
     {
       "category": "Bolivia",
       "source": "EL DEBER",
-      "title": "Estados Unidos será sede de tres Copas América en apenas 12 años",
-      "summary": "El país norteamericano organizará la edición de 2028, después de haber recibido los torneos de 2016 y 2024. La elección vuelve a poner en debate el alejamiento del campeonato de Sudamérica.",
-      "url": "https://eldeber.com.bo/deportes/estados-unidos-sera-sede-tres-copas-america-apenas-12-anos_1795821692",
-      "published": "Fri, 27 Nov 2026 23:21:32 GMT"
-    },
-    {
-      "category": "Bolivia",
-      "source": "EL DEBER",
       "title": "Bolivia y Perú sellan cuatro acuerdos y reactivan sus relaciones diplomáticas tras cinco años",
       "summary": "El presidente boliviano calificó de exitoso el encuentro binacional en Lima, donde se firmaron cuatro acuerdos y se retomaron las relaciones diplomáticas tras cinco años de distanciamiento. También planteó impulsar la producción nacional y aprovechar la infraestructura portuaria peruana",
       "url": "https://eldeber.com.bo/pais/bolivia-peru-sellan-cuatro-acuerdos-reactivan-relaciones-diplomaticas-cinco-anos_1795820966",
       "published": "Fri, 27 Nov 2026 23:09:26 GMT"
-    },
-    {
-      "category": "Bolivia",
-      "source": "EL DEBER",
-      "title": "La reserva de Oriente emprende rumbo a Potosí la noche de este viernes",
-      "summary": "El equipo refinero viajará a las 23:30 hasta Sucre y luego continuará por tierra para enfrentar este sábado a Nacional Potosí, por la fecha 27 del torneo Todos contra Todos.",
-      "url": "https://eldeber.com.bo/deportes/reserva-oriente-emprende-rumbo-potosi-noche-este-viernes_1795819880",
-      "published": "Fri, 27 Nov 2026 22:52:03 GMT"
-    },
-    {
-      "category": "Bolivia",
-      "source": "EL DEBER",
-      "title": "Devotos reciben a la 'Mamita de Cotoca' y la acompañan en procesión hasta la Catedral",
-      "summary": "Fue recibida en el Cristo Redentor por una multitud de feligreses con fe y alegría. La 'Mamita de Cotoca' estará hasta el sábado en la Catedral",
-      "url": "https://eldeber.com.bo/santa-cruz/devotos-reciben-mamita-cotoca-acompanan-procesion-catedral_1795819542",
-      "published": "Fri, 27 Nov 2026 22:45:42 GMT"
-    },
-    {
-      "category": "Bolivia",
-      "source": "EL DEBER",
-      "title": "Bolivia y Perú buscan abrir más negocios e inversiones",
-      "summary": "Los gobiernos presentaron 48 propuestas, de las cuales 33 ya fueron consensuadas. El objetivo es convertir los acuerdos en proyectos de comercio, infraestructura, seguridad y desarrollo productivo.",
-      "url": "https://eldeber.com.bo/economia/bolivia-peru-buscan-abrir-negocios-inversiones_1795819130",
-      "published": "Fri, 27 Nov 2026 22:38:50 GMT"
-    },
-    {
-      "category": "Bolivia",
-      "source": "EL DEBER",
-      "title": "Tres clubes de la Premier quieren que Emiratos venda al Manchester City",
-      "summary": "La propuesta surge por el caso de las 115 irregularidades financieras que enfrenta el club inglés, cuya sanción definitiva todavía está pendiente.",
-      "url": "https://eldeber.com.bo/deportes/tres-clubes-premier-quieren-emiratos-venda-manchester-city_1795817403",
-      "published": "Fri, 27 Nov 2026 22:10:03 GMT"
-    },
-    {
-      "category": "Bolivia",
-      "source": "EL DEBER",
-      "title": "Montero: Cárcel para dos presuntos cómplices del feminicidio de Pamela",
-      "summary": "La Fiscalía sostiene que el principal sospechoso envió mensajes desde el teléfono de Pamela después de su desaparición. Dos familiares del hombre fueron enviados a la cárcel acusados de complicidad",
-      "url": "https://eldeber.com.bo/santa-cruz/montero-carcel-dos-presuntos-complices-feminicidio-pamela_1795816613",
-      "published": "Fri, 27 Nov 2026 21:56:53 GMT"
-    },
-    {
-      "category": "Bolivia",
-      "source": "EL DEBER",
-      "title": "Searpi prevé en dos semanas cerrar un boquete que desvía el río en San Pedro y amenaza a Hardeman",
-      "summary": "El equipo técnico inspeccionó la zona de Litoral, en San Pedro, y prevé completar las intervenciones de emergencia durante las próximas dos semanas. Se proyectan erogar Bs 32 millones para obras de protección de riberas en el municipio",
-      "url": "https://eldeber.com.bo/santa-cruz/searpi-preve-dos-semanas-cerrar-boquete-desvia-rio-san-pedro-amenaza-hardeman_1795816604",
-      "published": "Fri, 27 Nov 2026 21:56:44 GMT"
     },
     {
       "category": "Mundo",
@@ -392,14 +400,6 @@
       "summary": "El presidente de Ucrania expresa su frustración con Estados Unidos y dice que es \"extraño\" que Trump haya descrito a Vladimir Putin como un amigo.",
       "url": "https://www.bbc.com/mundo/articles/cqvg2vv9mzmwo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 27 Nov 2026 14:51:33 GMT"
-    },
-    {
-      "category": "Mundo",
-      "source": "BBC Mundo",
-      "title": "\"No estaría aquí si no fuera por usted\": el conmovedor encuentro de una joven con el hombre que la salvó de un ataque con cuchillo en un tren",
-      "summary": "Crean y Astrid se conocieron en medio de una emergencia: un ataque con cuchillo en un tren.",
-      "url": "https://www.bbc.com/mundo/articles/cv5y1pxjpj9lo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 27 Nov 2026 13:39:17 GMT"
     },
     {
       "category": "Mundo",
