@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-28T11:46:32.784361+00:00",
+  "updated": "2026-11-28T12:55:28.141456+00:00",
   "items": [
     {
       "category": "Mundo",
@@ -8,14 +8,6 @@
       "summary": "Jane Collins casi había perdido la esperanza de ver a Michael Donovan y Richard Moore comparecer ante la justicia. Entonces fueron acusados de robar al hermano de un autor de un tiroteo masivo.",
       "url": "https://www.bbc.com/mundo/articles/c6174wy0l54eo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 25 Nov 2026 23:49:27 GMT"
-    },
-    {
-      "category": "Mundo",
-      "source": "BBC Mundo",
-      "title": "Kilmar Ábrego García abandona EE.UU. y viaja a España tras una larga batalla legal para evitar ser deportado de nuevo",
-      "summary": "Ábrego se convirtió en un símbolo de la resistencia en contra de la persecución del gobierno de EE.UU. en contra de los inmigrantes indocumentados.",
-      "url": "https://www.bbc.com/mundo/articles/c6y80kp45gv2o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 25 Nov 2026 13:32:58 GMT"
     },
     {
       "category": "Mundo",
@@ -56,14 +48,6 @@
       "summary": "El regreso de Huang al frente de Nvidia no garantiza ningún alivio para Pekín, pero si le da pistas sobre cómo tratar a Trump.",
       "url": "https://www.bbc.com/mundo/articles/cr930kp5eq12o?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 24 Nov 2026 16:48:51 GMT"
-    },
-    {
-      "category": "Mundo",
-      "source": "BBC Mundo",
-      "title": "\"No creo que el narcotráfico sea invencible, pero en la práctica lo es para quienes hoy gobiernan\": por qué la violencia persiste en Colombia 10 años después del acuerdo de paz",
-      "summary": "El acuerdo con las FARC, elogiado en el extranjero, es constantemente atacado dentro de Colombia y no termina de consolidarse, ¿Por qué? ¿Hay algo en la historia del país que explique la continua violencia?",
-      "url": "https://www.bbc.com/mundo/articles/cwzr53jr1xnpo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 24 Nov 2026 12:30:34 GMT"
     },
     {
       "category": "Mundo",
@@ -130,6 +114,38 @@
       "published": "Thu, 26 Nov 2026 02:44:48 GMT"
     },
     {
+      "category": "Mundo",
+      "source": "BBC Mundo",
+      "title": "De España a Uruguay, la herramienta interactiva que permite ver la crisis global de vivienda país por país (y las posibles soluciones)",
+      "summary": "Analizamos por qué la vivienda se ha vuelto inaccesible para muchos a través de historias de España, Nigeria e India, entrevistas con expertos y datos interactivos.",
+      "url": "https://www.bbc.com/mundo/articles/cjwy5vr4359xo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 28 Nov 2026 12:49:14 GMT"
+    },
+    {
+      "category": "Bolivia",
+      "source": "EL DEBER",
+      "title": "La Gobernación firma un acuerdo con la compañía del dólar digital más usado del mundo",
+      "summary": "Prevén que el acuerdo abra un trabajo conjunto en formación de talento digital, modernización de la gestión pública, pagos, inversión e innovación en Santa Cruz",
+      "url": "https://eldeber.com.bo/santa-cruz/gobernacion-firma-acuerdo-compania-dolar-digital-usado-mundo_1795869834",
+      "published": "Sat, 28 Nov 2026 12:43:54 GMT"
+    },
+    {
+      "category": "Mundo",
+      "source": "BBC Mundo",
+      "title": "El Tribunal del Mar rechaza el reclamo de Argentina para frenar Sea Lion, el proyecto petrolero británico en las islas Malvinas/Falkland",
+      "summary": "El gobierno de Javier Milei ha calificado el proyecto como un \"peligro claro y urgente\" que permitiría afianzar la \"ocupación\" de las islas.",
+      "url": "https://www.bbc.com/mundo/articles/ck7v21npjpz5o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 28 Nov 2026 12:28:05 GMT"
+    },
+    {
+      "category": "Bolivia",
+      "source": "EL DEBER",
+      "title": "Sobreviviente del accidente de LaMia: \"Me quedan los recuerdos bonitos y malos, ahora espero la oportunidad para volver a volar\"",
+      "summary": "La azafata de vuelo que sobrevivió a la tragedia de LaMia pasó terapias, atenciones médicas y un proceso largo que le permitieron volver a ser tripulante de cabina, pero hoy está dedicada a su familia y espera una segunda oportunidad para volver a volar",
+      "url": "https://eldeber.com.bo/pais/sobreviviente-accidente-lamia-me-quedan-recuerdos-bonitos-malos-ahora-espero-oportunidad-volver-volar_1795868169",
+      "published": "Sat, 28 Nov 2026 12:16:09 GMT"
+    },
+    {
       "category": "Bolivia",
       "source": "EL DEBER",
       "title": "Bs 11,90, el valor de la divisa norteamericana para el fin de semana",
@@ -152,6 +168,22 @@
       "summary": "Al parecer, la temperatura corporal promedio de los seres humanos solía ser más alta que ahora. Los científicos aún investigan la razón exacta.",
       "url": "https://www.bbc.com/mundo/articles/c62kek7gyy3qo?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 28 Nov 2026 11:33:29 GMT"
+    },
+    {
+      "category": "Bolivia",
+      "source": "EL DEBER",
+      "title": "Costa Rica \"ya no es una democracia\", estima el exfiscal Dall’Anese tras el rechazo a Francesca Albanese",
+      "summary": "La relatora de la ONU Francesca Albanese rechazó tajantemente las acusaciones que la vinculan con el terrorismo",
+      "url": "https://eldeber.com.bo/rfi/costa-rica-no-democracia-estima-exfiscal-dall-anese-rechazo-francesca-albanese_1795864604",
+      "published": "Sat, 28 Nov 2026 11:16:44 GMT"
+    },
+    {
+      "category": "Bolivia",
+      "source": "EL DEBER",
+      "title": "Cómo \"Los viajes de Gulliver\" han logrado encantar tanto a niños como adultos por 300 años, a pesar de retratar lo peor de la humanidad",
+      "summary": "Sus elementos fantásticos cautivaron a los lectores jóvenes, mientras que sus cínicas burlas de la humanidad atrajeron a los intelectuales. El escritor y filósofo francés Voltaire, quien estaba en Londres, disfrutó enormemente de la obra, la cual influyó en su propia novela satírica \"Cándido\"",
+      "url": "https://eldeber.com.bo/bbc/viajes-gulliver-han-logrado-encantar-tanto-ninos-adultos-300-anos-pesar-retratar-peor-humanidad_1795864141",
+      "published": "Sat, 28 Nov 2026 11:09:01 GMT"
     },
     {
       "category": "Mundo",
@@ -192,6 +224,46 @@
       "summary": "En las calles de Sevilla se ven a menudo parejas frente a las vitrinas de las inmobiliarias haciendo cuentas, para comprar o hacer esa mudanza deseada... Un escenario que se vive en casi todo el país y que gane quien gane en estas elecciones, será un tema obligatorio en la agenda de Gobierno",
       "url": "https://eldeber.com.bo/rfi/espana-vivienda-reto-pendiente-gran-tema-elecciones_1795857277",
       "published": "Sat, 28 Nov 2026 09:14:37 GMT"
+    },
+    {
+      "category": "Bolivia",
+      "source": "EL DEBER",
+      "title": ". Palmeiras y Estudiantes van por la gloria eterna en una final histórica de Libertadores",
+      "summary": "Palmeiras y Estudiantes de La Plata se enfrentarán este sábado en el estadio Centenario de Montevideo por la gloria eterna de la Copa Libertadores. Brasileños y argentinos buscarán ampliar su historia en el máximo torneo continental, en una final que promete emociones, tribunas colmadas y un duelo entre dos históricos del fútbol sudamericano.",
+      "url": "https://eldeber.com.bo/deportes/palmeiras-estudiantes-van-gloria-eterna-final-historica-libertadores_1795845005",
+      "published": "Sat, 28 Nov 2026 05:50:05 GMT"
+    },
+    {
+      "category": "Bolivia",
+      "source": "EL DEBER",
+      "title": "Uruguay aplastó a Bolivia por 8-0 en un amistoso femenino en Santa Cruz",
+      "summary": "La selección boliviana femenina sufrió una contundente goleada ante Uruguay en el estadio Tahuichi Aguilera. Ambos equipos volverán a enfrentarse este lunes 30 de noviembre, en el mismo escenario.",
+      "url": "https://eldeber.com.bo/deportes/uruguay-aplasto-bolivia-8-0-amistoso-femenino-santa-cruz_1795844815",
+      "published": "Sat, 28 Nov 2026 05:46:55 GMT"
+    },
+    {
+      "category": "Bolivia",
+      "source": "EL DEBER",
+      "title": "Guabirá quiere dar pasos agigantados hacia la clasificación a costa de la ‘U’",
+      "summary": "Guabirá recibe este sábado a Universitario de Vinto (17:15) con la misión de acercarse a un torneo internacional. Antes, GV San José enfrenta a Nacional Potosí (15:00) en el estadio Jesús Bermúdez.",
+      "url": "https://eldeber.com.bo/deportes/guabira-quiere-dar-pasos-agigantados-clasificacion-costa_1795844534",
+      "published": "Sat, 28 Nov 2026 05:42:14 GMT"
+    },
+    {
+      "category": "Bolivia",
+      "source": "EL DEBER",
+      "title": "Blooming busca recuperación y apelará a su gente el domingo",
+      "summary": "La academia cruceña cerrará prácticas este sábado en su sede y contará con varios retornos de habituales titulares, quienes ya cumplieron sus respectivas suspensiones. El equipo de Cristian Paulucci necesita sumar de a tres para mantener con vida su lucha por un torneo internacional.",
+      "url": "https://eldeber.com.bo/deportes/blooming-busca-recuperacion-apelara-gente-domingo_1795844449",
+      "published": "Sat, 28 Nov 2026 05:40:49 GMT"
+    },
+    {
+      "category": "Bolivia",
+      "source": "EL DEBER",
+      "title": "La reserva de Oriente va por la heroica ante Nacional en Potosí",
+      "summary": "Ante la ausencia del primer plantel, que finalmente no viaja por el incumplimiento en el pago de salarios adeudados, la reserva albiverde asume la responsabilidad de visitar a Nacional Potosí.",
+      "url": "https://eldeber.com.bo/deportes/reserva-oriente-va-heroica-nacional-potosi_1795844355",
+      "published": "Sat, 28 Nov 2026 05:39:15 GMT"
     },
     {
       "category": "Bolivia",
@@ -268,30 +340,6 @@
     {
       "category": "Bolivia",
       "source": "EL DEBER",
-      "title": "Hallan un arsenal de armas, municiones y chalecos antibalas en dos condominios de Santa Cruz",
-      "summary": "Los operativos se realizaron en dos condominios de la zona norte de Santa Cruz. También se incautaron chalecos antibalas, equipos de comunicación, municiones y vehículos",
-      "url": "https://eldeber.com.bo/santa-cruz/hallan-arsenal-armas-municiones-chalecos-antibalas-dos-condominios-santa-cruz_1795828544",
-      "published": "Sat, 28 Nov 2026 01:15:44 GMT"
-    },
-    {
-      "category": "Bolivia",
-      "source": "EL DEBER",
-      "title": "Independiente goleó a Real Oruro y se mete en la pelea internacional",
-      "summary": "Independiente derrotó 4-1 a Real Oruro la noche de este viernes en el estadio Olímpico Patria, en el inicio de la fecha 27 del torneo todos contra todos. El equipo chuquisaqueño reaccionó después del empate y terminó imponiéndose con autoridad para llegar a 34 puntos y quedar a solo dos unidades de la zona de clasificación internacional.",
-      "url": "https://eldeber.com.bo/deportes/independiente-goleo-real-oruro-mete-pelea-internacional_1795828149",
-      "published": "Sat, 28 Nov 2026 01:09:19 GMT"
-    },
-    {
-      "category": "Bolivia",
-      "source": "EL DEBER",
-      "title": "Tarija ofrece turismo, vino y productos como atractivo para los visitantes británicos",
-      "summary": "Tarija será la sede para el King's Birthday Party., una celebración que se enmarca en los 186 años de relación bilateral entre el Reino Unido y Bolivia",
-      "url": "https://eldeber.com.bo/tarija/tarija-ofrece-turismo-vino-productos-atractivo-visitantes-britanicos_1795827313",
-      "published": "Sat, 28 Nov 2026 00:55:13 GMT"
-    },
-    {
-      "category": "Bolivia",
-      "source": "EL DEBER",
       "title": "Combustibles en Bolivia: del ajuste improvisado a una política racional de precios",
       "summary": "",
       "url": "https://eldeber.com.bo/opinion/combustibles-bolivia-ajuste-improvisado-politica-racional-precios_1795826408",
@@ -304,14 +352,6 @@
       "summary": "",
       "url": "https://eldeber.com.bo/opinion/realpolitik-nuestra-relacion-chile_1795826193",
       "published": "Sat, 28 Nov 2026 00:36:33 GMT"
-    },
-    {
-      "category": "Bolivia",
-      "source": "EL DEBER",
-      "title": "Los enormes beneficios que solemos pasar por alto de comer en compañía",
-      "summary": "Investigadores de Tokio encontraron que las personas de entre 65 y 74 años que vivían con sus familias, pero comían solas, tenían cinco veces más probabilidades de desarrollar síntomas depresivos que las que regularmente comían en compañía",
-      "url": "https://eldeber.com.bo/bbc/enormes-beneficios-solemos-pasar-alto-comer-compania_1795826014",
-      "published": "Sat, 28 Nov 2026 00:33:34 GMT"
     },
     {
       "category": "Mundo",
@@ -336,46 +376,6 @@
       "summary": "",
       "url": "https://eldeber.com.bo/opinion/tragedia-tercera-edad-bolivia_1795825584",
       "published": "Sat, 28 Nov 2026 00:26:24 GMT"
-    },
-    {
-      "category": "Bolivia",
-      "source": "EL DEBER",
-      "title": "Aprehenden al director de Régimen Penitenciario de Santa Cruz por presuntos cobros irregulares",
-      "summary": "El director de Régimen Penitenciario fue aprehendido tras declarar ante la Fiscalía de Delitos Económicos. La denuncia señala presuntas exigencias de dinero a funcionarios y personas que realizaban trámites penitenciarios",
-      "url": "https://eldeber.com.bo/santa-cruz/aprehenden-director-regimen-penitenciario-santa-cruz-presuntos-cobros-irregulares_1795825547",
-      "published": "Sat, 28 Nov 2026 00:25:47 GMT"
-    },
-    {
-      "category": "Bolivia",
-      "source": "EL DEBER",
-      "title": "Destinan Bs 24 millones para atender las emergencias por los fenómenos naturales en 87 municipios de La Paz",
-      "summary": "Bs 8 millones serán destinados a obras de reconstrucción y Bs 16 millones para la adquisición de materiales para atender a los municipios afectados por inundaciones y sequías",
-      "url": "https://eldeber.com.bo/pais/destinan-bs-24-millones-atender-emergencias-fenomenos-naturales-87-municipios-paz_1795825479",
-      "published": "Sat, 28 Nov 2026 00:24:39 GMT"
-    },
-    {
-      "category": "Bolivia",
-      "source": "EL DEBER",
-      "title": "Justiniano propone reactivar operativos conjuntos con Perú y ampliar la cooperación contra el crimen organizado",
-      "summary": "El ministro también manifestó que Bolivia busca fortalecer su participación en los espacios internacionales de cooperación en Seguridad y Defensa, ampliando el trabajo conjunto con Perú, pero bajo el respeto a la soberanía de ambos Estados",
-      "url": "https://eldeber.com.bo/pais/justiniano-propone-reactivar-operativos-conjuntos-peru-ampliar-cooperacion-crimen-organizado_1795824414",
-      "published": "Sat, 28 Nov 2026 00:06:54 GMT"
-    },
-    {
-      "category": "Deportes",
-      "source": "EL DEBER",
-      "title": "Bolivia y Argentina se enfrentarán por el tercer puesto del Mundial de Talla Baja",
-      "summary": "Ambas selecciones quedaron fuera de la final. La Albiceleste perdió 4-1 ante Paraguay, mientras que la Verde cayó frente al anfitrión Marruecos.",
-      "url": "https://eldeber.com.bo/deportes/bolivia-argentina-enfrentaran-tercer-puesto-mundial-talla-baja_1795824221",
-      "published": "Sat, 28 Nov 2026 00:03:41 GMT"
-    },
-    {
-      "category": "Bolivia",
-      "source": "EL DEBER",
-      "title": "Bolivia y Perú sellan cuatro acuerdos y reactivan sus relaciones diplomáticas tras cinco años",
-      "summary": "El presidente boliviano calificó de exitoso el encuentro binacional en Lima, donde se firmaron cuatro acuerdos y se retomaron las relaciones diplomáticas tras cinco años de distanciamiento. También planteó impulsar la producción nacional y aprovechar la infraestructura portuaria peruana",
-      "url": "https://eldeber.com.bo/pais/bolivia-peru-sellan-cuatro-acuerdos-reactivan-relaciones-diplomaticas-cinco-anos_1795820966",
-      "published": "Fri, 27 Nov 2026 23:09:26 GMT"
     },
     {
       "category": "Mundo",
